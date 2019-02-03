@@ -19,6 +19,14 @@
 - `⌘J`: Fix Width (E.g., a comment)
 - `⌃⌘O`: Show object explorer
 
+## Presets
+
+Using `presets` object with the mouse:
+
+- `⇧-click`: Save current preset
+- `click`: Restore preset
+- `⇧⌥-click`: Delete preset
+
 ## Notes
 
 * To turn on "Snap to Grid", find the option in the "Patcher Inspector".
