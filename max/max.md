@@ -13,7 +13,7 @@
 
 ### Keyboard
 
-- `⇧⌘I`: Open "Patcher Window"
+- `⇧⌘I`: Open "Inspector Window"
 - `⌘'`: Name (or access from the object menu)
 - `⌘Y`: Auto-align
 - `⌘J`: Fix Width (E.g., a comment)
@@ -27,6 +27,14 @@ Using `presets` object with the mouse:
 - `click`: Restore preset
 - `⇧⌥-click`: Delete preset
 
-## Notes
+## Templates
 
-* To turn on "Snap to Grid", find the option in the "Patcher Inspector".
+Default values that are changed for a template (to be similar to Max for Live). All of these values can be changed under the "Inspector Window" ( `⇧⌘I`):
+
+- **Grid Size**: `8. 8.`
+- **Default Font Name**: `Arial Bold`
+- **Default Font Size**: `10`
+- **Snap to Grid on Open**: On
+- **Snap to Objects on Open**: Off
+
+The default template can be changed in "Preferences" -> "Default Patcher Template".
