@@ -38,3 +38,7 @@ Default values that are changed for a template (to be similar to Max for Live). 
 - **Snap to Objects on Open**: Off
 
 The default template can be changed in "Preferences" -> "Default Patcher Template".
+
+## Initial Window Size
+
+To set the window size and position, select "Definite Initial Window Location".
