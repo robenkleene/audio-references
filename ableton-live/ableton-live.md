@@ -14,3 +14,9 @@
 ## Tips & Tricks
 
 * Hold `⌘` and drag to a sample slot in a Drum Rack: Automatically inserts an intermediary instrument rack.
+
+## Sample Playback
+
+The easiest way to playback a sample unmodified is to use "Sampler" and set "Scale" to `0%`, set the release manually to a longer length than the sample.
+
+Generally with samplers, playing `C3` will play the note at native speed.
