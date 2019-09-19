@@ -2,6 +2,9 @@
 
 ## Mouse
 
+
+- `⌘-double-click` object: Open `bpatcher`
+- `⌥-click` object: Open help
 - `⌘-click` white space: Unlock/Lock Window
 - `⌥-drag`: To select patch cords
 - `⌥-drag` from any object: To duplicate it
