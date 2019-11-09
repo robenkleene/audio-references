@@ -5,6 +5,21 @@
 * `fn←`: Move the playhead to beginning of track
 * `F9`: Record
 
+## Keyboard Piano
+
+- `z`: Down octave
+- `x`: Up octave
+
+## Collections
+
+Change focus with the arrow keys.
+
+### Hot-Swap mode
+
+`q`: Toggle hot-swap mode
+
+When in hot-swap mode, you can navigate samples with the arrow keys and hit enter to load them in the current instrument. This works for sample packs, and individual samples.
+
 ## Recording
 
 ### Arrange View
