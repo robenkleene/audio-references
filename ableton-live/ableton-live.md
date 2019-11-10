@@ -42,6 +42,7 @@ Methods for getting focusing to the browser:
 	|----'-,-',--'--,'---'---'---'---'---'---'-,-'---',--,------|
 	|      |  |     |                          |      |  |      |
 	'------'  '-----'--------------------------'------'  '------'
+	AWSEDFTG YHUJK-LO
 
 ## Collections
 
