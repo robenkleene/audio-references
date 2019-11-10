@@ -59,7 +59,11 @@ When in hot-swap mode, you can navigate samples with the arrow keys and hit ente
 
 * To prevent a track from being recorded over, I guess click the little arrow on the right of the track? This might be the "Return to Arrangement" button?
 
-## Tips & Tricks
+## Audio Effect Rack
+
+- `⌘G`: Group selected effects into an audio effect rack.
+
+## Drum Rack
 
 * Hold `⌘` and drag to a sample slot in a Drum Rack: Automatically inserts an intermediary instrument rack.
 
@@ -68,3 +72,7 @@ When in hot-swap mode, you can navigate samples with the arrow keys and hit ente
 The easiest way to playback a sample unmodified is to use "Sampler" and set "Scale" to `0%`, set the release manually to a longer length than the sample.
 
 Generally with samplers, playing `C3` will play the note at native speed.
+
+## Trimming Samples & Saving Clips
+
+- Just freeze the track and it will be a `wav` file in the project folder, that you can copy somewhere else to save.
