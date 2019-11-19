@@ -5,6 +5,18 @@
 * `fn←`: Move the playhead to beginning of track
 * `F9`: Record
 
+## Transport
+
+- Click on a track in the arrange view to place the Insert Marker
+- `space`: Play from the Insert Marker
+- `shift-space`: Play from the play head position
+
+### Arrange View
+
+These shortcuts only work in the arrange view.
+
+- `HOME` / `END`: Move the Insert Marker to the beginning or end of the track
+
 ## Focus
 
 ### Browser
