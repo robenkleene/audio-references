@@ -92,3 +92,6 @@ Generally with samplers, playing `C3` will play the note at native speed.
 
 - Just freeze the track and it will be a `wav` file in the project folder, that you can copy somewhere else to save.
 
+## Simpler
+
+- When in slice mode, the slices start at C1.
