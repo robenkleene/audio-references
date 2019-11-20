@@ -95,3 +95,4 @@ Generally with samplers, playing `C3` will play the note at native speed.
 ## Simpler
 
 - When in slice mode, the slices start at C1.
+- Hit the arrow in the upper-left to get a larger view of the sample.
