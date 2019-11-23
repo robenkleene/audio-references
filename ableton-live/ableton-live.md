@@ -80,7 +80,8 @@ When in hot-swap mode, you can navigate samples with the arrow keys and hit ente
 
 ## Drum Rack
 
-* Hold `⌘` and drag to a sample slot in a Drum Rack: Automatically inserts an intermediary instrument rack.
+- Pan and individual volume controls are available under "Show/Hide Chain List"
+- Hold `⌘` and drag to a sample slot in a Drum Rack: Automatically inserts an intermediary instrument rack.
 
 ## Sample Playback
 
