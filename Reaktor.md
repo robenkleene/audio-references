@@ -14,3 +14,8 @@
 ## Notes
 
 - Lazyfish is the great instrument designer
+
+## Reaktor Blocks
+
+- **Primes**: 23 modules
+- **Base**: 24 modules and 35 preset racks
