@@ -4,17 +4,21 @@
 - `y`: Toggle library
 - `v`: Toggle plugin windows
 - `c`: Toggle loop
+- `e`: Toggle editor
 - `⌘k`: Toggle musical typing
+- `⌘⌫`: Delete track
+
+## MIDI Editing
+
+- `⌘4`: Open the MIDI editor in a new window
+- Clicking a key, selects all notes in that key
+- `⌥↓` / `⌥↑`: Move note up or down
+- `⇧⌥↓` / `⇧⌥↑`: Move note up or down
+- `⌥o`: Toggle playing MIDI notes when they are selected (or click the symbol that looks like a MIDI cable above the piano roll)
 
 ## Plugins
 
 - `[` / `]`: Next and previous preset
-
-## Drummer
-
-- Chose the drummer in the Library
-- Double-click the track to get select the fills, drum pieces, etc... 
-- The instrument can be changed just like any other MIDI instrument
 
 ## ReWire
 
