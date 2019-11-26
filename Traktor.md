@@ -1,5 +1,6 @@
 # Traktor
 
+- `⇧←` / `⇧→`: Load into right and left deck
 - `q`: Deck 1 Play
 - `a`: Deck 2 Play
 
