@@ -8,6 +8,10 @@
 - `⌘k`: Toggle musical typing
 - `⌘⌫`: Delete track
 
+## Looping Regions
+
+For some reason you can only drag to loop regions when automation isn't visible (Toggle automation with `a`).
+
 ## MIDI Editing
 
 - `⌘4`: Open the MIDI editor in a new window
