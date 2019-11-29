@@ -15,3 +15,7 @@ Working on frozen devices that use `bpatcher` is somewhat tedious, here's the pr
 3. Make changes
 4. Open the device in Live again and freeze again
 5. Merge the branch
+
+## Presets
+
+When restoring presets, if there's a problem with loading garbage values that's usually because the `pattr` variables, e.g., not being set as `blob`.
