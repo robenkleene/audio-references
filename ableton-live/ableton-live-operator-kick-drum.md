@@ -1,5 +1,10 @@
 # Ableton Live Kick Drum
 
+Operator is better than analog for a kick drum because it has a `Fixed` option.
+
+1. Turn off modulation so you can hear the oscillators alone (click the four color boxes in the lower right, and select the four isolated boxes arranged horizontally).
+2. Turn off all the oscillators except for the first.
+
 ## Setup the MIDI Track
 
 1. Create a midi clip (click an empty clip square in a MIDI track)
