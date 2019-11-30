@@ -93,13 +93,6 @@ Generally with samplers, playing `C3` will play the note at native speed.
 
 - Just freeze the track and it will be a `wav` file in the project folder, that you can copy somewhere else to save.
 
-## Simpler
-
-- A simple way to stop Simpler from transposing the sample is to just wrap it in a Drum Rack.
-- When in slice mode, the slices start at C1.
-- Hit the arrow in the upper-left to get a larger view of the sample.
-- To group to a drum rack, right-click and select "Group to Drum Rack".
-
 ## Clips
 
 ### Warp Markers
