@@ -4,6 +4,7 @@
 * `⌘F`: Perform a search in the browser, from here the arrow keys can also be used to navigate the browser
 * `fn←`: Move the playhead to beginning of track
 * `F9`: Record
+* `⌥space`: Play selection
 
 ## Transport
 
@@ -72,7 +73,8 @@ When in hot-swap mode, you can navigate samples with the arrow keys and hit ente
 
 ### Arrange View
 
-* To prevent a track from being recorded over, I guess click the little arrow on the right of the track? This might be the "Return to Arrangement" button?
+- When an audio in the arrange view can't be heard, click "Return to Arrangement" in the upper right of the tracks
+- Clicking "Return to Arrangement" will also prevent an audio track from being recorded over by clips
 
 ## Audio Effect Rack
 
@@ -99,3 +101,7 @@ Generally with samplers, playing `C3` will play the note at native speed.
 
 - Double-click to create a warp marker
 - Shift drag on the audio to move the audio under the warp marker
+
+## Scrubbing
+
+You can scrub audio by turning off quantization (`⌘0`) and moving the cursor above the waveform until it becomes a cursor icon.
