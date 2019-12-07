@@ -4,19 +4,14 @@ If the edit button is missing, go to "Preferences > Advanced" and enable "Advanc
 
 ## Make an Instrument
 
-To quickly make an instrument:
+The EXS24 has very flexible ways of working, this method is for making sample instruments that can than be imported into other platforms. There are other methods of saving instruments that for example prioritizing samples only being in a single location, this method prioritizes packaging up samples.
 
 1. Open EXS24 and click the edit button in the upper left
 2. Drag samples onto each key
+3. Export the samples and save the instrument files: Go to "Instrument > Export Sampler Instrument and Sample Files", note that the instrument should be exported into the default `~/Music/Audio Music Apps/Sampler Instruments` path, otherwise they won't work to load back into the EXS24.
 
-Once the instrument has been setup, there are two options for saving it:
+To load the instrument back into the EXS24 in Logic, just click the loaded preset in the display and select it.
 
-- Save using the existing sample locations: Go to "Instrument > Save" to save the `.exs` file.
-- Export the samples and save the instrument files: Go to "Instrument > Export Sampler Instrument and Sample Files"
+## Ableton Live Import
 
-Note that after exporting, you can't move the location of the samples, they're absolute references, not relative references.
-
-It's the same process in reverse to open the `.exs` file:
-
-1. Open EXS24 and click the edit button
-2. Go to "Instrument > Open" and select the `.exs` file
+To import the instrument into Ableton Live, since we usually just want to use the kit for a single project, the best method is to first copy the `.exs` file and samples into the Ableton Live project folder, so that that the samples are saved with the project. Then drag the `.exs` file into Ableton to import. After importing and loading the instrument as a Sampler track, there will be a file at `~/Music/Ableton/User Library/Sampler/Imports` which can simply be deleted.
