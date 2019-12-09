@@ -15,3 +15,7 @@ To load the instrument back into the EXS24 in Logic, just click the loaded prese
 ## Ableton Live Import
 
 To import the instrument into Ableton Live, since we usually just want to use the kit for a single project, the best method is to first copy the `.exs` file and samples into the Ableton Live project folder, so that that the samples are saved with the project. Then drag the `.exs` file into Ableton to import. After importing and loading the instrument as a Sampler track, there will be a file at `~/Music/Ableton/User Library/Sampler/Imports` which can simply be deleted.
+
+## AudioLayer Import
+
+To import to AudioLayer, in the iOS Files app, copy the folder with the `.exs` file and samples into the AudioLayer `import` folder. Then open the `.exs` file in the import folder from Files.
