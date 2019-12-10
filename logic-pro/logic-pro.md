@@ -33,3 +33,7 @@ For some reason you can only drag to loop regions when automation isn't visible 
 ## Library Content
 
 - The library content can be deleted from "About this Mac" -> "Storage" -> "Manage" -> "Music Creation"
+
+## Frequency
+
+The Channel EQ and MultiMeter both have a frequency analyzer.

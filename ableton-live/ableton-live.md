@@ -105,3 +105,7 @@ Generally with samplers, playing `C3` will play the note at native speed.
 ## Scrubbing
 
 You can scrub audio by turning off quantization (`⌘0`) and moving the cursor above the waveform until it becomes a cursor icon.
+
+## MIDI Editing
+
+- `⌘1` / `⌘2`: Narrow / widen grid
