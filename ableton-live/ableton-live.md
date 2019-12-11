@@ -109,3 +109,7 @@ You can scrub audio by turning off quantization (`⌘0`) and moving the cursor a
 ## MIDI Editing
 
 - `⌘1` / `⌘2`: Narrow / widen grid
+
+## Recording
+
+- To record an audio clip of specific length: Set the quantize amount to the amount you want to record (e.g., "1 bar"). Hit record, then hit the stop button for that clip immediately. The clip recording will stop automatically after the quantize amount finishes.
