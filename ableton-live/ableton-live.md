@@ -112,4 +112,4 @@ You can scrub audio by turning off quantization (`⌘0`) and moving the cursor a
 
 ## Recording
 
-- To record an audio clip of specific length: Set the quantize amount to the amount you want to record (e.g., "1 bar"). Hit record, then hit the stop button for that clip immediately. The clip recording will stop automatically after the quantize amount finishes.
+- To record an audio clip of specific length: Set the quantize amount to the amount you want to record (e.g., "1 bar"). Hit record, then hit the stop button (or the same clips play button again) for that track immediately. The clip recording will stop automatically after the quantize amount finishes.
