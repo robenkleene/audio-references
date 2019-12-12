@@ -44,3 +44,8 @@ For some reason you can only drag to loop regions when automation isn't visible 
 ## Frequency
 
 The Channel EQ and MultiMeter both have a frequency analyzer.
+
+## MIDI
+
+- To import MIDI with the time signature and tempo information, use "File > Open" and select the MIDI file, this will create a new project.
+- To just import the MIDI tracks, use "File > Import".
