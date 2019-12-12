@@ -1,5 +1,7 @@
 # Logic Pro
 
+## Basic
+
 - `x`: Toggle mixer
 - `y`: Toggle library
 - `v`: Toggle plugin windows
@@ -7,6 +9,11 @@
 - `e`: Toggle editor
 - `⌘k`: Toggle musical typing
 - `⌘⌫`: Delete track
+
+## Playback
+
+- `↩`: Go to beginning
+- `␣`: Play
 
 ## Looping Regions
 
