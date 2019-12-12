@@ -1,8 +1,14 @@
 # Garage Band iOS
 
+- You have to record something in order to get the track view visible.
 - Tap and hold to select multiple notes.
 - It's possible to just holding the MIDI edit button and enter notes with the other hand.
 - In track settings, there's a "Recording" -> "Merge Recording" option to add MIDI notes instead of overwriting, this can't record AudioUnit automation yet unfortunately).
 - To convert a MIDI track to audio, tap the track's instrument and select "Merge".
 - Do add audio from a track to the sampler, drag a piece of audio onto a sampler track.
 - The EQ has a frequency analyzer
+
+## MIDI
+
+- To import a MIDI file, go to the loop browser, and select the file
+- Once the MIDI file is in GarageBand's file browser, tap and hold to drag it onto the project to create the MIDI tracks
