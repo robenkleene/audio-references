@@ -7,6 +7,7 @@
 - To convert a MIDI track to audio, tap the track's instrument and select "Merge".
 - Do add audio from a track to the sampler, drag a piece of audio onto a sampler track.
 - The EQ has a frequency analyzer
+- Turning on Voice Control seems to break all popovers in the app?
 
 ## MIDI
 
