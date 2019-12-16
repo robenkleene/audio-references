@@ -45,3 +45,8 @@ The default template can be changed in "Preferences" -> "Default Patcher Templat
 ## Initial Window Size
 
 To set the window size and position, select "Definite Initial Window Location".
+
+## Special
+
+- In messages `$1`, `$2`, etc... get replaced by arguments in an incoming list.
+- Using `#0` at the start of a variable name gets replaced by a unique identifier at runtime. E.g., to use multiple copies of the same patch that use `send` and `receive`. (Note that this is only `#0`, `#1`, `#2`, etc... behave differently).
