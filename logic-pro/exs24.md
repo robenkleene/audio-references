@@ -19,3 +19,10 @@ To import the instrument into Ableton Live, since we usually just want to use th
 ## AudioLayer Import
 
 To import to AudioLayer, in the iOS Files app, copy the folder with the `.exs` file and samples into the AudioLayer `import` folder. Then open the `.exs` file in the import folder from Files.
+
+## Slicing a Loop
+
+1. Select a region on an audio track and hit `w` to open the audio file editor.
+2. Select "File" in the Audio File Editor, and turn on transient editing, and use the "+" and "-" buttons to change the sensitivity.
+3. Right-click the region and select "Convert to Sampler Instrument"
+4. For drum samples the "Create '1Shot' Zones" options is useful to make the whole sample play, regardless of how long the MIDI note is held down.
