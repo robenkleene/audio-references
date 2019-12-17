@@ -26,3 +26,5 @@ To import to AudioLayer, in the iOS Files app, copy the folder with the `.exs` f
 2. Select "File" in the Audio File Editor, and turn on transient editing, and use the "+" and "-" buttons to change the sensitivity.
 3. Right-click the region and select "Convert to Sampler Instrument"
 4. For drum samples the "Create '1Shot' Zones" options is useful to make the whole sample play, regardless of how long the MIDI note is held down.
+5. Start from the key `C2`, note that it defaults to `C-2`.
+
