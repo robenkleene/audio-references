@@ -4,7 +4,7 @@
 
 - `x`: Toggle mixer
 - `y`: Toggle library
-- `v`: Toggle plugin windows
+- `v`: Hide/show all plugin windows
 - `c`: Toggle loop
 - `e`: Toggle editor
 - `⌘k`: Toggle musical typing
