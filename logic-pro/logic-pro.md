@@ -47,5 +47,9 @@ The Channel EQ and MultiMeter both have a frequency analyzer.
 
 ## MIDI
 
+- `⌥↑` / `⌥↓`: Move the selected MIDI notes up or down.
+
+### Importing
+
 - To import MIDI with the time signature and tempo information, use "File > Open" and select the MIDI file, this will create a new project.
 - To just import the MIDI tracks, use "File > Import".
