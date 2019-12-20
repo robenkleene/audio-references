@@ -43,7 +43,7 @@ For some reason you can only drag to loop regions when automation isn't visible 
 
 ## Frequency
 
-The Channel EQ and MultiMeter both have a frequency analyzer.
+The Channel EQ and MultiMeter (note you can scroll the MultiMeter!) both have a frequency analyzer.
 
 ## MIDI
 
