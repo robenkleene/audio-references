@@ -1,5 +1,9 @@
 # Pure Acid
 
+## Song Mode
+
+- To play patterns in a sequence, hold and then drag over drum pattern or sequencer pattern to play.
+
 ## Seq
 
 - `Pattern` then `Init` to clear
