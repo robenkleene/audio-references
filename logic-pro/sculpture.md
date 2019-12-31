@@ -5,6 +5,8 @@
 
 ## Material Pod
 
+The Material Pod determines the characteristics of the string.
+
 ### Center
 
 - In the "Keyscale" view, the diamonds represent the low and high scaling positions (above or below middle C). The green line is used for lower notes, the blue line is used for higher notes.
@@ -19,3 +21,9 @@
 #### Notes
 
 - Like in the Material Pod, the outer sliders have have green sliders on the inside to control scaling below middle C, and blue sliders on the outside to control scaling above middle C.
+
+## Objects
+
+Objects stimulate the string.
+
+- Change the type of the object with the type menu, e.g., strike vs. bow.
