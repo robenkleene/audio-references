@@ -13,3 +13,7 @@
 
 - To import a MIDI file, go to the loop browser, and select the file
 - Once the MIDI file is in GarageBand's file browser, tap and hold to drag it onto the project to create the MIDI tracks
+
+## Notes
+
+- Playing effects after the visual EQ seems to cause problems
