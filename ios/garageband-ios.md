@@ -16,4 +16,5 @@
 
 ## Notes
 
-- Playing effects after the visual EQ seems to cause problems
+- Playing effects after the visual EQ seems to cause problems?
+- When merged tracks sound completely different it's because their volume needs to be adjusted?
