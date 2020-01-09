@@ -4,6 +4,11 @@
 
 - To see the tracks in the same order as the tracks view, select "Tracks" at the top of the mixer.
 
+## Sends
+
+- Pre fader sends have the volume to the left and blue. Post fader sends have the volume to the right and blue. Post pan have the volume to the right and green.
+- Clicking the send slot can change whether it's pre fader, post fader, or post pan.
+
 ## Groups
 
 - Group tracks by selecting a group in the channel strip in the mixer (show the mixer with `x`).
