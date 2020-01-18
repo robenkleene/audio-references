@@ -10,6 +10,16 @@
 - `⌘k`: Toggle musical typing
 - `⌘⌫`: Delete track
 
+## Zoom
+
+- `⌘←` / `⌘→`: Zoom in and out horizontally
+- `⌘↓` / `⌘↑`: Zoom in and out vertically
+- `⌃⌥-drag`: Drag to zoom
+- `⌃⌥-two-finger-drag`: Zoom in both X and Y
+- `Z`: Toggle zoom to selection
+
+General zoom strategy, put the playhead where you want to zoom in and then use `⌃⌥-two-finger-drag`.
+
 ## Playback
 
 - `↩`: Go to beginning
