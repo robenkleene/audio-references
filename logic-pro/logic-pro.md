@@ -41,6 +41,10 @@ For some reason you can only drag to loop regions when automation isn't visible 
 
 - `[` / `]`: Next and previous preset
 
+## Mixer
+
+If the Solo button `s` has a red line through it that means it's in solo safe mode, to turn that off `⌃click` it.
+
 ## ReWire
 
 - **Playback Mode**: Less CPU, use when not playing an instrument over ReWire (e.g., when you're only using audio routing).
