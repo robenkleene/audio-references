@@ -9,6 +9,12 @@
 - The EQ has a frequency analyzer
 - Turning on Voice Control seems to break all popovers in the app?
 
+## Overdubbing
+
+To make multiple recordings be cumulative, e.g., to turn a knob after recording some MIDI notes, turn on "Merge Recordings":
+
+	"Tracking Settings" > "Recording" > "Merge Recordings"
+
 ## MIDI
 
 - To import a MIDI file, go to the loop browser, and select the file
