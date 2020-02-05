@@ -7,3 +7,7 @@
 ## Pre- & Post- Fader
 
 A send can be pre- or post-fader. Usually you want post-fader, but the pre-fader can sometimes be useful. Pre-fader means that if you lower the track's fader, the output signal of the aux channel strip doesn't change. Another use case for pre-fader is musician specific monitoring, e.g., of their instrument.
+
+## Notes
+
+> Sounds placed on this virtual stage can be positioned anywhere between the left or right ‘walls’ using the pan parameter. They can be positioned at the front or back, or anywhere in between with gain. And the frequency content will determine whether it sits at the top of the stage (high frequencies), the middle (midrange frequencies) or the bottom (low frequencies). Using this as a template, the concept behind approaching a mix is to ensure that each sound occupies its unique space within this stage so that it can not only be heard but so that it also fits well with everything else. To do this, we must subdivide the soundstage into three distinct areas: the front to back perspective, the horizontal perspective, and the vertical perspective.
