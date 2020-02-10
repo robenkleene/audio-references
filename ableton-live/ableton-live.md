@@ -121,3 +121,7 @@ You can scrub audio by turning off quantization (`⌘0`) and moving the cursor a
 ## MIDI
 
 Ableton Live can import multi-track or single-track MIDI files but it can only export single track. To export MIDI, right-click the MIDI clip and select "Export MIDI Clip..."
+
+## Sends
+
+- Whether a send is Pre- or Post- fader is on the master track parallel to the send's knob.
