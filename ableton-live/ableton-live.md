@@ -110,7 +110,7 @@ You can scrub audio by turning off quantization (`⌘0`) and moving the cursor a
 ## MIDI Editing
 
 - `⌘1` / `⌘2`: Narrow / widen grid
-- To preview notes when the MIDI editor is clicked on, turn on "MIDI Editor Preview" with the headphones icon above the piano roll notes.
+- To preview (play) notes when the MIDI editor is clicked on, turn on "MIDI Editor Preview" with the headphones icon above the piano roll notes.
 - To give multiple notes the same velocity, select the notes then drag their velocity to the maximum, then to the desired value.
 - To select all notes in a key, click the note in the piano roll.
 
