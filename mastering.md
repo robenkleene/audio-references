@@ -1,6 +1,12 @@
 # Mastering
 
+## Preparation
+
 - First bring up volume until everything is as close as possible to `0.0db`
+- Make sure instruments that should be panned are panned, kick, snare, and bass should not be panned
+
+## Mastering
+
 - Switch an EQ to mid/sides mode to check the left, right, and middle frequencies.
 - Limiter at `0.09db`, then bring up volume.
 - Create a chain on the track: EQ > Glue Compressor > EQ > Limiter, use a utility before the limiter if you need to boost the volume too much.
