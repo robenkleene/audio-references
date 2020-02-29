@@ -13,3 +13,8 @@
 - Try to create a sound stage, forward, back, and middle.
 - Drag a 200% EQ Eight over the track and look for resonant frequencies, and pull it down
 - Cut out the low frequencies of every track with an EQ eight because they can be muddy
+
+## Steps
+
+1. Add an "EQ Eight" to the master channel, and right-click it's title bar and toggle on "Oversampling".
+2. Switch the left most channel of the "EQ Eight" to a low cut, and set it to `30hz`.
