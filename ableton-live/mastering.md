@@ -17,4 +17,7 @@
 ## Steps
 
 1. Add an "EQ Eight" to the master channel, and right-click it's title bar and toggle on "Oversampling".
-2. Switch the left most channel of the "EQ Eight" to a low cut, and set it to `30hz`.
+2. Switch the left most channel of the "EQ Eight" to a low cut, and set it to around `30hz` to remove any unwanted low frequencies.
+3. Take the third EQ channel, which should have its "Filter Mode" set to "Bell" (icon that looks like capsule), set the "Q" and "Gain" to their maximum values, then sweep through and look for any unwanted resonant frequencies.
+4. Increase the "Scale" to `200%` if it's helpful
+5. Find the most resonant area and reduce it slightly in the EQ, after bringing down the "Q".
