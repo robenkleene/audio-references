@@ -7,7 +7,7 @@
 ## Piano Roll
 
 - You can't quantize already recorded notes
-- To copy MIDI notes: Select them and hit copy, the notes should turn yellow and start flashing, the copies can then be dragged to a new location.
+- To copy MIDI notes: Select them and hit copy (on iPhone, hit the ">>" icon below the piano roll to reveal the "Copy" options), the notes should turn yellow and start flashing, the copies can then be dragged to a new location.
 
 ## Automation
 
