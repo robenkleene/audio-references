@@ -21,3 +21,6 @@
 3. Take the third EQ channel, which should have its "Filter Mode" set to "Bell" (icon that looks like capsule), set the "Q" and "Gain" to their maximum values, then sweep through and look for any unwanted resonant frequencies.
 4. Increase the "Scale" to `200%` if it's helpful
 5. Find the most resonant area and reduce it slightly in the EQ, after bringing down the "Q".
+6. Add a "Glue Compressor", and set the ratio low (to `2`), `1` attack, `4` release, `-5dB` threshold. Adjust the threshold, needle should be between `0` and `5`.
+7. Add a second "EQ Eight", switch this EQ to mid/side mode (`M/S`). Make sure "Edit: `M`" is set for mid.
+8. Set farthest left channel to highpass, and move the frequency to the highest, this removes all the mono information in the center, leaving only the sides.
