@@ -22,5 +22,6 @@
 4. Increase the "Scale" to `200%` if it's helpful
 5. Find the most resonant area and reduce it slightly in the EQ, after bringing down the "Q".
 6. Add a "Glue Compressor", and set the ratio low (to `2`), `1` attack, `4` release, `-5dB` threshold. Adjust the threshold, needle should be between `0` and `5`.
-7. Add a second "EQ Eight", switch this EQ to mid/side mode (`M/S`). Make sure "Edit: `M`" is set for mid.
+7. Add a second "EQ Eight", switch this EQ to mid/side mode (`M/S`). Make sure "Edit: `S`" is set for side. Set the left most channel to low cut and set the frequency to around `150Hz` to get rid of all the stereo low frequency information.
+8. Optional: Switch the second "EQ Eight" to "Edit: `M`" for mid, and dip the highs, and in side mode ("Edit: `S`) up the highs.
 8. Set farthest left channel to highpass, and move the frequency to the highest, this removes all the mono information in the center, leaving only the sides.
