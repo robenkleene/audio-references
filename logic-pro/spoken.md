@@ -9,6 +9,6 @@
 
 ## Effects
 
-EQ > Compressor > Limiter
+Noise Gate > EQ > Compressor > Limiter
 
 Use one of the voice presets for the compressor.
