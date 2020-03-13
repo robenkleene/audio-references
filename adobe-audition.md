@@ -5,3 +5,11 @@
 - `⌥=`: Zoom vertically
 - Drag over the preview with two fingers to zoom
 - `⌘t`: Crop to selection
+
+## Voice Audio
+
+- EQ
+- Normalize
+- Compress
+- Normalize
+
