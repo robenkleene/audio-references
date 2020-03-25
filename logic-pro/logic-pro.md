@@ -29,6 +29,13 @@ General zoom strategy, put the playhead where you want to zoom in and then use `
 
 For some reason you can only drag to loop regions when automation isn't visible (Toggle automation with `a`).
 
+### Removing Clicks
+
+#### Fade Out
+
+- Select the audio
+- In the inspector on the left (toggle with `I`), under "More", enter a "Fade Out" of `1` (for `1ms`).
+
 ## Automation
 
 - Double-click an automation point to delete it.
