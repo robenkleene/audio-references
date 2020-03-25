@@ -25,6 +25,14 @@ General zoom strategy, put the playhead where you want to zoom in and then use `
 - `↩`: Go to beginning
 - `␣`: Play
 
+## Cycle
+
+- `C`: Toggle Cycle
+
+### Tips
+
+- To set the cycle length to the selection, `^click` the Cycle button. (Turn on "Auto Set Locators")
+
 ## Looping Regions
 
 For some reason you can only drag to loop regions when automation isn't visible (Toggle automation with `a`).
