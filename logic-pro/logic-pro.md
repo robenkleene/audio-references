@@ -20,6 +20,10 @@
 
 General zoom strategy, put the playhead where you want to zoom in and then use `⌃⌥-two-finger-drag`.
 
+## Editing
+
+- To select all regions in a track, click the track's header (name).
+
 ## Playback
 
 - `↩`: Go to beginning
