@@ -1,8 +1,18 @@
 # Logic Pro Mixing
 
+- **Send**: The part of a channel strip where you route audio through another channel strip, usually to an "Aux" channel via a "Bus".
+- **Aux**: A channel strip that other channels can send to
+- **Bus**: The wires that route between channel strips
+
 ## Mixer
 
 - To see the tracks in the same order as the tracks view, select "Tracks" at the top of the mixer.
+
+## Buses
+
+Buses can also be used like Aux channel strips, e.g., they can have effects added to them. A bus can be added in the Environment under "New > Channel Strip > Bus".
+
+The environment is only available if the "Preferences > Advanced > MIDI" checkbox is enabled.
 
 ## Sends
 
