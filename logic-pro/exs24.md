@@ -1,6 +1,7 @@
 # EXS24
 
-If the edit button is missing, go to "Preferences > Advanced" and enable "Advanced Editing".
+- If the edit button is missing, go to "Preferences > Advanced" and enable "Advanced Editing".
+- To show a sample in the Finder, use the menu with the disclosure triangle next to the file name.
 
 ## Make an Instrument
 
