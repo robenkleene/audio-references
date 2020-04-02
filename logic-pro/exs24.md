@@ -1,5 +1,6 @@
 # EXS24
 
+- To use the amp envelope, edit the instrument and uncheck the "1Shot" next to each sample.
 - If the edit button is missing, go to "Preferences > Advanced" and enable "Advanced Editing".
 - To show a sample in the Finder, use the menu with the disclosure triangle next to the file name.
 
