@@ -25,6 +25,15 @@ General zoom strategy, put the playhead where you want to zoom in and then use `
 - `⌃M`: Mute Region
 - To select all regions in a track, click the track's header (name).
 
+### Tips
+
+- For some reason you can only drag to loop regions when automation isn't visible (Toggle automation with `a`).
+
+## Automation
+
+- `⌃⌘⌫`: Delete visible automation for region
+- Double-click an automation point to delete it.
+
 ## Playback
 
 - `↩`: Go to beginning
@@ -38,20 +47,12 @@ General zoom strategy, put the playhead where you want to zoom in and then use `
 
 - To set the cycle length to the selection, `^click` the Cycle button. (Turn on "Auto Set Locators")
 
-## Looping Regions
-
-For some reason you can only drag to loop regions when automation isn't visible (Toggle automation with `a`).
-
 ### Removing Clicks
 
 #### Fade Out
 
 - Select the audio
 - In the inspector on the left (toggle with `I`), under "More", enter a "Fade Out" of `1` (for `1ms`).
-
-## Automation
-
-- Double-click an automation point to delete it.
 
 ## MIDI Editing
 
