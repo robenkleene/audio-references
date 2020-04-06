@@ -20,6 +20,16 @@
 
 General zoom strategy, put the playhead where you want to zoom in and then use `⌃⌥-two-finger-drag`.
 
+## Tools
+
+- `T`: Show tools menu
+- Hold `⌃⌥` for zoom tool
+
+### Tools Menu
+
+`T`: Pointer
+`Z`: Zoom
+
 ## Regions
 
 - `⌃M`: Mute Region
