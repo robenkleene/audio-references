@@ -1,4 +1,4 @@
-# Garage Band iOS
+# GarageBand iOS
 
 - You have to record something in order to get the track view visible.
 - Tap and hold to select multiple notes.
