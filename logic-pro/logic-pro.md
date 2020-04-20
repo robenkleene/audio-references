@@ -51,7 +51,7 @@ General zoom strategy, put the playhead where you want to zoom in and then use `
 - `⌃⌘⌫`: Delete visible automation for region
 - Double-click an automation point to delete it.
 
-## Playback
+## Transport
 
 - `↩`: Go to beginning
 - `␣`: Play
