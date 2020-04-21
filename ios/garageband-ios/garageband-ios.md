@@ -24,6 +24,7 @@ To make multiple recordings be cumulative, e.g., to turn a knob after recording 
 
 - Playing effects after the visual EQ seems to cause problems?
 - When merged tracks sound completely different it's because their volume needs to be adjusted?
+- To select all MIDI notes, just tap the background and a “Select All” contextual item will appear.
 
 ## Presets
 
