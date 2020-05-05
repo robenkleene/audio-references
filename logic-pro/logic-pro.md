@@ -41,6 +41,7 @@ General zoom strategy, put the playhead where you want to zoom in and then use `
 
 - `⌃M`: Mute Region
 - To select all regions in a track, click the track's header (name).
+- To select a track, but not the regions, `⌥click` the track
 
 ### Tips
 
