@@ -15,3 +15,4 @@
 
 - Use the "Velocity Tool" and drag vertically on a note.
 - Hold `⌘⌃click` on a note to automatically use the velocity tool on the note.
+- Switch to the "Step Editor" to change the velocity using with visual bars.
