@@ -72,14 +72,6 @@ General zoom strategy, put the playhead where you want to zoom in and then use `
 - Select the audio
 - In the inspector on the left (toggle with `I`), under "More", enter a "Fade Out" of `1` (for `1ms`).
 
-## MIDI Editing
-
-- `⌘4`: Open the MIDI editor in a new window
-- Clicking a key, selects all notes in that key
-- `⌥↓` / `⌥↑`: Move note up or down
-- `⇧⌥↓` / `⇧⌥↑`: Move note up or down
-- `⌥o`: Toggle playing MIDI notes when they are selected (or click the symbol that looks like a MIDI cable above the piano roll)
-
 ## Plugins
 
 - `[` / `]`: Next and previous preset
