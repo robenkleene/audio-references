@@ -6,10 +6,14 @@
 - To edit the interface, click the lock icon
 - Hold `⌘` to add a port to a module
 
+## MIDI Keyboard
+
+- Reaktor's layout when using the computer keyboard as a MIDI keyboard is not documented, but `s` does some key, which is good to know for testing.
+
 ## Modules
 
 - A `macro` is a generic container
-- `1` Increases the keyboard octave, there's apparently no way to lower it?
+- `1` Increases the keyboard octave, there's apparently no way to lower it? (it's supposed to be the key to the left of `1` which is backtick on a MacBook, but it doesn't work)
 
 ## Notes
 
