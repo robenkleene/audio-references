@@ -11,6 +11,11 @@
 - `⇧⌥↓` / `⇧⌥↑`: Move note up or down
 - `⌥o`: Toggle playing MIDI notes when they are selected (or click the symbol that looks like a MIDI cable above the piano roll)
 
+## Notes
+
+- By default, left click is set to the "Pointer Tool" for selecting, and `⌘-click` to set to the "Pencil Tool" for entering notes. So just `⌘-click` to enter notes.
+- You can right-click and select "Create Note" to quickly add a note.
+
 ### Velocity
 
 - Use the "Velocity Tool" and drag vertically on a note.
