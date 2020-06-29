@@ -28,3 +28,9 @@ For example, setting the run mode to FWD for sequences and to RND for the song w
 
 - When ALL is selected, the run mode and length are also copied for a sequence?
 - **4** / **8** / **All**: Pastes to the 4th or 8th step?
+
+## Changing the Sequence via MIDI
+
+- "SEQ #: 1-16" are mapped to `0-10V`
+- The manual says that `C4-D5#` are supposed to be mapped to "SEQ #: 1-16", but in practice that doesn't seem to work.
+- In practice what seems to work is starting from `C3` for `1` and moving up by one octave for each subsequent sequence, e.g., `C4` for `1`,
