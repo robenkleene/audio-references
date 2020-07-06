@@ -40,6 +40,7 @@ General zoom strategy, put the playhead where you want to zoom in and then use `
 ## Regions
 
 - `⌃M`: Mute Region
+- Rename a region in the inspector on the left when a region is selected.
 - To select all regions in a track, click the track's header (name). (Note that if the "Cycle" is active, only the regions in the Cycle will be selected.)
 - To select a track, but not the regions, `⌥click` the track
 
