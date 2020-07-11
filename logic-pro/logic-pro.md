@@ -52,6 +52,7 @@ General zoom strategy, put the playhead where you want to zoom in and then use `
 
 - `⌃⌘⌫`: Delete visible automation for region
 - Double-click an automation point to delete it.
+- There are various options for deleting automation under "Mix > Delete Automation".
 
 ## Transport
 
