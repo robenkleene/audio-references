@@ -6,3 +6,9 @@
 4. Drag an instance of `Spiral.ens` in to replace it. You don't have to wire Spiral to anything since it generates MIDI.
 5. Click "Panel" in the breadcrumbs to go back to the panel view and drag `AKKORD` down below Spiral.
 6. Click Spiral to select it and go to "Properties > Connect" in the sidebar (it should say "Instrument: `Spiral`" up top). In "MIDI OUT", set "Internal: `AKKORD`".
+
+## Presets
+
+1. Set the BPM to `92`
+2. In Spiral, select the 
+3. In Akkord, select the `21 - Berlin in Ghana` snapshot
