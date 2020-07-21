@@ -15,6 +15,10 @@
 - A `macro` is a generic container
 - `1` Increases the keyboard octave, there's apparently no way to lower it? (it's supposed to be the key to the left of `1` which is backtick on a MacBook, but it doesn't work)
 
+## Tips
+
+- If the header isn't visible for an instrument, right-click that instrument and select "Instrument Properties", then in the sidebar, toggle on "View > Show Header".
+
 ## Notes
 
 - Lazyfish is the great instrument designer
