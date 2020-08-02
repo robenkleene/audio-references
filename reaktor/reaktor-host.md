@@ -9,11 +9,16 @@ There are two methods of managing a separate copy:
 
 Factory Ensembles are write protected, so neither of these methods will ever overwrite a factory ensemble.
 
+## Commands
+
+- The Reaktor menu is opened by clicking the triangle to the right of the Reaktor logo.
+- To see the path to the current Ensemble, select "File > Show in Folder" from the Reaktor menu.
+
 ## Manual
 
 To save an Ensemble manually, once a change has been made that requires saving, click the red "Save Ensemble" button in the upper left. If this is the first time you've clicked that button, you'll be prompted for a location to save the Ensemble. (If you click the button again later, it will overwrite the current save location.)
 
-To access the save again to a new location, click the triangle to the right of the Reaktor logo to access a menu that has a "File > Save As…" option.
+To access the save again to a new location, Reaktor menu and select "File > Save As…".
 
 Note: It's unclear if a *User Library* ensemble is loaded, whether the first click to the "Save" icon will prompt for a save location or whether that's only for the Factory Library? As a convention, it's probably a good idea to always save to a new location the first time?
 
