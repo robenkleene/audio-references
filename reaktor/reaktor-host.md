@@ -9,6 +9,18 @@ There are two methods of managing a separate copy:
 
 Factory Ensembles are write protected, so neither of these methods will ever overwrite a factory ensemble.
 
+## States
+
+Reaktor indicates the current state with these icons.
+
+Host saving is on, and the Reaktor ensemble has not been changed.
+
+![Host Save On](assets/reaktor-host-save-on.png)
+
+Host saving is on, and changes exist (these changes will be lost if the host is closed without saving)
+
+![Host Save On Changes](assets/reaktor-host-save-on-changes.png)
+
 ## Commands
 
 - The Reaktor menu is opened by clicking the triangle to the right of the Reaktor logo.
