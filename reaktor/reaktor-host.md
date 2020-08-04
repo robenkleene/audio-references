@@ -13,6 +13,10 @@ Factory Ensembles are write protected, so neither of these methods will ever ove
 
 Reaktor indicates the current state with these icons.
 
+Host saving is off, and the Reaktor ensemble has changes, any changes will be lost if a saving method is not chosen.
+
+![Host Save Off](assets/reaktor-host-save-off.png)
+
 Host saving is on, and the Reaktor ensemble has not been changed.
 
 ![Host Save On](assets/reaktor-host-save-on.png)
