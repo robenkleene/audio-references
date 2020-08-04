@@ -1,5 +1,14 @@
 # Reaktor Host
 
+## Basics
+
+- Parameters changes are always saved with the host project.
+- Some parts of the UI that seem like they should be parameters, are not, like some of the step sequencer interfaces.
+- Other changes, like changes to the structure, or touching some parts of the user interface, will not be saved unless saving it turned on for the ensemble.
+- The red disk icon always means that there are unsaved changes that will be lost if you quick the host application without saving.
+
+## Saving
+
 When running Reaktor within a host, the state of parameters is automatically saved with the host, but snapshots, properties, and changing the structure are not saved. To save these kinds of changes, you'll have to make a separate copy of your ensemble.
 
 There are two methods of managing a separate copy:
