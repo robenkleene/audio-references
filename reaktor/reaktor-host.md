@@ -36,7 +36,7 @@ Host saving is on, and changes exist (these changes will be lost if the host is 
 
 ## Commands
 
-- The Reaktor menu is opened by clicking the triangle to the right of the Reaktor logo.
+- The Reaktor menu is opened by clicking the triangle to the right of the Reaktor logo. (You can also access this menu by right-clicking anywhere on the top bar.)
 - To see the path to the current Ensemble, select "File > Show in Folder" from the Reaktor menu.
 
 ## Manual
