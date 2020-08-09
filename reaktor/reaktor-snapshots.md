@@ -13,7 +13,7 @@
 
 Presets are stored in your "Native Instruments > User Content" folder.
 
-### Add
+It's unclear if a preset file can be stored in another location (such as next to a host project file), presets just aren't used very much so there isn't much information on them, for this reason, we'll stick with snapshots.
 
-- Select "Preset Browser" in the sidebar (`F2`).
-- Select "User"
+## Snapshots
+
