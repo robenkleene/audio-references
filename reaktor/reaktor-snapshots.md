@@ -9,6 +9,8 @@
 
 ## Presets
 
+- Presets cannot be recalled by MIDI via Bank and Program Change Messages, and do not support the "Morph + Randomize" functionality.
+
 ### Files
 
 Presets are stored in your "Native Instruments > User Content" folder.
@@ -17,3 +19,7 @@ It's unclear if a preset file can be stored in another location (such as next to
 
 ## Snapshots
 
+### Add a Snapshot
+
+1. Turn on edit mode, by clicking the "Edit" button.
+2. With the Preset browser selected (`F2`), right-click on "Embedded" and choose "New Bank".
