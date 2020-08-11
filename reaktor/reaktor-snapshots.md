@@ -19,6 +19,10 @@ It's unclear if a preset file can be stored in another location (such as next to
 
 ## Snapshots
 
+### External Snapshot Banks
+
+You can save a Snapshot Bank to an external `.ssf` file, in practice this isn't that useful though, because loading a `.ssf`
+
 ### Add a Snapshot
 
 1. Turn on edit mode, by clicking the "Edit" button.
