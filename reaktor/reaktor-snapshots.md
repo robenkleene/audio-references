@@ -25,11 +25,25 @@ It's unclear if a preset file can be stored in another location (such as next to
 
 ## Snapshots
 
-### External Snapshot Banks
+### Snapshot Banks as Files
 
-You can save a Snapshot Bank to an external `.ssf` file, in practice this isn't that useful though, because loading a `.ssf`
+Snapshot banks can be stored as external `.ssf` files. In practice this isn't that useful though, because loading a `.ssf` modifies the original Ensemble.
 
-### Add a Snapshot
+#### Saving
+
+To save a Snapshot Bank as a `.ssf` file, right-click the bank and select "Save Bank".
+
+#### Loading
+
+To load a Snapshot Bank from an `.ssf` file, right-click an existing bank, or the Embedded header, and select "Load Bank".
+
+(This appears to replace existing banks? Also loaded banks simply don't seem to work reliably, I've had trouble getting the settings to restore.)
+
+### Embedded Snapshot Banks
+
+The only reliable way to add banks appears to be to embed banks in the ensemble.
+
+#### Creating a Bank
 
 1. Turn on edit mode, by clicking the "Edit" button.
 2. With the Preset browser selected (`F2`), right-click on "Embedded" and choose "New Bank".
