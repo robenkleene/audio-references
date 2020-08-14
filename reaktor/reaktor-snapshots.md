@@ -47,3 +47,11 @@ The only reliable way to add banks appears to be to embed banks in the ensemble.
 
 1. Turn on edit mode, by clicking the "Edit" button.
 2. With the Preset browser selected (`F2`), right-click on "Embedded" and choose "New Bank".
+
+#### Creating a Snapshot
+
+1. With the bank to add to selected, create a Snapshot by clicking the `Add` button at the bottom the `Preset Browser` sidebar.
+
+#### Deleting a Snapshot
+
+Right-click the snapshot and select `Delete`.
