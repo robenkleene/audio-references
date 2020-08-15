@@ -3,6 +3,12 @@
 - Snapshots are embedded in the Ensemble file, whereas Presets are external files.
 - Since Snapshots are written into the Ensemble file, the Ensemble must be in edit mode before writing presets.
 
+## Quick Start
+
+How to quickly save and reload Snapshots.
+
+1. In the sidebar, in the `Select Instrument` pop-up menu, select the Ensemble (prefixed with `Ens -`), and disable `Follow instrument selection`.
+
 ## Instruments vs. Ensembles
 
 - Snapshots or Presets can either be saved in Instruments or Ensembles. If an Ensemble has at least one Instrument, when the "Preset Browser" (`F2`) is selected, a dropdown menu will appear at the top. The Ensemble is always at the top and is the name of the Ensemble prefixed with `Ens -`. The list of Instruments in the Ensemble are listed below.
@@ -49,6 +55,8 @@ The only reliable way to add banks appears to be to embed banks in the ensemble.
 2. With the Preset browser selected (`F2`), right-click on "Embedded" and choose "New Bank".
 
 #### Creating a Snapshot
+
+When creating Snapshots, you probably want to first select the Ensemble (prefixed with `Ens -`) from the `Select Instrument` pop-up menu, and disable `Follow instrument selection`. Otherwise it's to easy to add the Snapshot to the wrong instrument. If you're having trouble saving and restoring a snapshot, this is probably the problem.
 
 1. With the bank to add to selected, create a Snapshot by clicking the `Add` button at the bottom the `Preset Browser` sidebar.
 
