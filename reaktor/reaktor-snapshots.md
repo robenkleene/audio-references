@@ -7,7 +7,12 @@
 
 How to quickly save and reload Snapshots.
 
-1. In the sidebar, in the `Select Instrument` pop-up menu, select the Ensemble (prefixed with `Ens -`), and disable `Follow instrument selection`.
+1. Turn on edit mode for the ensemble by clicking the `Edit` button.
+2. In the sidebar, in the `Select Instrument` pop-up menu, select the Ensemble (prefixed with `Ens -`), and disable `Follow instrument selection`.
+3. Make some changes you are ready to save. The save icon should turn red, click the save icon and choose a location to save a copy of the Ensemble (by convention, put it next to the host project file).
+4. Under the `Preset Browser` (`F2`), right-click the `Embedded` header and select `New Bank`.
+5. With the bank to add to selected, create a Snapshot by clicking the `Add` button at the bottom the `Preset Browser` sidebar.
+6. Click the red save icon again to save the Ensemble.
 
 ## Instruments vs. Ensembles
 
@@ -33,17 +38,15 @@ It's unclear if a preset file can be stored in another location (such as next to
 
 ### Snapshot Banks as Files
 
-Snapshot banks can be stored as external `.ssf` files. In practice this isn't that useful though, because loading a `.ssf` modifies the original Ensemble.
+Snapshot banks can be stored as external `.ssf` files. In practice this isn't that useful though, because loading a `.ssf` doesn't persist across host re-launches.
 
 #### Saving
 
-To save a Snapshot Bank as a `.ssf` file, right-click the bank and select "Save Bank".
+To save a Snapshot Bank as a `.ssf` file, turn on edit mode,  right-click the bank and select "Save Bank".
 
 #### Loading
 
-To load a Snapshot Bank from an `.ssf` file, right-click an existing bank, or the Embedded header, and select "Load Bank".
-
-(This appears to replace existing banks? Also loaded banks simply don't seem to work reliably, I've had trouble getting the settings to restore.)
+To load a Snapshot Bank from an `.ssf` file, turn on edit mode, right-click an existing bank (or the `Embedded` header) and select "Load Bank".
 
 ### Embedded Snapshot Banks
 
@@ -52,7 +55,7 @@ The only reliable way to add banks appears to be to embed banks in the ensemble.
 #### Creating a Bank
 
 1. Turn on edit mode, by clicking the "Edit" button.
-2. With the Preset browser selected (`F2`), right-click on "Embedded" and choose "New Bank".
+2. With the `Preset Browser` selected (`F2`), right-click on "Embedded" and choose "New Bank".
 
 #### Creating a Snapshot
 
