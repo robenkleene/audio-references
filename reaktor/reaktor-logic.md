@@ -13,3 +13,12 @@ To show program change automation for a region:
 1. Select the MIDI region and view the Editor (`E`).
 2. Make sure automation is visible in the Editor by clicking the `Show/Hide Automation` icon in the Editor toolbar (`A`).
 3. Make sure `Region` is selected in the `Automation/MIDI` area, and choose `Program Change` from the parameter pop-up menu.
+
+### Program Change
+
+- `Num` corresponds to Banks
+- `Val` corresponds to Snapshots
+
+#### Tips
+
+- Logic starts its numbering schemes from `0` whereas Reaktor starts them from `1`. So for bank and snapshot numbering, subtract one from the Reaktor value to get the Logic value.
