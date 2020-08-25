@@ -66,3 +66,7 @@ When creating Snapshots, you probably want to first select the Ensemble (prefixe
 #### Deleting a Snapshot
 
 Right-click the snapshot and select `Delete`.
+
+## Troubleshooting
+
+- In `Properties` (`F5`), make sure `Recall by MIDI` is turned on, and that `Select Master` is set to the main ensemble.
