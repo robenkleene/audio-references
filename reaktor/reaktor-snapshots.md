@@ -70,3 +70,7 @@ Right-click the snapshot and select `Delete`.
 ## Troubleshooting
 
 - In `Properties` (`F5`), make sure `Recall by MIDI` is turned on, and that `Select Master` is set to the main ensemble.
+
+### Unreliable
+
+Snapshots seem to be completely unreliable: Sometimes they only partially restore, sometimes they don't restore at all, particularly when triggered by program change MIDI messages. When having trouble changing Snapshots via MIDI messages, the best approach I've found is to simply take the Snapshot that isn't working and click the `Add` button to create a duplicate in a later slot. The new Snapshot tends to work. Note that using `Store` to overwrite the snapshot, does not seem to work.
