@@ -48,12 +48,6 @@ General zoom strategy, put the playhead where you want to zoom in and then use `
 
 - For some reason you can only drag to loop regions when automation isn't visible (Toggle automation with `a`).
 
-## Automation
-
-- `⌃⌘⌫`: Delete visible automation for region
-- Double-click an automation point to delete it.
-- There are various options for deleting automation under "Mix > Delete Automation".
-
 ## Transport
 
 - `↩`: Go to beginning
