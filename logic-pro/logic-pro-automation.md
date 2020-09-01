@@ -11,3 +11,7 @@ To create region-based automation:
 1. Create a MIDI region
 2. Show Automation (`A`)
 3. Switch `Track` to `Region`
+
+## Troubleshooting
+
+- If your region-based automation isn't catching, try just moving the position of the first node a bit forward.
