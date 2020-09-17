@@ -9,7 +9,7 @@
 - Clicking a key, selects all notes in that key
 - `⌥↓` / `⌥↑`: Move note up or down
 - `⇧⌥↓` / `⇧⌥↑`: Move note up or down
-- `⌥o`: Toggle playing MIDI notes when they are selected (or click the symbol that looks like a MIDI cable above the piano roll)
+- `⌥o`: Toggle playing MIDI notes when they are selected (or toggle off the `MIDI Out` icon above the piano roll)
 
 ## Notes
 
