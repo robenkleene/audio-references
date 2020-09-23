@@ -5,4 +5,3 @@
 - The instrument can be changed just like any other MIDI instrument
 - To export, just use the "File" -> "Export" options ("Selection" or "Region)
 - To use a drummer with any instrument, select the region and select "Convert to MIDI Region"
-
