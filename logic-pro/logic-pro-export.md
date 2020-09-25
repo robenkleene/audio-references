@@ -1,3 +1,4 @@
 # Logic Pro Export
 
-To Export, select `File > Bounce > Project or Section`.
+- Use `Bounce` (`⌘B` or `File > Bounce > Project or Section`) to export.
+- Note that `Bounce` will be set to the current selection by default, so to export the whole track, deselect first.
