@@ -31,12 +31,6 @@ General zoom strategy, put the playhead where you want to zoom in and then use `
 `T`: Pointer
 `Z`: Zoom
 
-## Track Headers
-
-- Click the divider to resize a tracker header
-- `⇧click` to divider to resize all track headers to the same height
-- `⌥drag` to resize all headers simultaneously
-
 ## Regions
 
 - `⌃M`: Mute Region
