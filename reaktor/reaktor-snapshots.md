@@ -1,5 +1,15 @@
 # Reaktor Snapshots
 
+## Basics
+
+These issues you need to deal with if you're using Reaktor no matter what.
+
+- If the save button is red, it means you will lose data if you quit (regardless whether you are using Snapshots or other Ensemble changes or not).
+- Making any edit to graph-style UI elements will make the button red and require saving as a separate file. Changing knobs and sliders generally will not.
+- If you're using an Ensemble saved to a file, and you move the Ensemble (e.g., if you're keeping it with a project, and you move the project), then you'll need to re-locate the file the next time you open the project.
+
+## Notes
+
 - Snapshots are embedded in the Ensemble file, whereas Presets are external files.
 - Since Snapshots are written into the Ensemble file, the Ensemble must be in edit mode before writing presets.
 
