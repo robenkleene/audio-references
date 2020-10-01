@@ -4,6 +4,10 @@
 - Double-click an automation point to delete it.
 - There are various options for deleting automation under "Mix > Delete Automation".
 
+## Recording
+
+Just switch from `Read` to `Touch`, when `Touch` is set, any values changed will automatically be written to automation, regardless if record is enabled (so switch back to `Read` after you've finished recording).
+
 ## Region
 
 To create region-based automation:
