@@ -11,4 +11,11 @@ You can hide and show the preview by double-clicking the video track.
 ## Time
 
 - Under `File > Project Settings > Synchronization...` you can enter the exact length of the video.
-- You can get the SMPTE timecode of the last frame of a video by opening it and QuickTime and then activating `Edit > Trim...` (`⌘T`), and clicking the right most trim handle.
+
+### Getting
+
+A few methods for getting the SMPTE timecode:
+
+- Open the file in QuickTime and activating `Edit > Trim...` (`⌘T`), clicking the right most trim handle will then show the timecode.
+- Just move the playhead to the last frame of the video.
+- Open the video in a video editor and view the timecode there.
