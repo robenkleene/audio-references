@@ -10,7 +10,7 @@ You can hide and show the preview by double-clicking the video track.
 
 ## Time
 
-- Under `File > Project Settings > Synchronization...` you can enter the exact length of the video.
+- Under `File > Project Settings > Synchronization...` you can set where the first bar (`1 1 1 1`) starts. It starts at one hour by default, which is a convention for video editing because it allows adding additional footage before the video starts (for slates, countdowns, and test signals).
 
 ### Getting
 
