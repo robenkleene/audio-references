@@ -1,5 +1,7 @@
 # Logic Pro Audio
 
+- `⌘T` / `Edit > Split > Regions at Playhead`: Split region at playhead
+
 ## Crossfade
 
 To crossfade between two audio regions, overlap the audio regions in the track then select the fade tool and drag across the two clips.

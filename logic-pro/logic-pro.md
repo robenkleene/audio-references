@@ -42,11 +42,6 @@ General zoom strategy, put the playhead where you want to zoom in and then use `
 
 - For some reason you can only drag to loop regions when automation isn't visible (Toggle automation with `a`).
 
-## Transport
-
-- `↩`: Go to beginning
-- `␣`: Play
-
 ## Cycle
 
 - `C`: Toggle Cycle
