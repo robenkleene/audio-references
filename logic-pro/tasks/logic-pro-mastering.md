@@ -15,3 +15,4 @@
 - Add a `Dynamics > Compressor`, select the `05 Compressor Tools > Platinum Analog Tape` preset, and adjust the `Threshold` until there's about `-3dB` to `-4dB` of gain reduction.
 - Add a `Dynamics > Multipresser`, and select the `Punchy Drums` preset and adjust the options to taste. Lowering the bar at the far left, increases the bass, the far right increases the highs, etc...
 - Add a `Dynamics > Adaptive Limiter`, set the `Out Ceiling` to `-0.1dB`. Up the `Gain`, keep the gain reduction under `5dB`.
+- Remember to add an extra bar at the end to prevent sounds from being clipped.
