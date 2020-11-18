@@ -9,7 +9,7 @@
 - `e`: Toggle editor
 - `⌘k`: Toggle musical typing
 - `⌘⌫`: Delete track
-- `⌘G`: Toggle snap
+- `⌘G`: Toggle snap, you can also hold `⌃` while dragging to temporarily turn off snapping
 
 ## Zoom
 
