@@ -11,16 +11,6 @@
 - `⌘⌫`: Delete track
 - `⌘G`: Toggle snap, you can also hold `⌃` while dragging to temporarily turn off snapping
 
-## Zoom
-
-- `⌘←` / `⌘→`: Zoom in and out horizontally
-- `⌘↓` / `⌘↑`: Zoom in and out vertically
-- `⌃⌥-drag`: Drag to zoom
-- `⌃⌥-two-finger-drag`: Zoom in both X and Y
-- `Z`: Toggle zoom to selection
-
-General zoom strategy, put the playhead where you want to zoom in and then use `⌃⌥-two-finger-drag`.
-
 ## Tools
 
 - `T`: Show tools menu
