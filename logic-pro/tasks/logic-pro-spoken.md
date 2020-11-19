@@ -29,6 +29,8 @@ Good settings are:
 - `Post Release-Time: 0.03`
 - `Search Zero Crossing: On`
 
+After removing silence, select all the regions and using the inspector to apply a `10` `Fade In` and `Fade Out`.
+
 ### Process
 
 1. Line up the tracks.
