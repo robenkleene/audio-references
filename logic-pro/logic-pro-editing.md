@@ -1,6 +1,8 @@
 # Logic Pro Editing
 
 - `⇧D` / `Edit > Deselect All`: Deselect all.
+- `⇧F`: Select following
+- `⌃⇧F`: Select following of same track pitch (only select following for tracks with a region already selected)
 
 ## Ripple Delete
 
