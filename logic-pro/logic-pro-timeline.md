@@ -1,5 +1,6 @@
 # Logic Pro Timeline
 
+- `backtick`: Toggle Catch Playhead
 - `↩`: Go to beginning
 - `␣`: Play
 - `.`: Forward
