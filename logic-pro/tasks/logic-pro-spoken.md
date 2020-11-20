@@ -40,3 +40,9 @@ After removing silence, select all the regions and using the inspector to apply 
     1. Delete little bits of irrelevant noise.
     2. Close gaps of silence.
     - For performing these edits, using `⌘-drag` to select across all three tracks and then doing a ripple delete with `Delete and Move` is helpful. To get finer-grained control with `⌘-drag`, toggle off snap with `⌘G`.
+
+### Tips
+
+- To remove silence in a track, or all tracks, use ripple delete.
+- To add silence, to one track use `⇧F` to select forward and drag the regions.
+- To add silence to multiple tracks, select a region in each track and use `⌃⇧F` to select forward for all selected regions, and drag the regions.
