@@ -11,6 +11,10 @@
 - `⌘⌫`: Delete track
 - `⌘G`: Toggle snap, you can also hold `⌃` while dragging to temporarily turn off snapping
 
+## Tips
+
+- To set the song length drag the `End Marker` at the far right.
+
 ## Tools
 
 - `T`: Show tools menu
