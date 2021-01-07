@@ -36,6 +36,10 @@
 
 - For some reason you can only drag to loop regions when automation isn't visible (Toggle automation with `a`).
 
+## Snap
+
+By default Logic Pro snaps to relative values, e.g., if you move a region that's X number of ticks from a bar line, to another bar, it will maintain the distance of X from the new bar line. To switch this behavior, and snap to the bar line itself, under the `Snap` dropdown, select `Snap Regions to Absolute Values`.
+
 ## Cycle
 
 - `C`: Toggle Cycle
