@@ -13,7 +13,7 @@
 
 ## Tips
 
-- To set the song length drag the `End Marker` at the far right.
+- To set the song length drag the `End Marker` at the far right. (For some reason, if Logic Pro's window is flush with the edge of the screen it can be impossible to drag the `End Marker` any farther right, in this case move the window to the left so it's not flush and it should be possible to drag the marker.)
 
 ## Tools
 
