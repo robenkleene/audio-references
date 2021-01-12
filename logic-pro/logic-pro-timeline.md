@@ -5,6 +5,8 @@
 - `␣`: Play
 - `.`: Forward
 - `,`: Rewind
+- `<` / `>`: Move forward / backward by measure 
+- `⇧<` / `⇧>`: Move forward / backward by bar
 
 ## Zoom
 
