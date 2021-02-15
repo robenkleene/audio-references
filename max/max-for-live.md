@@ -18,10 +18,7 @@ Working on frozen devices that use `bpatcher` is somewhat tedious, here's the pr
 
 ### Isolated Testing
 
-When preparing Max packages for release: Make sure to test without the source folder for the patch in Max's Search Paths, otherwise it may pick up a dependency that isn't actually in the bundle. The easiest way to do this is to choose `Options > File Preferences...`, and then toggle off `Subfolders` for the path that the project is a subdirectory of.
-
-You can confirm that this is working by trying to load a `bpatcher` of something in your search path, e.g., `bpatcher activekey`.
-
+When preparing Max packages for release: Make sure to test without the source folder for the patch in Max's Search Paths, otherwise it may pick up a dependency that isn't actually in the bundle.
 
 ## Presets
 
