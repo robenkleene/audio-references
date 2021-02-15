@@ -16,6 +16,8 @@ Working on frozen devices that use `bpatcher` is somewhat tedious, here's the pr
 4. Open the device in Live again and freeze again
 5. Merge the branch
 
+- When preparing Max packages for release: Move the source folder out of the Max Project Search Path first to test all dependencies.
+
 ## Presets
 
 When restoring presets, if there's a problem with loading garbage values that's usually because the `pattr` variables, e.g., not being set as `blob`.
