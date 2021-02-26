@@ -39,7 +39,7 @@ After removing silence, select all the regions and using the inspector to apply 
 4. Listen and make small edits of two types:
     1. Delete little bits of irrelevant noise.
     2. Close gaps of silence.
-    - For performing these edits, using `⌘-drag` to select across all three tracks and then doing a ripple delete with `Delete and Move` is helpful. To get finer-grained control with `⌘-drag`, toggle off snap with `⌘G`.
+    - For performing these edits, using `⌘-drag` to select across all three tracks and then doing a ripple delete with `Delete and Move` (`⇧⌫`) is helpful. To get finer-grained control with `⌘-drag`, toggle off snap with `⌘G`.
 
 ### Tips
 
