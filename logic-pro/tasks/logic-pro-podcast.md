@@ -1,4 +1,4 @@
-# Logic Pro Spoken
+# Logic Pro Podcast
 
 - Male voice should be high in the 85 to 200 range, use EQ to boost the that range if necessary, and lower other ranges.
 - To make music and voice sound good together, use EQ to lower the music where it's clashing with the voice.
@@ -34,9 +34,10 @@ After removing silence, select all the regions and using the inspector to apply 
 ### Process
 
 1. Line up the tracks.
-2. Add effects to each track, listen to parts of each track where someone speaks a lot and make sure it sounds natural.
-3. Run remove silence and add fade in and fade outs, listen to parts of each track where someone speaks a lot and make sure it sounds natural.
-4. Listen and make small edits of two types:
+2. Make duplicates of each track, and mute the second copy. This is so we always have a reference of the original audio which can assist in re-aligning if we make a mistake.
+3. Add effects to each track, listen to parts of each track where someone speaks a lot and make sure it sounds natural.
+4. Run remove silence and add fade in and fade outs, listen to parts of each track where someone speaks a lot and make sure it sounds natural.
+5. Listen and make small edits of two types:
     1. Delete little bits of irrelevant noise.
     2. Close gaps of silence.
     - For performing these edits, using `⌘-drag` to select across all three tracks and then doing a ripple delete with `Delete and Move` (`⇧⌫`) is helpful. To get finer-grained control with `⌘-drag`, toggle off snap with `⌘G`.
