@@ -81,11 +81,6 @@ When in hot-swap mode, you can navigate samples with the arrow keys and hit ente
 
 - `⌘G`: Group selected effects into an audio effect rack.
 
-## Drum Rack
-
-- Pan and individual volume controls are available under "Show/Hide Chain List"
-- Hold `⌘` and drag to a sample slot in a Drum Rack: Automatically inserts an intermediary instrument rack.
-
 ## Sample Playback
 
 The easiest way to playback a sample unmodified is to use "Sampler" and set "Scale" to `0%`, set the release manually to a longer length than the sample.
