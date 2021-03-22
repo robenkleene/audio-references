@@ -1,10 +1,14 @@
 # Sampler
 
+- Show/hide the Sample zones with the `Zone` buttondb
+
+## One-Shots
+
 - It's easier to turn off pitch tracking in Sampler, on the `Sample` tab, turn the set the `Scale` in the bottom middle from `100%` to `0` (note that this needs to be set per sample).
 - The `Filter/Global` section has an amp envelope but it doesn't appear to work predictably?
 - Sampler has no per sample filter or amp envelope
 
-## Distributing One-Shot Samples
+### Distributing One-Shot Samples
 
 To distribute samples, one per key.
 
