@@ -8,6 +8,7 @@
 
 ## MIDI Keyboard
 
+- The keyboard is toggled on with `Options > MIDI Keyboard Activated`
 - Reaktor's layout when using the computer keyboard as a MIDI keyboard is not documented, but `s` does some key, which is good to know for testing.
 
 ## Modules

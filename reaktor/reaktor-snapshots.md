@@ -1,5 +1,10 @@
 # Reaktor Snapshots
 
+## Keyboard Shortcuts
+
+- `F2`: Show `Preset Browser`
+- `↓` / `↑`: When the `Preset Browser` has focus, go to the next / previous preset
+
 ## Basics
 
 These issues you need to deal with if you're using Reaktor no matter what.
