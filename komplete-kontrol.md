@@ -16,12 +16,14 @@ When the browser has focus.
 - `Shift` + `Encoder`: Favorite preset
 - `Shift` + `Browser`: Browse favorites
 
-### Knob
+### Plug-In
+
+- `Shift` + `Knobs 1-8`: Fine-tune parameter 
+
+### Encoder
 
 - When `Plug-in` has focus, moving the knob left / right moves between instrument and effects
 - When `Browser` has focus, moving the knob left / right moves between the next / previous section
-
-## Smart Play
 
 ### Scale
 
