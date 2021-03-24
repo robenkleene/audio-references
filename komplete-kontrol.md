@@ -26,12 +26,14 @@ When the browser has focus.
 ### Scale
 
 - Changing the Scale effects which scale is used by the `Arp` and `Chord`
-- `Shift`+`Scale`: Toggle editing mode
-- `Knobs 1-3`: Scale parameters
+- `Shift`+`Scale`: Toggle scale edit mode
+    - `Knobs 1-3`: Scale parameters
 
 ### Arp
 
 - `Arp`: Toggle arpeggiator
+- `Shift` + `Arp`: Toggle arpeggiator edit mode
+    - `Knobs 1-8`: Arpeggiator parameters
 - When `Scale` is also active, the arpeggiator uses the notes of the scale
 
 ### Chords
