@@ -3,7 +3,7 @@
 ## Tips
 
 - There's three view modes under `View > View Mode`, `Linear View`, `Paper View`, and `Wrapped View`
-- You can support separate parts, just by including more `Software Instrument` tracks
+- You can support separate parts, just by including more `Software Instrument` tracks. There's also a `Score Sets` feature.
 
 ## Style
 
