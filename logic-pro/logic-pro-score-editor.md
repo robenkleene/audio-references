@@ -14,7 +14,7 @@ The Score Editor has a Camera tool for exporting that appears to work similar to
 ## Style
 
 - Double-click a note to see some style options
-- In the sidebar, `Region > Style` sets the clef style
+- In the sidebar, `Region > Style` sets the clef style (this doesn't always seem to change the clef, another method is to right-click the clef itself and choose `Select Clef...`)
 
 ## Time Signature
 
