@@ -1,5 +1,7 @@
 # Logic Pro Score Editor
 
+- `I`: Toggle inspector
+
 ## Tips
 
 - There's three view modes under `View > View Mode`, `Linear View`, `Paper View`, and `Wrapped View`
