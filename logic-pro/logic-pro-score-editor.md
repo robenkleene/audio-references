@@ -5,9 +5,14 @@
 - There's three view modes under `View > View Mode`, `Linear View`, `Paper View`, and `Wrapped View`
 - You can support separate parts, just by including more `Software Instrument` tracks. There's also a `Score Sets` feature.
 
+## Export
+
+The Score Editor has a Camera tool for exporting that appears to work similar to the macOS screenshot tool. It has either `PDF File` or `Clipboard` preferences under `Preferences > Score` (this option is only visible if advanced `Score`). The advantage of this tool is that it hides things like the playhead and uses a black and white palette.
+
 ## Style
 
 - Double-click a note to see some style options
+- In the sidebar, `Region > Style` sets the clef style
 
 ## Time Signature
 
