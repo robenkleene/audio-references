@@ -3,6 +3,11 @@
 ## Software
 
 - To zoom the timeline, drag the right side of the horizontal scroll bar
+- If the timeline has focus, `⌘↑` / `⌘↓` also zooms in and out
+
+### Mixer
+
+Switch to the mixer in the upper left. Controls such as volume for each pad are here.
 
 ## Hardware
 
