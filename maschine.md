@@ -1,5 +1,11 @@
 # Maschine
 
+## Software
+
+- To zoom the timeline, drag the right side of the horizontal scroll bar
+
+## Hardware
+
 - Set tempo by pressing `Tempo` then turning the encoder
 - Press `Pattern` then a pad to choose a pattern
 - Press `Shift+Tap (Metro)` to toggle the metronome
@@ -9,22 +15,22 @@
 - Hold `Note Repeat` and play for note repeat effect
 - Press the magnifying glass and use the encoder to choose another kit, press it to choose
 
-## MIDI Mode
+### MIDI Mode
 
 - Just press `Shift+Maschine`
 
-## Step Mode
+### Step Mode
 
 Works like step sequencer.
 
 - Hold `Select` and push a pad to choose that sound
 - It's difficult to toggle steps on step sequencer mode for some reason?
 
-## Keyboard Mode
+### Keyboard Mode
 
 - Press the right arrow, then turn the encoder to choose a scale
 
-## Plug-In Mode
+### Plug-In Mode
 
 To change parameters for the selected plugin.
 
@@ -33,7 +39,7 @@ To change parameters for the selected plugin.
 3. Use the right and left arrow keys to choose a parameter (the currently selected parameter is shown visually in Maschine)
 4. Turn the encoder to set that parameters
 
-### Tips
+#### Tips
 
 - You can double-click the plugin name to open its interface
 - To add an effect, click the `+` below a plugin
