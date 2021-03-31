@@ -9,6 +9,8 @@
 
 Switch to the mixer in the upper left. Controls such as volume for each pad are here.
 
+- `⇥`: Switch to mixer
+
 ## Hardware
 
 - Set tempo by pressing `Tempo` then turning the encoder
