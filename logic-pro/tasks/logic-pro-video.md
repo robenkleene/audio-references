@@ -4,6 +4,8 @@
 
 To import a video, choose `File > Movie > Open Movie...`, you probably want to switch the project settings to match the video when Logic offers to do so.
 
+- When you are opening the movie, you'll probably get alerts indicating that the sample rate and frame rate of the project don't match the movie. You'll probably want to select the options to use the frame rate and sample rate from the movie.
+
 ## Hiding & Showing
 
 You can hide and show the preview by double-clicking the video track.
