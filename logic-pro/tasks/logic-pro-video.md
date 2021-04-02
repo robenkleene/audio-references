@@ -25,4 +25,4 @@ A few methods for getting the SMPTE timecode:
 
 ## Sound Effects
 
-Final Cut Pro sound effects are available under `Loop Browser > Loop Packs > Final Cut Pro Sound Effects`.
+Final Cut Pro sound effects are available under `Loop Browser > Loop Packs > Final Cut Pro Sound Effects` (only if Final Cut Pro is installed).
