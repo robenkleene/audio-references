@@ -22,3 +22,7 @@ A few methods for getting the SMPTE timecode:
 - Open the file in QuickTime and activating `Edit > Trim...` (`⌘T`), clicking the right most trim handle will then show the timecode.
 - Just move the playhead to the last frame of the video.
 - Open the video in a video editor and view the timecode there.
+
+## Sound Effects
+
+Final Cut Pro sound effects are available under `Loop Browser > Loop Packs > Final Cut Pro Sound Effects`.
