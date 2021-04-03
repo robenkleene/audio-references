@@ -14,6 +14,8 @@ Buses can also be used like Aux channel strips, e.g., they can have effects adde
 
 The environment is only available if the "Preferences > Advanced > MIDI" checkbox is enabled.
 
+You can't see the bus numbers on the channel strips by default to add them, in the Mixer section toggle on `View > Channel Strip Components > Type and Number Label`.
+
 ## Sends
 
 - Pre fader sends have the volume to the left and blue. Post fader sends have the volume to the right and blue. Post pan have the volume to the right and green.
