@@ -9,7 +9,7 @@
 - `e`: Toggle editor
 - `⌘k`: Toggle musical typing
 - `⌘⌫`: Delete track
-- `⌘G`: Toggle snap, you can also hold `⌃` while dragging to temporarily turn off snapping
+- `⌘G`: Toggle snap, you can also hold `⌃` while dragging to temporarily turn off snapping (note that the playhead still snaps even with this toggled off, the only way to work around that is to hold `^` while dragging)
 
 ## Tips
 

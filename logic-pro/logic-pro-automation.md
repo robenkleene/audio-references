@@ -8,6 +8,10 @@
 
 Just switch from `Read` to `Touch`, when `Touch` is set, any values changed will automatically be written to automation, regardless if record is enabled (so switch back to `Read` after you've finished recording).
 
+## Move Automation
+
+To move automation between two parameters, select the source parameter, then hold `⌘` while switching to the destination parameter, and a dialog will pop-up offering to move the automation.
+
 ## Region
 
 To create region-based automation:
