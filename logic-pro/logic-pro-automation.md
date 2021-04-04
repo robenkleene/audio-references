@@ -1,6 +1,7 @@
 # Logic Pro Automation
 
 - `⌃⌘⌫`: Delete visible automation for track
+- `⌥Click` a point to select all points afterwords (this is the easiest way to select all automation for a track)
 - Double-click an automation point to delete it.
 - There are various options for deleting automation under "Mix > Delete Automation".
 
