@@ -7,12 +7,12 @@
 
 ## Mastering
 
-- Switch an EQ to mid/sides mode to check the left, right, and middle frequencies.
-- Limiter at `0.09db`, then bring up volume.
-- Create a chain on the track: EQ > Glue Compressor > EQ > Limiter, use a utility before the limiter if you need to boost the volume too much.
-- Try to create a sound stage, forward, back, and middle.
-- Drag a 200% EQ Eight over the track and look for resonant frequencies, and pull it down
-- Cut out the low frequencies of every track with an EQ eight because they can be muddy
+1. Put an `EQ Eight` on `Master` and switch it to `M/S` (mid/sides) mode to check the left, right, and middle frequencies.
+2. Limiter at `0.09db`, then bring up volume.
+3. Create a chain on the track: EQ > Glue Compressor > EQ > Limiter, use a utility before the limiter if you need to boost the volume too much.
+4. Try to create a sound stage, forward, back, and middle.
+5. Drag a 200% EQ Eight over the track and look for resonant frequencies, and pull it down
+6. Cut out the low frequencies of every track with an EQ eight because they can be muddy
 
 ## Steps
 
