@@ -46,3 +46,7 @@ When the browser has focus.
 In `Scale` edit mode:
 
 - `Knobs 5-8`: Chord parameters
+
+## Troubleshooting
+
+- For "Plug-in not found" errors, just run the Komplete Kontrol application in standalone mode to rescan.
