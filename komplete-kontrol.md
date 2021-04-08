@@ -2,6 +2,10 @@
 
 The current focus isn't in the Komplete Kontrol UI, but it is shown on the keyboard's display.
 
+## Software
+
+- `+`: Show the full interface for a device (a simplified interface is sometimes shown by default)
+
 ## Hardware Keyboard
 
 - `Browser`: Focus the browser
