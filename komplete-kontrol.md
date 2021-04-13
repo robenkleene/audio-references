@@ -53,4 +53,4 @@ In `Scale` edit mode:
 
 ## Troubleshooting
 
-- For "Plug-in not found" errors, just run the Komplete Kontrol application in standalone mode to rescan.
+- For "Plug-in not found" errors, just run the Komplete Kontrol application in standalone mode to re-scan.
