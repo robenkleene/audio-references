@@ -6,7 +6,7 @@
 
 ## Backups
 
-When a new version of Traktor is installed, the old version is copied to `/Applications/Native Instruments/Traktor Pro 3/Backup/`. These old versions can be deleted.
+When a new version of Traktor is installed, the old version is copied to `/Applications/Native Instruments/Traktor Pro 3/Backup/`. These old versions can be deleted manually.
 
 ## Tips
 
