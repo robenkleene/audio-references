@@ -7,7 +7,9 @@
 
 ## Recording
 
-Just switch from `Read` to `Touch`, when `Touch` is set, any values changed will automatically be written to automation, regardless if record is enabled (so switch back to `Read` after you've finished recording).
+### Single Parameter
+
+To record a single, selected parameter, display automation (`A`), then select the parameter, and switch from `Read` to `Touch`, when `Touch` is set, any values changed will automatically be written to automation, regardless if record is enabled (so switch back to `Read` after you've finished recording).
 
 ## Move Automation
 
