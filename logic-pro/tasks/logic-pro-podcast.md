@@ -47,3 +47,7 @@ After removing silence, select all the regions and using the inspector to apply 
 - To remove silence in a track, or all tracks, use ripple delete.
 - To add silence, to one track use `⇧F` to select forward and drag the regions.
 - To add silence to multiple tracks, select a region in each track and use `⌃⇧F` to select forward for all selected regions, and drag the regions.
+
+## Export
+
+- Just use a regular bounce (`⌘B`), with `160 kbps` bit rate. Set `Normalize: Off`. Make sure `Variable Bit Rate` is off.
