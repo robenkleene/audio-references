@@ -13,6 +13,15 @@ Switch to the mixer in the upper left. Controls such as volume for each pad are 
 
 ## Hardware
 
+### Browsing Kits
+
+- `Browse` (magnifying glass): Choose projects and sounds
+- Push the decoder: Choose a sound
+- Kits are the eight pads icon
+- On the Mikro, navigating kits needs to be done with the mosue.
+
+### Commands
+
 - Set tempo by pressing `Tempo` then turning the encoder
 - Press `Pattern` then a pad to choose a pattern
 - Press `Shift+Tap (Metro)` to toggle the metronome
@@ -20,7 +29,6 @@ Switch to the mixer in the upper left. Controls such as volume for each pad are 
 - Press `Shift+2 (Redo)` to redo a change
 - Press `Shift+9 (Clear)` to clear a pattern
 - Hold `Note Repeat` and play for note repeat effect
-- Press the magnifying glass and use the encoder to choose another kit, press it to choose
 
 ### MIDI Mode
 
