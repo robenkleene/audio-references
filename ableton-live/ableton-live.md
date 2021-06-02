@@ -80,10 +80,6 @@ When in hot-swap mode, you can navigate samples with the arrow keys and hit ente
 - When an audio in the arrange view can't be heard, click "Return to Arrangement" in the upper right of the tracks
 - Clicking "Return to Arrangement" will also prevent an audio track from being recorded over by clips
 
-## Audio Effect Rack
-
-- `⌘G`: Group selected effects into an audio effect rack.
-
 ## Sample Playback
 
 The easiest way to playback a sample unmodified is to use "Sampler" and set "Scale" to `0%`, set the release manually to a longer length than the sample.
