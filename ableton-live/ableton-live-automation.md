@@ -3,6 +3,11 @@
 - To delete automation, right-click on a control and select "Delete Automation".
 - To move all automation at once, right-click the track channel and select "Select all content" than move the cursor near the automation until the full automation highlights and click and drag the automation line up or down.
 
+## Snap
+
+- Turn off snap under `Options > Snap to Grid` (`⌘4`).
+- Constrain to one axis by holding `⇧` while dragging
+
 ## Graph Editor
 
 - With the pointer tool enabled (toggle off the pencil tool with `⌘B`):
