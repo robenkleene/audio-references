@@ -14,3 +14,4 @@
 ## Macro Controls
 
 - To put a control on the Macro Control panel, just right-click it and choose `Map to Macro`.
+- To add a third-party instrument's parameters, click `Configure` then click a parameter
