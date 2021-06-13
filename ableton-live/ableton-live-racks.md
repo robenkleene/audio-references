@@ -14,4 +14,4 @@
 ## Macro Controls
 
 - To put a control on the Macro Control panel, just right-click it and choose `Map to Macro`.
-- To add a third-party instrument's parameters, click `Configure` then click a parameter
+- To add a third-party instrument's parameters, click `Configure` then move a parameter, it will appear in the Ableton Live panel for that instrument, then can be right-clicked to map to a macro.
