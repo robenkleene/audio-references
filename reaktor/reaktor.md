@@ -1,10 +1,11 @@
 # Reaktor
 
-- `⇧⌥←` / `⇧⌥→`: Traverse bread crumbs
 - To make a split, right-click and add "Ensemble Structure in Other Pane"
-- `⌘⇧-double-click`: Toggle structure and panel view
-- To edit the interface, click the lock icon
-- Hold `⌘` to add a port to a module
+- In Edit mode
+    - `⇧⌥←` / `⇧⌥→`: Traverse bread crumbs
+    - `⌘⇧-double-click`: Toggle structure and panel view
+    - To edit the interface, click the lock icon
+    - Hold `⌘` to add a port to a module
 
 ## MIDI Keyboard
 
