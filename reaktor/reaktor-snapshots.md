@@ -11,6 +11,8 @@
 
 ### Randomize
 
+Basic idea is to click an instrument, set `Random Amount` (for example to `100`), then click `Randomize` (or `Rnd. Merge`).
+
 - `Randomize`: Randomize (based on the current settings)
 - `Rnd. Merge`: Randomize between the two snapshots
 - `Random amount`: The amount of randomization
