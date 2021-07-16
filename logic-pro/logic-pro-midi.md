@@ -21,3 +21,7 @@
 - Use the `Velocity Tool` and drag vertically on a note.
 - Holding `⌃⌘` while hovering a note switches to the velocity tool
 - Use `Window > Step Editor` to change the velocity using with visual bars.
+
+## MIDI Effects
+
+Third-party MIDI effects can be inserted just like Logic Pro's built-in MIDI effects, on the channel strip, just select `MIDI FX` and choose `Audio Units`. Reaktor appears as `Reaktor 6 MIDIFX` here for example.
