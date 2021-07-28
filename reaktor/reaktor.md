@@ -1,6 +1,6 @@
 # Reaktor
 
-- To make a split, right-click and add "Ensemble Structure in Other Pane"
+- To make a split, in the Panel, right-click and add "Ensemble Structure in Other Pane"
 - In Edit mode
     - `⇧⌥←` / `⇧⌥→`: Traverse bread crumbs
     - `⌘⇧-double-click`: Toggle structure and panel view
