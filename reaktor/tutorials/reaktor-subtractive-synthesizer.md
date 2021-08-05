@@ -10,7 +10,10 @@
 
 ## Cleanup Panel
 
-1. Unlock the `Panel` by toggling the padlock icon
+1. Unlock the `Panel` by clicking the padlock icon
 2. Drag the `AHDSR` below the `OSC Sync HQ`
 
     ![Panel](assets/reaktor-subtractive-synthesizer-panel.png)
+
+3. Lock the `Panel` again by clicking the padlock icon
+4. Open the search box (`↩`) and add a `Pitch and Gate (09 - Utility, Display)`
