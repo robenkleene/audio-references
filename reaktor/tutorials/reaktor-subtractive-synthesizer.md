@@ -11,3 +11,6 @@
 ## Cleanup Panel
 
 1. Unlock the `Panel` by toggling the padlock icon
+2. Drag the `AHDSR` below the `OSC Sync HQ`
+
+    ![Panel](assets/reaktor-subtractive-synthesizer-panel.png)
