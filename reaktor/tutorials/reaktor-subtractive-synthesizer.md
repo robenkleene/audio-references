@@ -16,4 +16,10 @@
     ![Panel](assets/reaktor-subtractive-synthesizer-panel.png)
 
 3. Lock the `Panel` again by clicking the padlock icon
-4. Open the search box (`↩`) and add a `Pitch and Gate (09 - Utility, Display)`
+
+## MIDI
+
+1. Open the search box (`↩`) and add a `Pitch and Gate (09 - Utility, Display)`
+2. Connect the `Pitch and Gate > P` output to the `OSC Sync HQ > P` input, and the `Pitch and Gate > G` output to the `AHDSR > G` input.
+3. Clean up the panel, by unlocking and dragging the elements so they aren't overlapping.
+4. The keyboard can now be played if `Options > MIDI Keyboard Activated` is toggled on (try hitting the `S` key).
