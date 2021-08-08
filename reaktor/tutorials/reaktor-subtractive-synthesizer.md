@@ -22,4 +22,4 @@
 1. Open the search box (`↩`) and add a `Pitch and Gate (09 - Utility, Display)`
 2. Connect the `Pitch and Gate > P` output to the `OSC Sync HQ > P` input, and the `Pitch and Gate > G` output to the `AHDSR > G` input.
 3. Clean up the panel, by unlocking and dragging the elements so they aren't overlapping.
-4. The keyboard can now be played if `Options > MIDI Keyboard Activated` is toggled on (try hitting the `S` key).
+4. The keyboard can now be played if `Options > MIDI Keyboard Activated` is toggled on (try hitting the `S` key)
