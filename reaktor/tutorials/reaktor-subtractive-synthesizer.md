@@ -24,4 +24,4 @@
 3. Clean up the panel, by unlocking and dragging the elements so they aren't overlapping.
 4. The keyboard can now be played if `Options > MIDI Keyboard Activated` is toggled on (try hitting the `S` key)
 
-*Stopped this tutorial at this point, because this was all I needed for now*
+*Stopped this tutorial at this point, because this was all I needed for now
