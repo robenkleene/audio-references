@@ -1,5 +1,7 @@
 # Reaktor Basic Step Sequencer
 
+## Test Tone
+
 1. Create a new Ensemble
 2. Add a `Sine Oscillator`
 3. Add a `Button` and rename it to `Test Tone`
@@ -8,3 +10,7 @@
 6. Add a `Constant` and set its value to `60`, connect its output to the `P` input of `Sine`
 7. Connect the `Sine > Out` output to the two `Out`
 8. Now pressing the `Test Tone` button should toggle the tone
+
+## Sequencer
+
+1. Add a `Macro` and rename it to `Sequencer`
