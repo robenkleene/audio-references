@@ -14,3 +14,8 @@
 ## Sequencer
 
 1. Add a `Macro` and rename it to `Sequencer`
+2. Add a `Clock Oscillator` module to use as a clock source
+3. Right-click the `Clock Osc > F` input and choose `Create Control`
+4. Right-click the `Clock Osc > A` input and choose `Create Constant`
+5. Add a `Separator` module, this will be used to filter out `0` events, so we can just use the output of `1` as our frequency
+6. Connect the `Clock Osc > Out` output to the `Separator > In` input (and leave `Thld` disconnected because it defaults to `0`)
