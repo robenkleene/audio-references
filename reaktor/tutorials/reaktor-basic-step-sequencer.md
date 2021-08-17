@@ -23,3 +23,7 @@
 4. Add a `Separator` module, this will be used to filter out `0` events, so we can just use the output of `1` as our frequency
 5. Connect the `Clock Osc > Out` output to the `Separator > In` input (and leave `Thld` disconnected because it defaults to `0`)
 6. Add a `Counter`, connect the `Separator > Hi` output to the `Counter > Up` input
+
+### Event Table
+
+1. Add an `Event Table`
