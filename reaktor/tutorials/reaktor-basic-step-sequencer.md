@@ -27,3 +27,4 @@
 ### Event Table
 
 1. Add an `Event Table`
+2. Set `Event Table > Function > Size > X: 16` (for a `16` step sequencer)
