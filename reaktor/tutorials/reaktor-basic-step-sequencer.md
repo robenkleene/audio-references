@@ -28,3 +28,4 @@
 
 1. Add an `Event Table`
 2. Set `Event Table > Function > Size > X: 16` (for a `16` step sequencer)
+3. Under `Event Table > Function > Value Range`, set `Max: 12` and `Min: -12`
