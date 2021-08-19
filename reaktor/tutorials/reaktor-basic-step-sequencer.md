@@ -28,4 +28,9 @@
 
 1. Add an `Event Table`
 2. Set `Event Table > Function > Size > X: 16` (for a `16` step sequencer)
-3. Under `Event Table > Function > Value Range`, set `Max: 12` and `Min: -12`
+3. Under `Event Table > Function > Value Range`, set `Max: 12`, `Min: -12`, and `Stepsize: 1`
+4. Unlock the panel and re-arrange the elements so they aren't overlapping, then lock it again
+
+    ![Event Table Panel](assets/reaktor-basic-step-sequencer-event-table-panel.png)
+
+5. Right-click the `Event Table` in the panel and choose `Table Draw Mode`
