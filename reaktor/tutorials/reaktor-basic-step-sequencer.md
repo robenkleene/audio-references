@@ -38,4 +38,4 @@
 ### Connect Event Table & Counter
 
 1. Add an `Order` module
-2. Connect the `Order > 1` output to the `Event Table > RX` input, and the `Order > 2` output to the `Event Table > R` input. (`RX` sets the `X` value, and `R` outputs the current value.)
+2. Connect the `Order > 1` output to the `Event Table > RX` input, and the `Order > 2` output to the `Event Table > R` input. (`RX` sets the `X` value, and `R` outputs the current value. `Order` controls the order.)
