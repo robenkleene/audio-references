@@ -49,3 +49,5 @@
 2. Add an `Add` module and connect the `Sequencer > Out` to its top input, and the `60` to its bottom input, connect it's output to the `Sine > P ` input
 
     ![Demo Test Tone](assets/basic-step-sequencer/reaktor-basic-step-sequencer-demo-test-tone.png)
+
+3. Playback can now be tested, when `Test Tone` is enabled, editing the Event Table changes the pitch.
