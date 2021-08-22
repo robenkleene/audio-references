@@ -41,7 +41,11 @@
 2. Connect the `Order > 1` output to the `Event Table > RX` input, and the `Order > 2` output to the `Event Table > R` input. (`RX` sets the `X` value, and `R` outputs the current value. `Order` controls the order.)
 3. Add an `Out` port and connect the `Event Table > Out` to its input
 
+    ![Sequencer](assets/basic-step-sequencer/reaktor-basic-step-sequencer-sequencer.png)
+
 ## Wiring Together
 
 1. Go to the top level of the Ensemble
 2. Add an `Add` module and connect the `Sequencer > Out` to its top input, and the `60` to its bottom input, connect it's output to the `Sine > P ` input
+
+    ![Demo Test Tone](assets/basic-step-sequencer/reaktor-basic-step-sequencer-demo-test-tone.png)
