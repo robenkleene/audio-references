@@ -51,3 +51,10 @@
     ![Demo Test Tone](assets/basic-step-sequencer/reaktor-basic-step-sequencer-demo-test-tone.png)
 
 3. Playback can now be tested, when `Test Tone` is enabled, editing the Event Table changes the pitch.
+
+## Adding Temp Sync
+
+Replacing the `Clock Osc` with a sync to the host.
+
+1. Delete everything related to the `Clock Osc` (from the `Counter` to the left)
+2. Add a `Song Position (MIDI In)` module, connect the `Song Position > 96` output to the `Order` input
