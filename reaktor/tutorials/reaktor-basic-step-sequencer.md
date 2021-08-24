@@ -58,3 +58,4 @@ Replacing the `Clock Osc` with a sync to the host.
 
 1. Delete everything related to the `Clock Osc` (from the `Counter` to the left)
 2. Add a `Song Position (MIDI In)` module, connect the `Song Position > 96` output to the `Order` input
+3. Hitting the Play button in the toolbar (`␣`) will now cause the transport to play
