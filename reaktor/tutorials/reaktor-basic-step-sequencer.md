@@ -59,3 +59,9 @@ Replacing the `Clock Osc` with a sync to the host.
 1. Delete everything related to the `Clock Osc` (from the `Counter` to the left)
 2. Add a `Song Position (MIDI In)` module, connect the `Song Position > 96` output to the `Order` input
 3. Hitting the Play button in the toolbar (`␣`) will now cause the transport to play
+
+### Reducing the Rate
+
+The sequence is currently playing back at `1/96`, reduce it to `1/16`.
+
+1. Add a `Modulo`, and a `Constant`. Set the constant to `6` and connect it to the `Modulo > B` input. Connect the `Song Position > 96` output to the `Modulo > A` input. Connect the `Modulo > Div` output to the `Order` input.
