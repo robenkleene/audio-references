@@ -65,3 +65,9 @@ Replacing the `Clock Osc` with a sync to the host.
 The sequence is currently playing back at `1/96`, reduce it to `1/16`.
 
 1. Add a `Modulo`, and a `Constant`. Set the constant to `6` and connect it to the `Modulo > B` input. Connect the `Song Position > 96` output to the `Modulo > A` input. Connect the `Modulo > Div` output to the `Order` input.
+
+### Optimizing
+
+Remove repeated notes of the same value.
+
+1. Add a `Step Filter` module, and connect the `Modulo > Div` output to its `In` input, connect its `Out` output to the `Order` input. Now new events will only be sent to the `Event Table` when values change.
