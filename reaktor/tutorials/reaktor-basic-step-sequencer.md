@@ -71,3 +71,15 @@ The sequence is currently playing back at `1/96`, reduce it to `1/16`.
 Remove repeated notes of the same value.
 
 1. Add a `Step Filter` module, and connect the `Modulo > Div` output to its `In` input, connect its `Out` output to the `Order` input. Now new events will only be sent to the `Event Table` when values change.
+
+## Rate
+
+1. Add a `List` and rename it to `Rate`
+2. Connect the output of `Rate` to the `Modulo > B` input, and delete the `6` constant
+3. In `Rate > Function > Entries`, append items for:
+    - `1/4`: `24`
+    - `1/8`: `12`
+    - `1/16`: `6`
+
+    (These values are calculated like `96 * 1 / 4 = 24`)
+4. Set `Rate > View > Style: Menu`
