@@ -31,7 +31,7 @@
 3. Under `Event Table > Function > Value Range`, set `Max: 12`, `Min: -12`, and `Stepsize: 1`
 4. Unlock the panel and re-arrange the elements so they aren't overlapping, then lock it again
 
-    ![Event Table Panel](assets/reaktor-basic-step-sequencer-event-table-panel.png)
+    ![Event Table Panel](assets/basic-step-sequencer/reaktor-basic-step-sequencer-event-table-panel.png)
 
 5. Right-click the `Event Table` in the panel and choose `Table Draw Mode`
 
@@ -83,3 +83,5 @@ Remove repeated notes of the same value.
 
     (These values are calculated like `96 * 1 / 4 = 24`)
 4. Set `Rate > View > Style: Menu`
+
+![Basic Step Sequencer](assets/basic-step-sequencer/reaktor-basic-step-sequencer.png)
