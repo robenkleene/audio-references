@@ -14,3 +14,14 @@
 2. Add a `Mouse Area`
 3. Add a new `Macro` and name it `Display` (this macro is to make sure the display stays below the mouse area and doesn't block input)
 4. Double-click into `Display` and add a `Multi Display` (since the `Multi Display` is in a macro one level lower, it will be under the `Mouse Area`)
+
+## Clean Up
+
+1. Unlock the panel
+2. Toggle off `Multi Display > View > Show Label`
+3. Set `Macro > View > Frame: None`
+4. Move the panel elements so the `Table` and `Rate` are no longer overlapping
+5. Set `Mouse Area > View > Width (Pixels): 300`
+6. Set `Multi Display > View > Width (Pixels): 300`
+
+    ![Display](assets/reaktor-advanced-step-sequencer-display.png)
