@@ -34,4 +34,4 @@
 
     ![X & Y](assets/advanced-step-sequencer/reaktor-advanced-step-sequencer-x-y.png)
 
-    The second output of the `Order` module for the `Y` value is used to ensure it's processed after the `Idx` is set.
+    The second output of the `Order` module for the `Y` value is used to ensure it's processed after `Idx` is set.
