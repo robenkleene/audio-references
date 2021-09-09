@@ -24,12 +24,14 @@
 5. Set `Mouse Area > View > Width (Pixels): 300`
 6. Set `Multi Display > View > Width (Pixels): 300`
 
-    ![Display](assets/reaktor-advanced-step-sequencer-display.png)
+    ![Display](assets/advanced-step-sequencer/reaktor-advanced-step-sequencer-display.png)
 
 ## Wiring Together
 
 1. Double-click into the `Display` macro, add two `In` ports and name them `X` and `Y`
 2. Go back up a level to `Table` and connect the `Mouse Area` `X` & `Y` outputs to the `Display` `X` & `Y` inputs
-3. Go back into the `Display` and wire up `X` as follows:
+3. Go back into the `Display` and wire up `X` and `Y` as follows:
 
-    ![X](assets/reaktor-advanced-step-sequencer-x.png)
+    ![X & Y](assets/advanced-step-sequencer/reaktor-advanced-step-sequencer-x-y.png)
+
+    The second output of the `Order` module for the `Y` value is used to ensure it's processed after the `Idx` is set.
