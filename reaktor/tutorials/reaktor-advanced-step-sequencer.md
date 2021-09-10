@@ -35,3 +35,5 @@
     ![X & Y](assets/advanced-step-sequencer/reaktor-advanced-step-sequencer-x-y.png)
 
     The second output of the `Order` module for the `Y` value is used to ensure it's processed after `Idx` is set.
+
+4. Select the `Mouse Area` and under `Properties > Range Y`, set `Max: 12`, `Min: -12`, `Step Size: 1`.
