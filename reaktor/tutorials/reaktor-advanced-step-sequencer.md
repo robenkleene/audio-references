@@ -28,6 +28,8 @@
 
 ## Wiring Together
 
+### Display
+
 1. Double-click into the `Display` macro, add two `In` ports and name them `X` and `Y`
 2. Go back up a level to `Table` and connect the `Mouse Area` `X` & `Y` outputs to the `Display` `X` & `Y` inputs
 3. Go back into the `Display` and wire up `X` and `Y` as follows:
@@ -38,3 +40,9 @@
 
 4. Select the `Mouse Area` and under `Properties > Range Y`, set `Max: 12`, `Min: -12`, `Step Size: 1`
 5. Select the `Mouse Area` and under `Properties > Range X`, set `Max: 16.4`, `Min: -0.6`, `Step Size: 0` *This is to compensate rounding up step sizes, e.g., a value of `1.5` will round up to `2`*
+
+### Table
+
+1. Go back to the `Table` in the structure and add a `Quantize` module and connect it like so
+
+    ![Table Quantize](assets/advanced-step-sequencer/reaktor-advanced-step-sequencer-table-quantize.png)
