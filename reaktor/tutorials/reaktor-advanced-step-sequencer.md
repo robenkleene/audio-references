@@ -36,4 +36,5 @@
 
     The second output of the `Order` module for the `Y` value is used to ensure it's processed after `Idx` is set.
 
-4. Select the `Mouse Area` and under `Properties > Range Y`, set `Max: 12`, `Min: -12`, `Step Size: 1`.
+4. Select the `Mouse Area` and under `Properties > Range Y`, set `Max: 12`, `Min: -12`, `Step Size: 1`
+5. Select the `Mouse Area` and under `Properties > Range X`, set `Max: 16.4`, `Min: -0.6`, `Step Size: 0` *This is to compensate rounding up step sizes, e.g., a value of `1.5` will round up to `2`*
