@@ -43,6 +43,10 @@
 
 ### Table
 
-1. Go back to the `Table` in the structure and add a `Quantize` module and connect it like so
+1. Go to `Sequencer > Table` in the structure and add a `Quantize` module and connect it like so
 
     ![Table Quantize](assets/advanced-step-sequencer/reaktor-advanced-step-sequencer-table-quantize.png)
+
+### Display
+
+1. Go to `Sequencer > Table > Display` and select the `Multi Display`, set `Properties > Function > Object > Number: 16`
