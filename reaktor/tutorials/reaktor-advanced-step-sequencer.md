@@ -49,4 +49,9 @@
 
 ### Display
 
-1. Go to `Sequencer > Table > Display` and select the `Multi Display`, set `Properties > Function > Object > Number: 16`
+1. Go to `Sequencer > Table > Display` and select the `Multi Display`, under `Properties > Function`:
+    1. Set `Object > Number: 16`
+    2. Set `Range > X Origin: 1`
+    3. Set `Range > X Range: 16`
+    4. Set `Range > Y Origin: -12`
+    5. Set `Range > Y Range: 24` (To work with the `Y Origin` to make the values `-12--12`)
