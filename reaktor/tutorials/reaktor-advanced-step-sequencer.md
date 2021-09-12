@@ -57,4 +57,7 @@
     5. Set `Range > Y Range: 24` (To work with the `Y Origin` to make the values `-12--12`)
     6. Toggle on `Status > Always Active`
 2. Create two `1` constants and connect them to the `Multi Display > G` and `Multi Display > B` inputs. *This makes the color in the Multi-Display cyan*
-3. Create a `-1` constant and connect it to the `Multi Display > Obj` input.
+3. Create a `-1` constant and connect it to the `Multi Display > Obj` input *This makes the display use solid bars, rather than lines*
+4. Go back to `Sequencer > Table` and add `Value` and `Merge` objects and connect them like so. *This makes it so moving the mouse in horizontally updates the `Multi Display` even if the `Y` value isn't changing*
+
+    ![Value Merge](assets/advanced-step-sequencer/reaktor-advanced-step-sequencer-value-merge.png)
