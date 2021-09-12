@@ -55,3 +55,6 @@
     3. Set `Range > X Range: 16`
     4. Set `Range > Y Origin: -12`
     5. Set `Range > Y Range: 24` (To work with the `Y Origin` to make the values `-12--12`)
+    6. Toggle on `Status > Always Active`
+2. Create two `1` constants and connect them to the `Multi Display > G` and `Multi Display > B` inputs. *This makes the color in the Multi-Display cyan*
+3. Create a `-1` constant and connect it to the `Multi Display > Obj` input.
