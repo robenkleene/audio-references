@@ -61,3 +61,7 @@
 4. Go back to `Sequencer > Table` and add `Value` and `Merge` objects and connect them like so. *This makes it so moving the mouse in horizontally updates the `Multi Display` even if the `Y` value isn't changing*
 
     ![Value Merge](assets/advanced-step-sequencer/reaktor-advanced-step-sequencer-value-merge.png)
+
+### Snapshots
+
+1. Go to `Sequencer > Table`, and add a `Snap Value Array` module. Connect the `M` output to its `W` input, and the `Quantize > Out` output to its `Idx` input. Connect its `Idx` output to the `Display > X` input and its `Out` output to the `Display > Y` input.
