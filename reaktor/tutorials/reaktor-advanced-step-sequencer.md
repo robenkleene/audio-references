@@ -66,3 +66,9 @@
 
 1. Go to `Sequencer > Table`, and add a `Snap Value Array` module. Connect the `M` output to its `W` input, and the `Quantize > Out` output to its `Idx` input. Connect its `Idx` output to the `Display > X` input and its `Out` output to the `Display > Y` input.
 2. Set `Snap Value [] > Properties > Function > Range > Array Size: 16` (`Write Thru` and `Self-iteration` should be toggled on by default, `Write Thru` automatically passes values on, and `Self-iteration` automatically sends its values when a snapshot is recalled)
+
+### Event Table
+
+Creating a separate `Event Table` to hold sequencer values for the clock to trigger.
+
+1. Go to `Sequencer > Table` and create an `Event Table`
