@@ -72,3 +72,6 @@
 Creating a separate `Event Table` to hold sequencer values for the clock to trigger.
 
 1. Go to `Sequencer > Table` and create an `Event Table`
+2. Select the `Event Table` and toggle off `Properties > View > Visible`
+3. With the `Event Table` selected, choose `Function > Size > Set`, and enter `16` for `X` (leave `Y` at `1`)
+4. With the `Event Table` selected, under `Function > Value Range`, set `Max: 12` and `Min: -12`
