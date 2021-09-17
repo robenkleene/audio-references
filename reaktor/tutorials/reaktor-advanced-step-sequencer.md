@@ -79,4 +79,4 @@ Creating a separate `Event Table` to hold sequencer values for the clock to trig
 
     ![Event Table Constants](assets/advanced-step-sequencer/reaktore-advanced-step-sequencer-event-table-constants.png)
 
-6. Delete the `In` and out `Out` in `Sequencer > Table`
+6. Connect the `In` output to the `RX` and `R` inputs of the `Event Table`, connect the `Event Table > Out` output to the `Out` input
