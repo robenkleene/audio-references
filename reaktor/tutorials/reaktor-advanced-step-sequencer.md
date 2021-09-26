@@ -76,7 +76,6 @@ Creating a separate `Event Table` to hold sequencer values for the clock to trig
 3. With the `Event Table` selected, choose `Function > Size > Set`, and enter `16` for `X` (leave `Y` at `1`)
 4. With the `Event Table` selected, under `Function > Value Range`, set `Max: 12` and `Min: -12`
 5. Add a `Subtract` with a `Constant` of `1` (to translate the `Snap Value []` and `Multi Diaply`, which start from `1` to the `Event Table` which starts from `0`), and a `Add` with a `Constant` of `0` (to make the same number of modules between the two paths from the `Snap Value []` to the `Event Table` to keep the timing consistent). Connect them like so:
+6. Connect the `In` output to the `RX` and `R` inputs of the `Event Table`, connect the `Event Table > Out` output to the `Out` input
 
     ![Event Table Constants](assets/advanced-step-sequencer/reaktore-advanced-step-sequencer-event-table-constants.png)
-
-6. Connect the `In` output to the `RX` and `R` inputs of the `Event Table`, connect the `Event Table > Out` output to the `Out` input
