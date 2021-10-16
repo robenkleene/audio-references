@@ -1,4 +1,4 @@
 # Maschine Software
 
-- The speaker icon in the lower left below the browser toggles `Prehear` on and off (whether the kit preview plays)
-- The recycle icon is autoload, it automatically loads the result in to the results list so you can listen to it in the temp of your project
+- `Prehear`: Automatically playback the sound
+- `Autoload`: Automatically load the sound into the selected pad (the intended use is to demo a sound replacing an existing sound in your project)
