@@ -7,7 +7,6 @@
     - To edit the interface, click the lock icon
     - Hold `⌘` to add a port to a module
 - If the left sidebar isn't visible, hit `F1` (for `Show Browser`) to show it
-- Info Hints are shown when hovering if `View > Show Info Hints` is toggled on
 
 ## MIDI Keyboard
 
