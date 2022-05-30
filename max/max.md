@@ -2,7 +2,6 @@
 
 ## Mouse
 
-
 - `⌘-double-click` object: Open `bpatcher`
 - `⌥-click` object: Open help
 - `⌘-click` white space: Unlock/Lock Window
@@ -16,7 +15,10 @@
 
 ### Keyboard
 
-- `⇧⌘I`: Open "Inspector Window"
+- `⇧⌘I`: Open inspector in a separate window
+- `⌘I`: Open inspector in sidebar
+- `⇧⌘M`: Open console in a separate window
+- `⌘M`: Open console in sidebar
 - `⌘'`: Name (or access from the object menu)
 - `⌘Y`: Auto-align
 - `⌘J`: Fix Width (E.g., a comment)
