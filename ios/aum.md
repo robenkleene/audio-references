@@ -14,3 +14,7 @@
 ## Sync
 
 - Sessions can be shared over AirDrop.
+
+## Background
+
+AUM uses a lot of battery if left running in the background (it'll run in the background if there are any audio or MIDI channels in the session). The best way to work around this is to use `Clear Session` when you're done with the session, and click the `Last State` button to restore the last state.
