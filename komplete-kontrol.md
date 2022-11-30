@@ -22,7 +22,7 @@ When the browser has focus.
 
 ### Plug-In
 
-- `Shift` + `Knobs 1-8`: Fine-tune parameter 
+- `Shift` + `Knobs 1-8`: Fine-tune parameter
 - `← M` / `→ S`: Move to previous / next page of parameters
 - `Shift` + `Encoder`: Disable selected plugin
 - `Shift` + `↑ Encoder`: Remove plugin (press `Encoder` to confirm)
