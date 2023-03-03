@@ -1,14 +1,9 @@
 # Ableton Live Keyboard Shortcuts
 
-- `⌘L`: Toggle loop
 - `⌘B`: Turn on editing mode
 - `⌘F`: Perform a search in the browser, from here the arrow keys can also be used to navigate the browser
-- `fn←`: Move the playhead to beginning of track
 - `F9`: Record
-- `⌥␣`: Play selection
 - `⌘⌥P`: Toggle plugin windows
-- `␣`: Play from the insert marker (click to place the insert marker anywhere)
-- `⇧␣`: Pause
 
 ## Transport
 
