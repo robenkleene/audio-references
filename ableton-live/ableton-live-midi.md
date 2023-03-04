@@ -18,4 +18,5 @@ To record the MIDI output from a MIDI effect:
 
 1. Setup a new MIDI track (`⌘⇧T`)
 2. Set the `MIDI From` to the track with the MIDI effect
-3. Click the record button for an empty clip slot on the new MIDI track
+3. Click the `ARM Recording` button at the bottom of the new MIDI track
+4. Click the record button for an empty clip slot on the new MIDI track
