@@ -25,6 +25,10 @@ If the device is opened and unfrozen in Ableton Live after dependencies have alr
 3. Delete those duplicated files
 4. Close and re-open the project
 
+#### Troubleshooting
+
+Sometimes duplicate files get created even if nothing has been modified (which means they'll get re-created every time we unfreeze) in this case, deleting the files after unfreezing, then closing the project and re-opening it should work to get it referencing the right files.
+
 ### Isolated Testing
 
 When preparing Max packages for release: Make sure to test without the source folder for the patch in Max's Search Paths, otherwise it may pick up a dependency that isn't actually in the bundle.
