@@ -108,10 +108,6 @@ You can scrub audio by turning off quantization (`⌘0`) and moving the cursor a
 - To record an audio clip of specific length: Set the quantize amount to the amount you want to record (e.g., "1 bar"). Hit record, then hit the stop button (or the same clips play button again) for that track immediately. The clip recording will stop automatically after the quantize amount finishes.
 - Recording output from a MIDI track to an audio track will only be in time if "Audio From" is set to "Resampling".
 
-## MIDI
-
-Ableton Live can import multi-track or single-track MIDI files but it can only export single track. To export MIDI, right-click the MIDI clip and select "Export MIDI Clip..."
-
 ## Sends
 
 - Whether a send is Pre- or Post- fader is on the master track parallel to the send's knob.

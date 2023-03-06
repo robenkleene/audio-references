@@ -20,3 +20,7 @@ To record the MIDI output from a MIDI effect:
 2. Set the `MIDI From` to the track with the MIDI effect
 3. Click the `ARM Recording` button at the bottom of the new MIDI track
 4. Click the record button for an empty clip slot on the new MIDI track
+
+## MIDI Export
+
+Ableton Live can import multi-track or single-track MIDI files but it can only export single track. To export MIDI, right-click the MIDI clip and select "Export MIDI Clip..."
