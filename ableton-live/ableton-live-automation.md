@@ -1,7 +1,8 @@
 # Ableton Live Automation
 
 - `A`: Toggle `Automation` in the arrange view
-- `click`: Add point
+- `click`: Add / remove point
+- `click&drag`: Move point
 - `⇧click`: Move point or line
 
 ## Editing
