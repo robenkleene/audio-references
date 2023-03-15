@@ -5,5 +5,15 @@
 
 ## Mid/Side
 
+The first `Utility` will represent mids, and the second sides.
+
 1. Before the limiter, add a `Utility`, `Utility`, then `EQ Eight`
-2. Set the two utilities to `Mono` and right click the `Width` knob for the second one and set it to `Mid/Side`
+2. Set the two utilities to `Mono` and right click the `Width` knob for the second one and set it to `Mid/Side`, and turn the `Mid/Side` dial all the way to the right (`100S`)
+3. For the `EQ Eight`, only turn on the farthest left and right channels, set the leftmost to cutoff 4x and rightmost to cutoff. (We'll use an additional channel to turn on `3` to scan for frequencies.)
+
+![Utilities](assets/ableton-live-utilities.png)
+
+### Mids
+
+1. Turn on only the first `Utility` to focus on mids
+2. Listen to frequencies in the mids
