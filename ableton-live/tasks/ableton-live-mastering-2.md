@@ -24,3 +24,9 @@ The first `Utility` will represent mids, and the second sides.
 
 1. Turn on only the second `Utility` to focus on sides
 2. Listen to frequencies in the mids, use the `3` in the `EQ Eight` to scan for frequencies that sound out of whack
+
+### Tweaks
+
+#### Sides
+
+1. Set `Mode: M/S` on the `EQ Eight`
