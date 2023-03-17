@@ -27,6 +27,8 @@ The first `Utility` will represent mids, and the second sides.
 
 ### Tweaks
 
+- Bring down any sounds that sound too loud using `notch` stops on the EQ Eight
+
 #### Sides
 
 1. Set `Mode: M/S` on the `EQ Eight`
