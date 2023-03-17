@@ -27,9 +27,10 @@ The first `Utility` will represent mids, and the second sides.
 
 ### Tweaks
 
-- Bring down any sounds that sound too loud using `notch` stops on the EQ Eight
+- Bring down any sounds that sound too loud using `Bell` stops on the EQ Eight
 
 #### Sides
 
 1. Set `Mode: M/S` on the `EQ Eight`
-2. Drag the first stop either from the left to the right until the track loses its warmth, or from the right to the left until the track gains its warmth
+2. Drag the first stop either from the left to the right until the track loses its warmth, or from the right to the left until the track gains its warmth. The first stop should use `low cut` (either `48` or `12` based on how sharply cutting off the lows sounds better)
+3. 
