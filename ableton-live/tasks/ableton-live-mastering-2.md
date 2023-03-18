@@ -5,34 +5,38 @@ Mastering approach that uses a `EQ > Compress > Limit` chain.
 1. Put a `Limiter` on the `Master` track, set `Lookahead: 6ms` and `Ceiling: -1db`
 2. Turn up the gain on the `Limiter` until you hear audible distortion, than turn down the gain by `1db` less than that
 
-## Mid/Side
+## Mid/Side Analysis & Adjustments
 
-The first `Utility` will represent mids, and the second sides.
+### Setup
+
+The first `Utility` will be used to hear the mids, and the second sides.
 
 1. Before the limiter, add a `Utility`, `Utility`, then `EQ Eight`
-2. Set the two utilities to `Mono` and right click the `Width` knob for the second one and set it to `Mid/Side`, and turn the `Mid/Side` dial all the way to the right (`100S`)
-3. For the `EQ Eight`, only turn on the farthest left and right stops, set the leftmost to cutoff 4x and rightmost to cutoff. (We'll use an additional stop to turn on `3` to scan for frequencies.)
+2. Set the both utilities to `Mono`.
+3. Right-click the `Width` knob for the second `Utility` and set it to `Mid/Side`. Turn the `Mid/Side` dial all the way to the right (to `100S`).
+3. For the `EQ Eight`:
+    - Set `Mode: M/S`
+    - Turn off all the stops except the farthest left and right. Set the leftmost `Filter Mode` to `48 dB` slope cutoff (the `4x` option) and rightmost `Filter Mode` to `12 dB` slope cutoff.
+    - Turn on the `3` stop and set the `Filter Mode` to `Bell` (we'll use this one to scan for frequencies)
 
 ![Utilities](assets/ableton-live-utilities.png)
 
-### Initial Overview
+### Analysis
 
 #### Mids
 
 1. Turn on only the first `Utility` to focus on mids
-2. Listen to frequencies in the mids, use the `3` in the `EQ Eight` to scan for frequencies that sound out of whack
+2. Listen to frequencies in the mids, use the `3` in the `EQ Eight` to scan for frequencies that sound resonant
 
 #### Sides
 
 1. Turn on only the second `Utility` to focus on sides
-2. Listen to frequencies in the mids, use the `3` in the `EQ Eight` to scan for frequencies that sound out of whack
+2. Listen to frequencies in the mids, use the `3` in the `EQ Eight` to scan for frequencies that sound resonant
 
-### Tweaks
+### Adjustments
 
-- Bring down any sounds that sound too loud using `Bell` stops on the EQ Eight
-
-#### Sides
+Do this for both mids and side, toggle between them by switching between `Edit: M` and `Edit: S` on the `EQ Eight`.
 
 1. Set `Mode: M/S` on the `EQ Eight`
 2. Drag the first stop either from the left to the right until the track loses its warmth, or from the right to the left until the track gains its warmth. The first stop should use `low cut` (either `48` or `12` based on how sharply cutting off the lows sounds better)
-3. 
+1. Look for sounds that are too loud and bring them down using `Bell` stops on the EQ Eight
