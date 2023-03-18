@@ -16,7 +16,7 @@ The first `Utility` will be used to hear the mids, and the second sides.
 3. Right-click the `Width` knob for the second `Utility` and set it to `Mid/Side`. Turn the `Mid/Side` dial all the way to the right (to `100S`).
 3. For the `EQ Eight`:
     - Set `Mode: M/S`
-    - Turn off all the stops except the farthest left and right. Set the leftmost `Filter Mode` to `48 dB` slope cutoff (the `4x` option) and rightmost `Filter Mode` to `12 dB` slope cutoff.
+    - Turn off all the stops except the farthest left and right. Set the leftmost `Filter Mode` to `48 dB` slope `low cut` (the `4x` option) and rightmost `Filter Mode` to `12 dB` slope cutoff.
     - Turn on the `3` stop and set the `Filter Mode` to `Bell` (we'll use this one to scan for frequencies)
 
 ![Utilities](assets/ableton-live-utilities.png)
@@ -37,6 +37,5 @@ The first `Utility` will be used to hear the mids, and the second sides.
 
 Do this for both mids and side, toggle between them by switching between `Edit: M` and `Edit: S` on the `EQ Eight`.
 
-1. Set `Mode: M/S` on the `EQ Eight`
-2. Drag the first stop either from the left to the right until the track loses its warmth, or from the right to the left until the track gains its warmth. The first stop should use `low cut` (either `48` or `12` based on how sharply cutting off the lows sounds better)
-1. Look for sounds that are too loud and bring them down using `Bell` stops on the EQ Eight
+1. Drag the first stop from the farthest left until the track loses its warmth, or from the right to the left until the track gains its warmth. The first stop should use `low cut`, and either `48 dB` or `12 dB` depending on what sound better. (This can also alternatively be done by moving the leftmost stop all the way to the right, and then moving it left until the track *gains* its warmth.)
+2. Look for sounds that are too loud and bring them down using `Bell` stops on the EQ Eight
