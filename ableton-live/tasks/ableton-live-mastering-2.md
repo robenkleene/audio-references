@@ -48,3 +48,4 @@ Do this for both mids and side, toggle between them by switching between `Edit: 
 
 1. Add a `Glue Compressor` between the `EQ Eight` and the `Limiter`
 2. Toggle the disclosure arrow in the upper left of the `Glue Compressor` to show its full settings
+3. Toggle on the `EQ` button (`Toggle Sidechain EQ`)
