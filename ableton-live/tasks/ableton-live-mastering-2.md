@@ -2,10 +2,14 @@
 
 Mastering approach that uses a `EQ > Compress > Limit` chain.
 
+## 3. Limit
+
 1. Put a `Limiter` on the `Master` track, set `Lookahead: 6ms` and `Ceiling: -1db`
 2. Turn up the gain on the `Limiter` until you hear audible distortion, than turn down the gain by `1db` less than that
 
-## Mid/Side Analysis & Adjustments
+## 1. EQ
+
+Mid/Side Analysis & Adjustments
 
 ### Setup
 
@@ -39,3 +43,7 @@ Do this for both mids and side, toggle between them by switching between `Edit: 
 
 1. Drag the first stop from the farthest left until the track loses its warmth, or from the right to the left until the track gains its warmth. The first stop should use `low cut`, and either `48 dB` or `12 dB` depending on what sound better. (This can also alternatively be done by moving the leftmost stop all the way to the right, and then moving it left until the track *gains* its warmth.)
 2. Look for sounds that are too loud and bring them down using `Bell` stops on the EQ Eight
+
+## 2. Compress
+
+1. Add a `Glue Compressor` between the `EQ Eight` and the `Limiter`
