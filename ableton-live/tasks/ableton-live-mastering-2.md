@@ -55,3 +55,11 @@ Do this for both mids and side, toggle between them by switching between `Edit: 
 5. Choose `Filter Type: Notch` (looks like a hill)
 6. For the `Glue Compressor`, set the `Attack` a bit slow, around `8 ms`, and the `Release` faster, like `3 ms`
 7. For the `Glue Compressor`, adjust the `Threshold` by ear, and set the `Gain` to make up any lost gain (check the limiter)
+
+## Wrap-Up
+
+1. Add a second `Limiter` after the first
+2. Set the first `Limiter` `Ceiling: 0.0 dB` and the second to `-1 dB`
+3. Set the first `Limiter` to a longer `Lookahead`, like `6ms`
+4. Increase the `Gain` of the second limiter until the meter shows it kicking in
+5. On the first `Limiter`, turn off `Auto` on the release and leave it at a long setting like `44 ms`
