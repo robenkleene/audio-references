@@ -15,14 +15,23 @@
 
 ### Keyboard
 
+#### Palettes
+
 - `⇧⌘I`: Open inspector in a separate window
 - `⌘I`: Open inspector in sidebar
 - `⇧⌘M`: Open console in a separate window
 - `⌘M`: Open console in sidebar
-- `⌘'`: Name (or access from the object menu)
+
+#### Canvas
+
 - `⌘Y`: Auto-align
-- `⌘J`: Fix Width (E.g., a comment)
+- `⌘J`: Fix width (e.g., a comment)
 - `⌃⌘O`: Show object explorer
+
+#### Editing
+
+- `⇧↩` / `⇥`: End editing
+- `⌘'` / `Object > Name...`: Edit scripting name
 
 ## Presets
 
