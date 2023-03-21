@@ -46,8 +46,6 @@ Do this for both mids and side, toggle between them by switching between `Edit: 
 
 ## 2. Compress
 
-### Kick Drum Sidechain EQ
-
 1. Add a `Glue Compressor` between the `EQ Eight` and the `Limiter`
 2. Toggle the disclosure arrow in the upper left of the `Glue Compressor` to show its full settings
 3. Toggle on the `EQ` button (`Toggle Sidechain EQ`)
@@ -58,8 +56,13 @@ Do this for both mids and side, toggle between them by switching between `Edit: 
 
 ## Wrap-Up
 
+Why use two limiters? The longer lookahead time of the first limiter lets in less distortion than the second limiter with the shorter lookahead time.
+
 1. Add a second `Limiter` after the first
 2. Set the first `Limiter` `Ceiling: 0.0 dB` and the second to `-1 dB`
 3. Set the first `Limiter` to a longer `Lookahead`, like `6ms`
 4. Increase the `Gain` of the second limiter until the meter shows it kicking in
 5. On the first `Limiter`, turn off `Auto` on the release and leave it at a long setting like `44 ms`
+
+## Why
+
