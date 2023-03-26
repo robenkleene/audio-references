@@ -25,3 +25,7 @@
 ## Clips
 
 - To turn on automation for a clip, switch to the `Envelopes` tab, select the device to automate on the left, and the parameter on the right.
+
+## Master & Return Tracks
+
+To add automation to master or return tracks, just open the disclosure triangle on those tracks in the session view.
