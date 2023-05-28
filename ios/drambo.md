@@ -4,9 +4,9 @@
 
 ### Importing Drum Hits
 
-1. Add a Sampler
+1. Add a `Generator > Sampler`
 2. Tap `Edit Zones`
-3. From the menu in the upper left, choose `Create zones from folder`
+3. From the hamburger menu in the upper left, choose `Create zones from folder`
 
 ### Sample Management
 
