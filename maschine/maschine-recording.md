@@ -1,5 +1,14 @@
 # Maschine Recording
 
+- `SHIFT+9`: Clear pattern
+- `SHIFT+1`: Undo
+- `SHIFT+2`: Redo
+
+## Basic
+
+- Toggle on `REC` and then hit `PLAY` to just start recording instantly
+- `SHIFT+REC`: Count-in then start recording from the beginning
+
 ## Overdub & Replace
 
 - `ERASE+<Pad #>`: Erase pad # while it's held down
