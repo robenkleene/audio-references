@@ -1,3 +1,3 @@
 # Maschine Groups
 
-- Hold `GROUP` and tap a group to switch groups
+- `GROUP+<pad>`: Switch to, or create, a group
