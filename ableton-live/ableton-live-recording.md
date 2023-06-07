@@ -1,6 +1,6 @@
 # Ableton Live Recording
 
-- There's two record buttons `Arrangement Record Button` and `Session Record Button`
+- There's two record buttons `Arrangement Record Button` and `Session Record Button`, use the appropriate one
 
 ## Overdub
 
