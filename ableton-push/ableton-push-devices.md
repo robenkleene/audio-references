@@ -1,4 +1,4 @@
-# Ableton Push Workflow
+# Ableton Push Devices
 
 - `+`: Add a Device / MIDI Track / Audio Track / Return Track (this will replace the current device)
 	- To toggle on the preview when browsing content, push the button above `Preview`
