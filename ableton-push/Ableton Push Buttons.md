@@ -1,6 +1,7 @@
 # Ableton Push Buttons
 
-- The buttons along the top-right are Device, Mixer, Clip, Session
+- **Top Right:** Device, Mixer, Clip, Session
+- **Top Left, Below Knob:** Lock, Stop Clip, Mute, Solo
 
 ## Delete
 
