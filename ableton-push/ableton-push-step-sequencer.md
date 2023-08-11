@@ -5,6 +5,7 @@
 - Top two rows are step sequencer
 - Bottom left is pads
 - Bottom right is velocity (to change velocity, hold a pad in the step sequencer and choose a velocity pad)
+- `Shift+note pad`: Silently switch to a pad (i.e., don't playback it's sound)
 
 ## Adjusting Notes
 
