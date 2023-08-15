@@ -7,6 +7,7 @@
 - Bottom right is velocity (to change velocity, hold a pad in the step sequencer and choose a velocity pad)
 - `Shift+note pad`: Silently switch to a pad (i.e., don't playback it's sound)
 - `Layout`: Cycle between Loop Selector (lower right), 16 velocities (lower right), and 64 pads
+- The `Accent` button creates notes with full velocity
 
 ## Sounds
 
@@ -34,5 +35,9 @@ You can hold a step (or multiple steps) in the step sequencer and tap a velocity
 
 ## Loop Selector
 
+- The illuminated pads and colored pad shoe the loop length and current position
 - To play an entire loop, press the first and the last loop pads simultaneously
 - You can copy and paste loops in the loop selector section
+- Tap the double loop button to increase the length of a loop
+- Double tap on a pad to focus on that area of the loop
+- Press the first and last pad of the loop simultaneously to go back to playing the entire loop
