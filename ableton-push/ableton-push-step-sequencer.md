@@ -8,11 +8,29 @@
 - `Shift+note pad`: Silently switch to a pad (i.e., don't playback it's sound)
 - `Layout`: Cycle between Loop Selector (lower right), 16 velocities (lower right), and 64 pads
 
-## Loop Selector
+## Sounds
 
-- To play an entire loop, press the first and the last loop pads simultaneously
-- You can copy and paste loops in the loop selector section
+- Hold `Delete` and tap a pad to delete that sound
+
+## Color
+
+To change the color of a pad: Hold the shift button, press the pad, then press the pad you would like to change to color to.
+
+## Repeat
+
+Hold the repeat button while holding a pad to make the note repeat. The buttons to the right of the pads determine the interval. You can change the interval while holding a pad to create variations.
+
+- `Repeat` can also just be pushed to toggle it on, it can also be combined with different velocities with the velocity layout
 
 ## Adjusting Notes
 
 Hold a pad to focus on a step in the clip view, you can then move the note or change its duration or velocity. Hold multiple notes to change all of them at once.
+
+## Velocity
+
+Each pad plays the note at a different velocity.
+
+## Loop Selector
+
+- To play an entire loop, press the first and the last loop pads simultaneously
+- You can copy and paste loops in the loop selector section
