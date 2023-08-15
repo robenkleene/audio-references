@@ -30,6 +30,8 @@ Hold a pad to focus on a step in the clip view, you can then move the note or ch
 
 Each pad plays the note at a different velocity.
 
+You can hold a step (or multiple steps) in the step sequencer and tap a velocity to set that step's velocity.
+
 ## Loop Selector
 
 - To play an entire loop, press the first and the last loop pads simultaneously
