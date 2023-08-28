@@ -1,5 +1,6 @@
 # Ableton Push Devices
 
+- To re-order devices, hold the button above the device and twist the encoder right above it
 - Hold `Delete` then push the button above a device to delete it
 - Hold `M` and tap device button to toggle ("mute") a device
 - `+`: Add a Device / MIDI Track / Audio Track / Return Track (this will replace the current device)
