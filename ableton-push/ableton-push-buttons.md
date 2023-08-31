@@ -4,6 +4,7 @@
 
 - **Top Right:** Device, Mixer, Clip, Session
 - **Top Left, Below Knob:** Lock, Stop Clip, Mute, Solo
+    - Hold the lock button and then one of the other buttons to lock it, so that just pressing another button triggers the action (e.g., if `Solo` is locked, then you can just push a button below a track to solo it)
 - **Below D-Pad:** Note, Session
 
 ## Delete
