@@ -8,3 +8,4 @@
 - `[Recycle Icon]`: Enter swap mode to swap out a device (hit the `[Recycle Icon]` again to exit swap mode)
 - To edit all of the parameters for a device, push the device button again
 - To move a device, hold the device button and move the encoder in the direction you want to move it
+- There's an arrow in the lower right when accessing a devices parameters to show more parameters
