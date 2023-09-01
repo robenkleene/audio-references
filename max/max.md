@@ -53,6 +53,8 @@ Default values that are changed for a template (to be similar to Max for Live). 
 
 The default template can be changed in "Preferences" -> "Default Patcher Template".
 
+There's no option to the selection to the grid.
+
 ## Initial Window Size
 
 To set the window size and position, select "Definite Initial Window Location".
