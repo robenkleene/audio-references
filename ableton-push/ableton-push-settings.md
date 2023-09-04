@@ -5,6 +5,7 @@
 ## Clip vs. Scene
 
 - `Settings > Workflow` Has `Clip` and `Scene` options
+- When `Clip` is selected, hit shift to duplicate all playing clips to a new scene
 
 > Workflow can be set to Scene or Clip. This option determines how scenes and clips behave when pressing the Duplicate and New buttons or the up and down arrows on the Session D-pad.
 > 
