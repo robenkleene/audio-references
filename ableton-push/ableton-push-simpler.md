@@ -11,4 +11,7 @@
 - The `Sensitivity` encoder can be used to adjust how easily transients are detected
 - The `Beat` mode slices the sample based on time divisions
 - You can adjust the timing using the encoder above the display
+- You can select a pad and use the nudge encoder to select a slice start point
 - You can convert the slices to a drum rack by pressing the convert button and then pressing the button  under the display
+- The `Region` mode where the encoder above the display determines the number of regions
+- The `Manual` mode lets you manually set slices. In this mode, press the first pad to playback the sample, press subsequent pads to place slice markers. You can then adjust slices by selecting the pad and using the `Nudge` encoder.
