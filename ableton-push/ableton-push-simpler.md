@@ -15,3 +15,9 @@
 - You can convert the slices to a drum rack by pressing the convert button and then pressing the button  under the display
 - The `Region` mode where the encoder above the display determines the number of regions
 - The `Manual` mode lets you manually set slices. In this mode, press the first pad to playback the sample, press subsequent pads to place slice markers. You can then adjust slices by selecting the pad and using the `Nudge` encoder.
+- In `Through` mode, playing a pad plays the slice, and the  continues to play the rest of the sample. 
+
+## Melodic
+
+- If the `Warp` mode is on, playing a chord with a polyphonic sample, all notes playback at the same speed.
+- To use `Glide` mode, set the number of voices to one (so only one note can be played at a time), set the glide mode to on, and set the `Glide Time`. Then when you play a pad followed by another pad, it will glide smoothly between them.
