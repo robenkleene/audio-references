@@ -15,7 +15,10 @@
 - You can convert the slices to a drum rack by pressing the convert button and then pressing the button  under the display
 - The `Region` mode where the encoder above the display determines the number of regions
 - The `Manual` mode lets you manually set slices. In this mode, press the first pad to playback the sample, press subsequent pads to place slice markers. You can then adjust slices by selecting the pad and using the `Nudge` encoder.
-- In `Through` mode, playing a pad plays the slice, and the  continues to play the rest of the sample. 
+- In `Thru` playback mode, playing a pad plays the slice, and the  continues to play the rest of the sample.
+- The `Poly` playback mode allows playing more than one slice at a time.
+- The `Mono` playback mode allows playing only one slice at a time.
+- `Trigger` mode plays a `1-shot` sample all the way through, `Gate` mode plays as long as the sample is pressed. The `Fade In` and `Fade Out` determine how long the slice fades in and out.
 
 ## Melodic
 
