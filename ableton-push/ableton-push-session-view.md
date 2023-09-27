@@ -8,3 +8,6 @@
 - The directional pad buttons can be used to scroll to scenes and tracks that are offscreen
 - The octave up and down buttons page up and down through scenes, and the page buttons similar page left and right through tracks
 - Push the `Layout` button to see a minimap of the pages of tracks and scenes
+- Change the color of a clip by holding the `Shift` button and pushing the button for a clip
+- To duplicate a clip, hold `Duplicate` then tap the clip to copy, followed by the destination
+- To duplicate a track, hold `Duplicate` then tap the track to duplicate
