@@ -1,6 +1,6 @@
 # Ableton Push Loop Selector
 
-- The illuminated pads and colored pad shoe the loop length and current position
+- The illuminated pads and colored pad shows the loop length and current position
 - To play an entire loop, press the first and the last loop pads simultaneously
 - You can copy and paste loops in the loop selector section
 - Tap the double loop button to increase the length of a loop
