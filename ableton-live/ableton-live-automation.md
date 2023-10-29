@@ -24,7 +24,7 @@
 
 ## Clips
 
-- To turn on automation for a clip, switch to the `Envelopes` tab, select the device to automate on the left, and the parameter on the right.
+- Automation for clips is found under `Clip View > Clip > Envelopes`
 
 ## Master & Return Tracks
 
