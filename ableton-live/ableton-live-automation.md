@@ -26,6 +26,11 @@
 
 - Automation for clips is found under `Clip View > Clip > Envelopes`
 
+### Troubleshooting
+
+- By default session automation is only turned on for armed tracks, which means MIDI clips will record automation by default, but Audio tracks will not.
+- To fix this, set `Preferences > Record > Record Session Automation in: All Tracks` (as opposed to `Armed Tracks`)
+
 ## Master & Return Tracks
 
 To add automation to master or return tracks, just open the disclosure triangle on those tracks in the session view.
