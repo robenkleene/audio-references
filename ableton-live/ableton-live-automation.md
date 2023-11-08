@@ -1,6 +1,6 @@
 # Ableton Live Automation
 
-- `A`: Toggle `Automation` in the arrange view
+- `A`: Toggle `Automation` in the arrange view (if this isn't working, it's probably because `Options > Computer MIDI Keyboard` [keyboard icon in upper right] is toggled on, `M` to toggle off)
 - `click`: Add / remove point
 - `click&drag`: Move point
 - `⇧click`: Move point or line
