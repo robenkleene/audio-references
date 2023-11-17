@@ -1,6 +1,6 @@
 # Ableton Live Drum Rack
 
-- Hold `⌘` and drag to a sample slot in a Drum Rack: Automatically inserts an intermediary instrument rack.
+- Hold `⌘` and drag a second sample onto the same slot in a Drum Rack to automatically convert it to an Instrument Rack with both samples.
 
 ## Chain List
 
