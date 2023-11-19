@@ -1,5 +1,9 @@
 # Ableton Live MIDI
 
+## MIDI Editor
+
+- To make a section play faster or slower, just select the MIDI notes and drag the handles above it squash or expand that section
+
 ## Presets
 
 The `Pgm` and `Bank` settings to change external instrument presets are at the bottom of a MIDI clip's expanded options.
