@@ -4,9 +4,10 @@
 
 ## One-Shots
 
-- It's easier to turn off pitch tracking in Sampler, on the `Sample` tab, turn the set the `Scale` in the bottom middle from `100%` to `0` (note that this needs to be set per sample).
+- It's easier to turn off pitch tracking in Sampler, on the `Sample` tab, turn the set the `Scale` in the bottom middle from `100%` to `0` (note that this needs to be set per sample). Also set the release manually to a longer length than the sample.
 - The `Filter/Global` section has an amp envelope but it doesn't appear to work predictably?
 - Sampler has no per sample filter or amp envelope
+- Generally with samplers, playing `C3` will play the note at native speed.
 
 ### Distributing One-Shot Samples
 

@@ -1,5 +1,7 @@
 # Ableton Live Arrangement
 
+- `HOME` / `END`: Move the Insert Marker to the beginning or end of the track
+
 ## Loop
 
 - `⌘L`: Toggle loop
@@ -20,6 +22,8 @@
 
 - Start dragging a clip, hit `⇥` to switch to `Arrangement`, drop the clip
 
-### Scenes
+## Troubleshooting
 
+- When an audio in the arrange view can't be heard, click `Return to Arrangement` in the upper right of the tracks
+- Clicking `Return to Arrangement` will also prevent an audio track from being recorded over by clips
 

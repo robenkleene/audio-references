@@ -1,5 +1,11 @@
 # Ableton Live MIDI
 
+- `⌘B`: Turn on editing mode
+- `⌘1` / `⌘2`: Narrow / widen grid
+- To preview (play) notes when the MIDI editor is clicked on, turn on "MIDI Editor Preview" with the headphones icon above the piano roll notes.
+- To give multiple notes the same velocity, select the notes then drag their velocity to the maximum, then to the desired value.
+- To select all notes in a key, click the note in the piano roll.
+
 ## MIDI Editor
 
 - To make a section play faster or slower, just select the MIDI notes and drag the handles above it squash or expand that section

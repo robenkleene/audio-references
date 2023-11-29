@@ -2,6 +2,7 @@
 
 - `fn←`: Move the playhead to beginning of track
 - `⌥␣`: Play selection
+- `F9`: Record
 
 ## Playback
 
