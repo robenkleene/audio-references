@@ -7,6 +7,10 @@
 - To select all notes in a key, click the note in the piano roll.
 - Use `⇧` click to select multiple non-continuous MIDI notes
 
+## Notes
+
+- Having a MIDI controller plugged in automatically arms tracks when they are selected
+
 ## MIDI Editor
 
 - To make a section play faster or slower, just select the MIDI notes and drag the handles above it squash or expand that section
