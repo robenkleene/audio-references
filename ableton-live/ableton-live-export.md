@@ -2,7 +2,7 @@
 
 - `⇧⌘R` / `File > Export Audio/Video...`
 
-## Whole Song
+## Song
 
 To export the whole song, loop the entire song first:
 
@@ -10,6 +10,9 @@ To export the whole song, loop the entire song first:
 2. `⌘L`: To loop selection
 3. `⇧⌘R` / `File > Export Audio/Video...`
 
-## Trimming Samples & Saving Clips
+## Clips
 
-- Just freeze the track and it will be a `wav` file in the project folder, that you can copy somewhere else to save.
+To convert a clip to audio:
+
+1. Put the clip on a track in the arrangement view, then right-click and choose `Freeze Track`
+2. The `wav` file will now be in the project folder

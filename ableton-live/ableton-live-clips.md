@@ -6,4 +6,3 @@
 ## Scrubbing
 
 You can scrub audio by turning off quantization (`⌘0`) and moving the cursor above the waveform until it becomes a cursor icon.
-
