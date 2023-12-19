@@ -1,5 +1,7 @@
 # Ableton Live Window Management
 
+- `⌥⌘`: Toggle browser
+
 ## Focus
 
 ### Browser
