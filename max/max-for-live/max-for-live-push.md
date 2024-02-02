@@ -1,5 +1,6 @@
 # Max for Live Push
 
+- `View > Parameters`: Show all parameters
 - `live.banks`: Configure parameters
 - This object should be added to the first window the opens with a Max for Live device, because double-clicking the Max for Live window only works from that
 

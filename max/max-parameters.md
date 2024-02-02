@@ -1,5 +1,9 @@
 # Max Parameters
 
+- `View > Parameters`: List all parameters
+
+## Setting
+
 To set a value from an inspector via a message:
 
 1. In the inspector select the value to set and copy it (`⌘C`)
