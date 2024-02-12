@@ -5,7 +5,7 @@
 
 ## Unique Names
 
-When using multiple instances of the same `bpatcher`, to make sure objects have unique parameter names when using multiple instances, name each parameter (usually `Long Name` and `Scripting Name` starting with a `#1`). Then in the patcher containing the `bpatcher` set the `Argument(s)` field with a value for `#1`.
+When using multiple instances of the same `bpatcher`, to make sure objects have unique parameter names when using multiple instances, name each parameter (usually `Long Name` and `Scripting Name` starting with a `#1`). Then in the patcher containing the `bpatcher` set the `Argument(s)` field with a value for `#1`. If no argument is provided `#1` will be replaced with `0`.
 
 ## Presets on Load
 
