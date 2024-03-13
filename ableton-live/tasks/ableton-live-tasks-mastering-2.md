@@ -64,5 +64,3 @@ Why use two limiters? The longer lookahead time of the first limiter lets in les
 4. Increase the `Gain` of the second limiter until the meter shows it kicking in
 5. On the first `Limiter`, turn off `Auto` on the release and leave it at a long setting like `44 ms`
 
-## Why
-
