@@ -18,4 +18,27 @@ Outputs dictionaries of the current MIDI notes.
 
 Takes input of dictionaries to set the MIDI notes.
 
-## Dictionary Examples
+## Dictionary Format
+
+A `notes` key.
+
+- `pitch`
+- `start_time`
+- `duration`
+
+### Optional Keys
+
+- `velocity`
+- `mute`
+- `probability`
+- `release_velocity`
+
+### Examples
+
+- `pitch: 56`
+- `start_time: 0.`
+- `duration: 0.25`
+- `velocity: 100`
+- `probability: 1`
+
+Duration is relative to the current bar, so `0.25` is a quarter note.
