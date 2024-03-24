@@ -7,6 +7,10 @@
 - To select all notes in a key, click the note in the piano roll.
 - Use `⇧` click to select multiple non-continuous MIDI notes
 
+## Grid
+
+- `⌘1` / `⌘2`: Contract / expand grid
+
 ## Notes
 
 - Having a MIDI controller plugged in automatically arms tracks when they are selected
