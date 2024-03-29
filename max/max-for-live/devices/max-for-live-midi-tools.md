@@ -1,6 +1,6 @@
-# Max for Live Devices MIDI
+# Max for Live MIDI Tools
 
-There are two types, `Generator` and `Transformation`.
+There are two types of MIDI tools: `Generator` and `Transformation`.
 
 ## Generator
 
@@ -9,6 +9,10 @@ There are two types, `Generator` and `Transformation`.
 ## Transformation
 
 - Clicking the `Apply` button (or toggling the `Transform` button from the `Transform` section in the Live clip settings) triggers outputting *the current `notes` as a dictionary* from `live.miditool.in` (this means you don't need a separate button in Max patch to trigger the patch)
+
+## Opening & Testing
+
+Max for Live MIDI tools cannot be dragged and dropped into the UI the way regular Max for Live devices can. As a workaround, to quickly test a device, in the Ableton Live file tree click `Add Folder...` then add the folder for the Max for Live MIDI tool. It will then be available under the `Generate` drop-down menu.
 
 ## `live.miditool.in`
 
