@@ -12,7 +12,7 @@ There are two types of MIDI tools: `Generator` and `Transformation`.
 
 ## Opening & Testing
 
-Max for Live MIDI tools cannot be dragged and dropped into the UI the way regular Max for Live devices can. As a workaround, to quickly test a device, in the Ableton Live file tree click `Add Folder...` then add the folder for the Max for Live MIDI tool. It will then be available under the `Generate` drop-down menu.
+Max for Live MIDI tools cannot be dragged and dropped into the UI the way regular Max for Live devices can. As a workaround, to quickly test a device, in the Ableton Live file tree click `Add Folder...` then add the folder for the Max for Live MIDI tool. It will then be available under the `Generate` drop-down menu (note this adds the folder to Ableton Live permanently, not just to the current project, you can remove it later by right-clicking and choosing `Remove from Sidebar`).
 
 ## `live.miditool.in`
 
