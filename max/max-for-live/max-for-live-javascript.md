@@ -6,7 +6,23 @@
 
 A `function loadbang()` will be called along with patcher `loadbang`, but only if this is the default script (e.g., `js <script-name>`).
 
-When a script is first loaded the global JavaScript is run.
+When a script is first loaded the global JavaScript is run. After that only the called functions are run.
+
+This means with the following example:
+
+``` javascript
+var counter = 0;
+post("counter = " + counter + "\n");
+
+function bang() {
+	counter++;
+	post("bang counter = " + counter + "\n");
+}
+```
+
+- `counter = 0` will be printed when the script is first compiled
+- `counter = 1` will be printed when the script is first run
+- Subsequently the counter will be incremented by `1` each time it's run
 
 ## Dict
 
