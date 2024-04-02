@@ -2,6 +2,12 @@
 
 - When editing a JavaScript file in Max for Live, to save, just click the close button on the window and it'll prompt to save changes
 
+## Life Cycle
+
+A `function loadbang()` will be called along with patcher `loadbang`, but only if this is the default script (e.g., `js <script-name>`).
+
+When a script is first loaded the global JavaScript is run.
+
 ## Dict
 
 - Strangely `setparse` with a an array (e.g., `d.setparse("key", '[ { "foo": "bar" } ]');`) doesn't seem to work
