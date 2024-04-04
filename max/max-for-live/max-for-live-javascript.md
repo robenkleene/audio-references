@@ -3,6 +3,10 @@
 - When editing a JavaScript file in Max for Live, to save, just click the close button on the window and it'll prompt to save changes
 - JavaScript files default to `1` inlet and `1` outlet
 
+## Troubleshooting
+
+- It seems like it's impossible to get Max for Live to cleanly reload external JavaScript via `require()`. The files will re-compile, but the old versions of the JavaScript will still be called. The only things that work are completely quitting Live and re-opening, or running the JavaScript in Max instead of Live.
+
 ## Life Cycle
 
 A `function loadbang()` will be called along with patcher `loadbang`, but only if this is the default script (e.g., `js <script-name>`).
