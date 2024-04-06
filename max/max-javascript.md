@@ -16,3 +16,11 @@ function log(obj) {
 ```
 
 For a new line, just do a `post();` alone on its own line
+
+## Dict
+
+Max `Dict` doesn't support arrays of dictionaries, so you can do this:
+
+```
+d.set("foo", barDictArr);
+```
