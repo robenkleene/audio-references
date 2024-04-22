@@ -4,6 +4,7 @@
 - `click`: Add / remove point
 - `click&drag`: Move point
 - `⇧click`: Move point or line
+- `right-click` a parameter and choose `Show Automation` to make it automate-able
 
 ## Editing
 
@@ -13,6 +14,7 @@
 ## Snap
 
 - Turn off snap under `Options > Snap to Grid` (`⌘4`).
+- Hold `⌘` to disable snap while dragging
 - Constrain to one axis by holding `⇧` while dragging
 
 ## Graph Editor
