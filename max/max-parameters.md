@@ -14,7 +14,7 @@ To set a value from an inspector via a message:
 ## Troubleshooting
 
 - A common problem for a parameter not loading is because the value gets overwritten by a `loadmess`
-- Parameters seem to work well in `.amxd` but not great in `.maxpat`
+- If all else fails, you'll need to manually edit the JSON, search for a parameter name that isn't restoring and delete and JSON blocks that seem to be overriding it's value (typically either `"restore":` or `"parameters":`).
 
 ### `bpatcher`
 
