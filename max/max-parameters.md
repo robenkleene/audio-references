@@ -1,6 +1,7 @@
 # Max Parameters
 
 - `View > Parameters`: List all parameters
+- To initially assign parameter values, if we're using `pattrstorage` with `preset`, first load a preset, then show the parameters list (`View > Parameters`), then toggle all of the `Initial Value Enabled` checkboxes on (it will automatically populate the `Initial Value` field with the `Value`).
 - Parameters work the same whether using Max or Max for Live, parameters are stored in the `.maxpat` for Max (e.g., for the topmost patch) and in the `.amxd` for Max for Live
 
 ## Setting
