@@ -13,6 +13,7 @@ To set a value from an inspector via a message:
 ## Troubleshooting
 
 - A common problem for a parameter not loading is because the value gets overwritten by a `loadmess`
+- Parameters seem to work well in `.amxd` but not great in `.maxpat`
 
 ### `bpatcher`
 
