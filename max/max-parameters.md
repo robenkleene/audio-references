@@ -15,7 +15,7 @@ To set a value from an inspector via a message:
 ## Troubleshooting
 
 - A common problem for a parameter not loading is because the value gets overwritten by a `loadmess`
-- If all else fails, you'll need to manually edit the JSON, search for a parameter name that isn't restoring and delete and JSON blocks that seem to be overriding it's value (typically either `"restore":` or `"parameters":`).
+- If all else fails, you'll need to manually edit the JSON, search for a parameter name that isn't restoring and delete and JSON blocks that seem to be overriding it's value (typically either `"restore":` or `"parameter_overrides":` section in `"parameters":`, the `"parameters":` section itself is fine and should not be deleted).
 
 ### `bpatcher`
 
