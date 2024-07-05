@@ -3,7 +3,7 @@
 - `View > Parameters`: List all parameters
 - To initially assign parameter values, if we're using `pattrstorage` with `preset`, first load a preset, then show the parameters list (`View > Parameters`), then toggle all of the `Initial Value Enabled` checkboxes on (it will automatically populate the `Initial Value` field with the `Value`).
 - Parameters work the same whether using Max or Max for Live, parameters are stored in the `.maxpat` for Max (e.g., for the topmost patch) and in the `.amxd` for Max for Live
-- For objects that store complex settings, e.g., that use `Type: Blob` (like `live.step` and `function`) these only seem to work if the `Initial Value` is set on the object itself (in the inspector, under `Parameter`), rather than in the `Parameters` window.
+- For objects that store complex settings, e.g., that use `Type: Blob` (like `live.step` and `function`) these only seem to work if the `Initial Value` is set on the object itself (in the inspector, under `Parameter`), in addition to in the `Parameters` window. This means that if the `bpatcher` is included multiple times, all versions wills start out with same initial value from the `.maxpat`, this can then be overridden in the `Parameters` window.
 
 ## Setting
 
