@@ -12,4 +12,4 @@ The chain zones only determine which devices MIDI gets routed to, to toggle on a
 
 1. Toggle on `Map` for the macros
 2. Choose the device on button
-3. In the `Marco Mappings` sidebar that pops up, set the `Device: On` `Min` and `Max` to the same zone range that the chain is active for
+3. In the `Marco Mappings` sidebar that pops up, set the `Device: On` `Min` and `Max` to the same zone range that the chain is active form
