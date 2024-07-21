@@ -17,7 +17,8 @@ To map a control to a macro:
 
 1. Click the `Map` button on the rack's title bar while the rack's `Macro Controls` are visible
 2. After clicking the `Map` button, the `Macro Mappings` sidebar will appear that shows all the parameters mapped to that macro knob
-2. Click a control and an outline will highlight that control
-3. Click the map button on the macro knob
+3. Click a control and an outline will highlight that control
+4. Click the map button on the macro knob
+5. When you're done mapping parameters to macros, click the `Map` button in the rack's title bar again to exit mapping mode
 
 #### Mapping Device On/Off
