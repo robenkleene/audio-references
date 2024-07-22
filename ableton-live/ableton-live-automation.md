@@ -1,15 +1,18 @@
 # Ableton Live Automation
 
+## Turning On
+
 - `A`: Toggle `Automation` in the arrange view (if this isn't working, it's probably because `Options > Computer MIDI Keyboard` [keyboard icon in upper right] is toggled on, `M` to toggle off)
+- Automation for clips is found under `Envelopes` tab along the top
+
+## Editing
+
 - `click`: Add / remove point
 - `click&drag`: Move point
 - `⇧click`: Move point or line
 - `right-click` a parameter and choose `Show Automation` to make it automate-able
-
-## Editing
-
-- To delete automation, right-click on a control and select "Delete Automation".
-- To move all automation at once, right-click the track channel and select "Select all content" than move the cursor near the automation until the full automation highlights and click and drag the automation line up or down.
+- To delete automation, right-click on a control and select `Delete Automation`
+- To move all automation at once, right-click the track channel and select `Select all content` than move the cursor near the automation until the full automation highlights and click and drag the automation line up or down.
 
 ## Snap
 
@@ -26,7 +29,6 @@
 
 ## Clips
 
-- Automation for clips is found under `Clip View > Clip > Envelopes`
 
 ### Troubleshooting
 
