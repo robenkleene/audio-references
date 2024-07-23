@@ -1,3 +1,5 @@
 # Ableton Live Midi Effects Velocity
 
-Can randomize incoming velocity
+- The X-Y display shows 
+- Can randomize incoming velocity
+
