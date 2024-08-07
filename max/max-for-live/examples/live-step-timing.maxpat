@@ -46,9 +46,9 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"parameter_enable" : 1,
-					"patching_rect" : [ 40.0, 56.0, 44.0, 15.0 ],
+					"patching_rect" : [ 128.0, 112.0, 44.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 40.0, 56.0, 44.0, 15.0 ],
+					"presentation_rect" : [ 0.0, 0.0, 44.0, 15.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "val1", "val2" ],
@@ -86,6 +86,8 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 136.0, 392.0, 132.0, 22.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 0.0, 192.0, 132.0, 22.0 ],
 					"text" : "Open Global Transport"
 				}
 
@@ -313,7 +315,7 @@
  ]
 					}
 ,
-					"patching_rect" : [ 128.0, 104.0, 97.0, 22.0 ],
+					"patching_rect" : [ 128.0, 136.0, 97.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"description" : "",
 						"digest" : "",
@@ -335,7 +337,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 280.0, 56.0, 45.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 280.0, 56.0, 45.0, 15.0 ],
+					"presentation_rect" : [ 48.0, 0.0, 45.0, 15.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "1/32", "1/16", "1/8", "1/4", "1/2" ],
@@ -362,7 +364,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 127.0, 166.0, 400.0, 170.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 127.0, 166.0, 400.0, 170.0 ],
+					"presentation_rect" : [ -24.0, 16.0, 400.0, 170.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_invisible" : 1,
