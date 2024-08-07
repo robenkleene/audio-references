@@ -12,7 +12,7 @@
 		"classnamespace" : "box",
 		"rect" : [ 459.0, 100.0, 682.0, 651.0 ],
 		"bglocked" : 0,
-		"openinpresentation" : 0,
+		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
 		"default_fontface" : 0,
 		"default_fontname" : "Arial",
@@ -47,6 +47,8 @@
 					"outlettype" : [ "", "" ],
 					"parameter_enable" : 1,
 					"patching_rect" : [ 40.0, 56.0, 44.0, 15.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 40.0, 56.0, 44.0, 15.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "val1", "val2" ],
@@ -332,6 +334,8 @@
 					"outlettype" : [ "", "", "float" ],
 					"parameter_enable" : 1,
 					"patching_rect" : [ 280.0, 56.0, 45.0, 15.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 280.0, 56.0, 45.0, 15.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "1/32", "1/16", "1/8", "1/4", "1/2" ],
@@ -357,6 +361,8 @@
 					"outlettype" : [ "", "", "", "", "" ],
 					"parameter_enable" : 1,
 					"patching_rect" : [ 127.0, 166.0, 400.0, 170.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 127.0, 166.0, 400.0, 170.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_invisible" : 1,
