@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 539.0, 100.0, 1155.0, 848.0 ],
+		"rect" : [ 180.0, 100.0, 1155.0, 848.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -39,6 +39,70 @@
 		"subpatcher_template" : "",
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
+				"box" : 				{
+					"id" : "obj-30",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 768.0, 456.0, 32.0, 22.0 ],
+					"text" : "print"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-26",
+					"maxclass" : "live.text",
+					"numinlets" : 1,
+					"numoutlets" : 2,
+					"outlettype" : [ "", "" ],
+					"parameter_enable" : 1,
+					"patching_rect" : [ 768.0, 376.0, 44.0, 15.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 408.0, 0.0, 44.0, 15.0 ],
+					"saved_attribute_attributes" : 					{
+						"valueof" : 						{
+							"parameter_enum" : [ "val1", "val2" ],
+							"parameter_longname" : "live.text",
+							"parameter_mmax" : 1,
+							"parameter_modmode" : 0,
+							"parameter_shortname" : "Log",
+							"parameter_type" : 2
+						}
+
+					}
+,
+					"text" : "Log",
+					"texton" : "Log",
+					"varname" : "Log"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-19",
+					"maxclass" : "newobj",
+					"numinlets" : 2,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 768.0, 416.0, 32.0, 22.0 ],
+					"text" : "gate"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-18",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 208.0, 392.0, 19.0, 22.0 ],
+					"text" : "t l"
+				}
+
+			}
+, 			{
 				"box" : 				{
 					"id" : "obj-16",
 					"maxclass" : "newobj",
@@ -415,7 +479,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 936.0, 272.0, 46.0, 20.0 ],
+					"patching_rect" : [ 432.0, 472.0, 46.0, 20.0 ],
 					"text" : "Debug"
 				}
 
@@ -427,7 +491,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 936.0, 288.0, 132.0, 22.0 ],
+					"patching_rect" : [ 432.0, 488.0, 132.0, 22.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 0.0, 176.0, 132.0, 22.0 ],
 					"text" : "Open Global Transport"
@@ -443,7 +507,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 936.0, 318.0, 163.0, 22.0 ],
+					"patching_rect" : [ 432.0, 518.0, 163.0, 22.0 ],
 					"text" : "load globaltransport.maxpat"
 				}
 
@@ -457,7 +521,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 936.0, 348.0, 54.0, 22.0 ],
+					"patching_rect" : [ 432.0, 548.0, 54.0, 22.0 ],
 					"text" : "pcontrol"
 				}
 
@@ -834,6 +898,29 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-1", 0 ],
+					"order" : 1,
+					"source" : [ "obj-18", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-19", 1 ],
+					"order" : 0,
+					"source" : [ "obj-18", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-30", 0 ],
+					"source" : [ "obj-19", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-172", 0 ],
 					"source" : [ "obj-2", 0 ]
 				}
@@ -897,6 +984,13 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-19", 0 ],
+					"source" : [ "obj-26", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-28", 0 ],
 					"source" : [ "obj-27", 0 ]
 				}
@@ -925,14 +1019,14 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-1", 0 ],
+					"destination" : [ "obj-18", 0 ],
 					"source" : [ "obj-36", 0 ]
 				}
 
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-1", 0 ],
+					"destination" : [ "obj-18", 0 ],
 					"source" : [ "obj-37", 0 ]
 				}
 
@@ -967,7 +1061,7 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-1", 0 ],
+					"destination" : [ "obj-18", 0 ],
 					"source" : [ "obj-6", 0 ]
 				}
 
@@ -1044,6 +1138,7 @@
 		"parameters" : 		{
 			"obj-1" : [ "live.step", "live.step", 0 ],
 			"obj-2" : [ "Duration", "Duration", 0 ],
+			"obj-26" : [ "live.text", "Log", 0 ],
 			"obj-4" : [ "Play", "Play", 0 ],
 			"parameterbanks" : 			{
 				"0" : 				{
