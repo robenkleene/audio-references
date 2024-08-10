@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 73.0, 100.0, 1155.0, 848.0 ],
+		"rect" : [ 669.0, 100.0, 1155.0, 848.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -393,7 +393,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 936.0, 288.0, 132.0, 22.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 0.0, 192.0, 132.0, 22.0 ],
+					"presentation_rect" : [ 0.0, 176.0, 132.0, 22.0 ],
 					"text" : "Open Global Transport"
 				}
 
@@ -670,7 +670,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 16.0, 424.0, 400.0, 170.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ -24.0, 16.0, 400.0, 170.0 ],
+					"presentation_rect" : [ -24.0, 16.0, 472.0, 152.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_invisible" : 1,
