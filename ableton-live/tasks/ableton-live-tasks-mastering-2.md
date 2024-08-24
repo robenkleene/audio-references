@@ -16,11 +16,11 @@ Mid/Side Analysis & Adjustments
 The first `Utility` will be used to hear the mids, and the second sides.
 
 1. Before the limiter, add a `Utility`, `Utility`, then `EQ Eight`
-2. Set the both utilities to `Mono`.
+2. Toggle on `Mono` for both utilities
 3. Right-click the `Width` knob for the second `Utility` and set it to `Mid/Side`. Turn the `Mid/Side` dial all the way to the right (to `100S`).
 3. For the `EQ Eight`:
     - Set `Mode: M/S`
-    - Turn off all the stops except the farthest left and right. Set the leftmost `Filter Mode` to `48 dB` slope `low cut` (the `4x` option) and rightmost `Filter Mode` to `12 dB` slope cutoff.
+    - Turn off all the stops except the farthest left and right. Set the rightmost `Filter Mode` to `48 dB` slope `low cut` (the `4x` option) and leftmost `Filter Mode` to `12 dB` high cut.
     - Turn on the `3` stop and set the `Filter Mode` to `Bell` (we'll use this one to scan for frequencies)
 
 ![Utilities](assets/ableton-live-utilities.png)
