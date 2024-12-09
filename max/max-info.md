@@ -1,0 +1,27 @@
+# Max Info
+
+## Annotation
+
+Displayed in the `Clue Bar` (`Max > View > Clue Bar`), when hovering the object.
+
+A line of text is appropriate.
+
+## Hint
+
+Displayed in yellow pop-up when hovering the object in a locked Max patcher (in both Max and Max for Live).
+
+A block of text is appropriate.
+
+## Max for Live Only
+
+### Info View Text
+
+Displayed in the `Clue Bar` and in the `Info View` in Live.
+
+A block of text is appropriate.
+
+### Info View Title
+
+Displayed as the title in the `Clue Bar` and in the `Info View` in Live.
+
+A line of text is appropriate.
