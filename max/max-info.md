@@ -2,9 +2,9 @@
 
 ## Annotation
 
-Displayed in the `Clue Bar` (`Max > View > Clue Bar`), when hovering the object.
+Displayed in the `Clue Bar` (`Max > View > Clue Bar`), when hovering the object. This is also shown in the `Info View` in Live.
 
-A line of text is appropriate.
+A block of text is appropriate.
 
 ## Hint
 
