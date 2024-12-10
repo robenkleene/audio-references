@@ -2,7 +2,7 @@
 
 ## Annotation
 
-Displayed in the `Clue Bar` (`Max > View > Clue Bar`), when hovering the object. This is also shown in the `Info View` in Live.
+Displayed in the `Clue Bar` (`Max > View > Clue Bar`), when hovering the object (if this is multiple lines, only the first line will be shown). This is also shown in the `Info View` in Live.
 
 A block of text is appropriate.
 
