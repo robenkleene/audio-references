@@ -7,9 +7,10 @@
 
 - `Shift` (`...`) and button `5` to set the tempo
 
-## Updating
+## Status
 
-- Hold `Shift` (`...`) and press button `2`, then choose `Update` with the wheel
+- Hold `Shift` (`...`) and press button `2`, then choose `Update` with the wheel to update
+- This menu also shows the battery status
 
 ## Controling Live
 
