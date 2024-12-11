@@ -1,3 +1,3 @@
 # Ableton Move Metronome
 
-- To toggle on, hold shift and push button `6`
+- To toggle on, `Shift` (`...`) and button `6`
