@@ -1,4 +1,4 @@
-# Ableton Move Metronome
+# Ableton Move Timing
 
 - To toggle on, `Shift` (`...`) and button `6`
 - Quantize with `Shift` (`...`) and button `16`
