@@ -1,7 +1,7 @@
 # Simpler
 
 - Hit the arrow in the upper-left to get a larger view of the sample.
-- To group to a drum rack, right-click and select "Group to Drum Rack".
+- To group to a drum rack, right-click and select `Group to Drum Rack` (there's not keyboard shortcut to group to a drum rack).
 
 ## Slicing
 
