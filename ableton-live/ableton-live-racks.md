@@ -17,6 +17,13 @@
 - Use `⌘R` to rename macro controls
 - To add a third-party instrument's parameters, click `Configure` then move a parameter, it will appear in the Ableton Live panel for that instrument, then can be right-clicked to map to a macro.
 
+### Macro Variations
+
+- Show by toggling the `Show/Hide Macro Variations` button
+- The `New` button stores a new `Macro Variation` with the current settings
+- Double-click the variation name, or single click the play button, to restore a variation
+- If a parameter changes with a variation selected, then a asterisk (`*`) appears next to its name to indicate it was edited. To update an edited variation click the `Overwrite` button (looks like the top a battery with a `+` icon on it) for the variation
+
 ## Toggling Devices
 
 1. Group effects into an `Audio Effect Rack` (select the devices and `⌘G`)
