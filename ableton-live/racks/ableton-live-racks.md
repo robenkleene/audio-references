@@ -23,7 +23,9 @@ To map a control to a macro:
 
 ## Chain Selector
 
-The chain selector only determines where MIDI is routed, that means that it doesn't disable audio or MIDI output for devices that aren't in that chain. This means for example that instruments and MIDI effects that don't need MIDI input will continue to output sound or MIDI even if they aren't on a selected chain. As a workaround, these devices can be toggled on and off with the same macro as the `Chain Selector`.
+A device can only exist on one chain at a time.
+
+The chain selector only determines where audio or MIDI is routed, that means that *it doesn't disable audio or MIDI output for devices that aren't in the selected chain*. This means instruments and MIDI effects that don't need MIDI input will continue to output audio or MIDI even if they aren't on a selected chain. As a workaround, these devices can be toggled on and off with the same macro as the `Chain Selector`.
 
 - Show it by choosing the `Chain` tab, then move the zone to choose when the chain active. If the chain is active MIDI will be sent to that chain (note that if a chain outputs audio without MIDI input, e.g., if it has a MIDI device on it that outputs MIDI, then that will continue to be active, the chain selector only controls which chain has MIDI routed to it)
 
