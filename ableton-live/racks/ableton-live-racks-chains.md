@@ -1,5 +1,6 @@
 # Ableton Live Racks Chains
 
+- A chain is a path from MIDI to signal to output
 - A device can only exist on one chain at a time.
 
 ## Notes
