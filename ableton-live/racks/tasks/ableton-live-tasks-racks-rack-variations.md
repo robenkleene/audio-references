@@ -7,7 +7,7 @@
 3. Select the `Chain` tab in the rack interface, for each device chain, move the little blue zone selectors so they don't overlap (i.e., drag the zone selector one key over so `0` is the first chain, and `1` is the second chain).
 4. Map a `Macro` dial to the `Chain Selector` (the little tab at the top of the chain view) by toggling on the `Map` button at the top of the `MIDI Effect Rack`, then clicking the `Chain Selector` tab, then clicking the `Map` button on one of the `Macro` dials.
 
-## Toggling `Device On` in a `MIDI Effect Rack` 
+## Toggling `Device On` in a `MIDI Effect Rack`
 
 The chain zones only determine which devices MIDI gets routed to, to toggle on and off MIDI devices that output, regardless of MIDI input (e.g., for devices that generate MIDI), also map `Device On` for the device to the same `Chain Selector` `Macro` dial.
 
