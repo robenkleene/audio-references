@@ -4,7 +4,7 @@ Macros allow you to take map a knob to control a parameter inside the rack. Mult
 
 ## Mappings
 
-- Multiple parameters can be mapped to a single macro dial, if `Map` is active in the rack's title bar, then clicking a device parameter will activate the `Map` button on the macro dial's, if that parameter is already mapped to the device parameter, then it will be an `Unmap` button to unmap that parameter from that dial.
+- Multiple parameters can be mapped to a single macro dial, if `Map` is active in the rack's title bar, then clicking a device parameter will activate the `Map` button on the macro dial's, if that parameter is already mapped to the device parameter, then it will be an `Unmap` button to unmap that parameter from that dial. (Note that unmapping parameters never changes the name of the macro dial, like `Map` does when adding the first parameter, so macro dial names need to be renamed manually after unmapping.)
 
 To map a control to a macro:
 
