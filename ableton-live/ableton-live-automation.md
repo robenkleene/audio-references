@@ -4,6 +4,7 @@
 
 - `A`: Toggle `Automation` in the arrange view (if this isn't working, it's probably because `Options > Computer MIDI Keyboard` [keyboard icon in upper right] is toggled on, `M` to toggle off)
 - Automation for clips is found under `Envelopes` tab along the top
+- Note that if automation is just setting a parameter to a single value (e.g., `Device On`), then you only need one point at the beginning (a second point at the end it superfluous)
 
 ## Editing
 
