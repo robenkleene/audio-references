@@ -1,7 +1,8 @@
 # Ableton Live Clips
 
 - Double-click to create a warp marker
-- Shift drag on the audio to move the audio under the warp marker
+- `⇧Drag` on the audio to move the audio under the warp marker
+- If all the clip slots are filled, use `Create > Insert Scene` (`⌘I`) to add another scene
 
 ## Scrubbing
 
