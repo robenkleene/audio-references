@@ -1,6 +1,6 @@
 # Max Packages
 
-For this to work, an ancestor directory has to be included in `Options > File Preferences...`.
+For this to work, an ancestor directory has to be included in `Options > File Preferences...` (this path is supposed to be added automatically, but didn't seem to be working, see `packages` reference).
 
 Folders with `*` are automatically included in the search path:
 
