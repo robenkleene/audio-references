@@ -1,131 +1,135 @@
 # Max Packages
 
-Folders with `*` are automatically included in the search path
+For this to work, an ancestor directory has to be included in `Options > File Preferences...`.
 
-            * clippings
-          	Patchers to list in the "Paste From..." contextual menu when patching
+Folders with `*` are automatically included in the search path:
 
-            * code
-          	Gen patchers
+```
+* clippings
+Patchers to list in the "Paste From..." contextual menu when patching
 
-            collections
-          	Collections to list in the File Browser that are associated with the package
+* code
+Gen patchers
 
-            default-definitions
-          	Definition info for Object Defaults support in UI externals
+collections
+Collections to list in the File Browser that are associated with the package
 
-            default-settings
-          	Saved color schemes for Object Defaults
+default-definitions
+Definition info for Object Defaults support in UI externals
 
-            * devices
-          	Max for Live devices (AMXDs)
+default-settings
+Saved color schemes for Object Defaults
 
-            * docs
-          	Reference pages and Vignettes to be accessible from the Documentation Window
+* devices
+Max for Live devices (AMXDs)
 
-            * examples
-          	Example patchers and supporting material
+* docs
+Reference pages and Vignettes to be accessible from the Documentation Window
 
-            * extensions
-          	Special external objects loaded on Max launch
+* examples
+Example patchers and supporting material
 
-            * externals
-          	External objects
+* extensions
+Special external objects loaded on Max launch
 
-            * extras
-          	Patchers to be listed in the "Extras" menu
+* externals
+External objects
 
-            * fonts
-          	Custom fonts available to Max when the Package is present
+* extras
+Patchers to be listed in the "Extras" menu
 
-            * help
-          	Help patchers and supporting material
+* fonts
+Custom fonts available to Max when the Package is present
 
-            
-              icon.png
-            
-          	
-            A PNG graphic file (500x500px) for display in the
-            Package Manager
-          
+* help
+Help patchers and supporting material
 
-            init
-          	Text files interpreted by Max at launch
 
-            interfaces
-          	Supporting files for objects to display in the top patcher toolbar and other Max integration.
+  icon.png
 
-            * java-classes
-          	Compiled Java classes for use in mxj/mxj~. Place .jar folders in a 'lib' subfolder.
 
-            java-doc
-          	Documentation for Java classes
+A PNG graphic file (500x500px) for display in the
+Package Manager
 
-            * javascript
-          	Javascript files to be used by js
 
-            * jsextensions
-          	Extensions to JS implemented as special externals or js files
+init
+Text files interpreted by Max at launch
 
-            * jsui
-          	Javascript files to be used by jsui, and listed in the contextual menu for jsui
+interfaces
+Supporting files for objects to display in the top patcher toolbar and other Max integration.
 
-            
-              
-                license.txt
-              
-              or
-              
-                license.md
-              
-            
-          	
-            Terms of use / redistribution of your package (plain text or
-            Markdown
-            permitted)
-          
+* java-classes
+Compiled Java classes for use in mxj/mxj~. Place .jar folders in a 'lib' subfolder.
 
-            * media
-          	Media files to be included in the searchpath
+java-doc
+Documentation for Java classes
 
-            * misc
-          	Anything
+* javascript
+Javascript files to be used by js
 
-            * patchers
-          	Patchers or abstractions to be included in the searchpath
+* jsextensions
+Extensions to JS implemented as special externals or js files
 
-            * projects
-          	Projects to be included in the searchpath. Note that only the project file will be added to the searchpath.
+* jsui
+Javascript files to be used by jsui, and listed in the contextual menu for jsui
 
-            * object-icons
-          	An SVG-format object icon for a particular Max object (named <objectname>.svg), used in the Object Browser
 
-            object-prototypes
-          	Object Prototypes will be listed in the context menu for a selected UI object
+  
+    license.txt
+  
+  or
+  
+    license.md
+  
 
-            
-              
-                readme.txt
-              
-              or
-              
-                readme.md
-              
-            
-          	
-            Information about your package (plain text or
-            Markdown
-            permitted)
-          
 
-            snippets
-          	Snippets associated with this package
+Terms of use / redistribution of your package (plain text or
+Markdown
+permitted)
 
-            source
-          	Source code for external objects, ignored by Max
 
-            support
-          	Special location for DLL or dylib dependencies of external objects. Added to the DLL search path on Windows.
+* media
+Media files to be included in the searchpath
 
-            templates
-          	Patchers to be listed in the "File > New From Template" menu
+* misc
+Anything
+
+* patchers
+Patchers or abstractions to be included in the searchpath
+
+* projects
+Projects to be included in the searchpath. Note that only the project file will be added to the searchpath.
+
+* object-icons
+An SVG-format object icon for a particular Max object (named <objectname>.svg), used in the Object Browser
+
+object-prototypes
+Object Prototypes will be listed in the context menu for a selected UI object
+
+
+  
+    readme.txt
+  
+  or
+  
+    readme.md
+  
+
+
+Information about your package (plain text or
+Markdown
+permitted)
+
+
+snippets
+Snippets associated with this package
+
+source
+Source code for external objects, ignored by Max
+
+support
+Special location for DLL or dylib dependencies of external objects. Added to the DLL search path on Windows.
+
+templates
+Patchers to be listed in the "File > New From Template" menu
+```
