@@ -9,7 +9,7 @@
 
 ## Printing
 
-```
+``` javascript
 function log(obj) {
   post(JSON.stringify(obj));
 }
@@ -21,6 +21,6 @@ For a new line, just do a `post();` alone on its own line
 
 Max `Dict` doesn't support arrays of dictionaries, so you can do this:
 
-```
+``` javascript
 d.set("foo", barDictArr);
 ```
