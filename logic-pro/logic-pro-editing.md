@@ -6,6 +6,8 @@
 
 ## Ripple Delete
 
+It's called "ripple" because the effect of the edit "ripples" to affect other clips.
+
 Use `⌘-drag` to select an area (regardless of whether it contains regions) and then select `Edit > Delete and Move` to delete the selection and move everything from the right to fill the space (ripple delete).
 
 There's no default key binding for `Delete and Move`, but `⇧⌫` makes a nice custom binding from Adobe Premiere Pro.
