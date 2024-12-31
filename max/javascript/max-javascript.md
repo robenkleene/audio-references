@@ -7,6 +7,11 @@
 
 - Max JavaScript does not support default parameters for functions
 
+``` javascript
+// Re-compile the file automatically when it changes
+autowatch = 1;
+```
+
 ## Printing
 
 ``` javascript
