@@ -8,10 +8,15 @@
 
 ## Clip View
 
-- Use the jog wheel to select individual notes
 - `Zoom`: Zoom in / out
 - `Loop Length`: Change the length of the clip
 - Hold `Delete` and push a pad to delete all notes for that pad
+- Push the `Edit` displayed button to enter `Note Edit` mode
+
+### Note Edit
+
+- Use the jog wheel to select individual notes
+- With a note selected, use the `Position` encoder to change its position
 
 ## Troubleshooting
 
