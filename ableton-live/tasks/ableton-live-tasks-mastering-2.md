@@ -49,7 +49,7 @@ Do this for both mids and side, toggle between them by switching between `Edit: 
 1. Add a `Glue Compressor` between the `EQ Eight` and the `Limiter`
 2. Toggle the disclosure arrow in the upper left of the `Glue Compressor` to show its full settings
 3. Toggle on the `EQ` button (`Toggle Sidechain EQ`)
-4. Find the fundamental frequency of the kick drum by using the a stop in the `EQ Eight`
+4. Find the fundamental frequency of the kick drum by using the `a` stop in the `EQ Eight`
 5. Choose `Filter Type: Notch` (looks like a hill)
 6. For the `Glue Compressor`, set the `Attack` a bit slow, around `8 ms`, and the `Release` faster, like `3 ms`
 7. For the `Glue Compressor`, adjust the `Threshold` by ear, and set the `Gain` to make up any lost gain (check the limiter)
