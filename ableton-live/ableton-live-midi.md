@@ -6,6 +6,7 @@
 - To give multiple notes the same velocity, select the notes then drag their velocity to the maximum, then to the desired value.
 - To select all notes in a key, click the note in the piano roll.
 - Use `⇧` click to select multiple non-continuous MIDI notes
+- Click a note to select all notes in that key
 
 ## Grid
 
