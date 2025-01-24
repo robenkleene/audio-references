@@ -16,3 +16,15 @@
 | Submediant      | vi            | Contrast, deception   | Am (A-C-E)         | F (F-A-C)          |
 | Leading Tone    | vii°          | Resolution to tonic   | B° (B-D-F)         | G#° (G#-B-D)       |
 | Supertonic      | ii            | Pre-dominant          | Dm (D-F-A)         | B° (B-D-F)         |
+
+| Function          | Major Key Triad  | Minor Key Triad             |
+|-------------------|------------------|-----------------------------|
+| Tonic (I)         | Major Triad      | Minor Triad                 |
+| Subdominant (IV)  | Major Triad      | Minor Triad                 |
+| Dominant (V)      | Major Triad      | Minor Triad (natural minor) |
+| Mediant (iii)     | Minor Triad      | Major Triad                 |
+| Submediant (vi)   | Minor Triad      | Major Triad                 |
+| Leading Tone (vii°) | Diminished Triad | Diminished Triad          |
+| Supertonic (ii)   | Minor Triad      | Diminished Triad            |
+
+Dominant minor key triad can also be `Major Triad (harmonic minor)`
