@@ -5,17 +5,17 @@
 In C major: D minor 7th - G 7th - C major 7th
 
 ```
-   X
-X     X
-   0
+   7
+3     5
+   1
 
- X
-X 0
-  X
+ 3
+7 1
+  5
 
- X
-  X
-0   X
+  7
+3  5
+ 1  
 ```
 
 ## `iv V i`
