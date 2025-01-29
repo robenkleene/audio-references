@@ -2,7 +2,7 @@
 
 ## `ii V I`
 
-D minor 7th - G 7th - C major 7th
+In C: D minor 7th - G 7th - C major 7th
 
 ```
    X
@@ -20,9 +20,13 @@ X 0
 
 ## `iv V i`
 
+In A: D minor 7th - E 7th - Bonus E 7th (#5, #9) - A minor 9th
+
+- No root in the third and fourth chords?
+
 ```
-  X X
-O   X
+  X 0
+X   X
 
 X  X
   X
@@ -30,9 +34,9 @@ X  X
 
   X
 X X
- 0
+ X
 
 X
 XX
- 0
+ X
 ```
