@@ -5,9 +5,9 @@
 In C major: D minor 7th - G 7th - C major 7th
 
 ```
-   7
-3     5
-   1
+5   7
+ 3
+    1
 
  3
 7 1
