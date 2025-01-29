@@ -33,13 +33,13 @@ In A minor: D minor 7th - E 7th - Bonus E 7th (#5, #9) - A minor 9th
   3
    1
 
-  X
-X X
- X
+  9
+5 7
+ 3
 
-X
-XX
- X
+5
+93
+ 7
 ```
 
 ## `VI VII i`
