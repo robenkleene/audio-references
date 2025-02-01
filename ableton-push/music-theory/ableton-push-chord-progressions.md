@@ -34,8 +34,8 @@ In A minor: D minor 7th - E 7th - Bonus E 7th (#5, #9) - A minor 9th
  1   |    1
 
  9    |   9
- 7  5 | 5 7
-3     |  3
+ 7    | 5 7
+3   5 |  3
 
 5
 93
