@@ -54,12 +54,15 @@ Third Inversion
 In A minor: F major - G major
 
 ```
+Root
 3  5
  1
 
+Root
 3  5
  1
 
+Root
   5
 1  3
 ```
