@@ -5,14 +5,17 @@
 In C major: D minor 7th - G 7th - C major 7th
 
 ```
+Root
 5   7
  3
     1
 
+Second Inversion
  3
 7 1
   5
 
+Root
   7
 3  5
  1  
