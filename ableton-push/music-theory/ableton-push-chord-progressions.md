@@ -25,18 +25,22 @@ In A minor: D minor 7th - E 7th - Bonus E 7th (#5, #9) - A minor 9th
 - No root in the third and fourth chords
 
 ```
+First Inversion
 1
 5  7
  3
 
+Root
  7   | 5  7
 3  5 |   3
  1   |    1
 
+Root
  9    |   9
  7    | 5 7
 3   5 |  3
 
+Third Inversion
 5
 93
  7
