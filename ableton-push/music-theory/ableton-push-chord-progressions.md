@@ -1,6 +1,24 @@
 # Ableton Push Chord Progressions
 
-## `ii V I`
+## Major
+
+### `IV ii iii` Major
+
+```
+Root
+  5
+1   3
+
+Root
+  5
+1  3
+
+Root
+  5
+1  3
+```
+
+### `ii V I` Major
 
 In C major: D minor 7th - G 7th - C major 7th
 
@@ -18,10 +36,12 @@ Second Inversion
 Root
   7
 3  5
- 1  
+ 1
 ```
 
-## `iv V i`
+## Minor
+
+### `iv V i` Minor
 
 In A minor: D minor 7th - E 7th - Bonus E 7th (#5, #9) - A minor 9th
 
@@ -49,7 +69,7 @@ Third Inversion
  7
 ```
 
-## `VI VII i`
+### `VI VII i` Minor
 
 In A minor: F major - G major
 
