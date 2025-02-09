@@ -52,7 +52,14 @@ Root
  1
 
 Third Inversion
+5
+ 3
+ 7 1
 
+A7 ♭9#5 (no root
+   5
+9   3
+   7
 ```
 
 ### `iv V i` Minor
