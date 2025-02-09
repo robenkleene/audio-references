@@ -41,6 +41,20 @@ Root
 
 ## Minor
 
+### `VI i I7`
+
+In A minor: F major 7th
+
+```
+Root
+  7
+3  5
+ 1
+
+Third Inversion
+
+```
+
 ### `iv V i` Minor
 
 In A minor: D minor 7th - E 7th - Bonus E 7th (#5, #9) - A minor 9th

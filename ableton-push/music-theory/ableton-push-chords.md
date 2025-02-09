@@ -1,8 +1,8 @@
 # Ableton Push Chords
 
-## Major
+## Major Triad
 
-Root
+### Root
 
 ```
   5
@@ -16,7 +16,8 @@ Root
    1
 ```
 
-First Inversion
+### First Inversion
+
 ```
 1
 5
@@ -26,16 +27,28 @@ First Inversion
 3  5
 ```
 
-Second Inversion
+### Second Inversion
+
 ```
 3
  1
  5
 ```
 
+## Major 7th
+
+### Root
+
+```
+  7
+3  5
+ 1
+```
+
 ## Minor
 
-Root
+### Root
+
 ```
    5
 1   3
@@ -48,14 +61,15 @@ Root
    1
 ```
 
-First Inversion
+### First Inversion
 ```
 1
 5
  3
 ```
 
-Second Inversion
+### Second Inversion
+
 ```
 3
   1
@@ -65,9 +79,31 @@ Second Inversion
 5
 ```
 
+## Minor 7th
+
+### Root
+
+```
+7
+   5
+1   3
+
+5   7
+ 3
+    1
+```
+
+### Third Inversion
+
+```
+   5
+1   3
+    7
+```
+
 ## Diminished
 
-Root
+### Root
 ```
  5
 1   3
@@ -80,7 +116,8 @@ Root
     1
 ```
 
-First Inversion
+### First Inversion
+
 ```
  1
 5
@@ -90,7 +127,8 @@ First Inversion
 3  5
 ```
 
-Second Inversion
+### Second Inversion
+
 ```
 3
  1
