@@ -193,14 +193,32 @@
 ### First Inversion
 
 ```
+7 1
+  5
+    3
+
+ 7 1
+3  5
 ```
 
 ### Second Inversion
 
 ```
+    3
+
+7 1
+  5
 ```
 
 ### Third Inversion
 
 ```
+    3
+     5
+7 1
+
+3
+ 5
+
+  7 1
 ```
