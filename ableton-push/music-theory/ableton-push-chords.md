@@ -40,9 +40,28 @@
 ### Root
 
 ```
+ 7
+  5
+1   3
+
   7
 3  5
  1
+```
+
+### First Inversion
+
+```
+```
+
+### Second Inversion
+
+```
+```
+
+### Third Inversion
+
+```
 ```
 
 ## Minor
@@ -137,4 +156,33 @@
 3
  1
 5
+```
+
+## Dominant
+
+### Root
+
+```
+7
+  5
+1   3
+
+ 7
+3  5
+ 1
+```
+
+### First Inversion
+
+```
+```
+
+### Second Inversion
+
+```
+```
+
+### Third Inversion
+
+```
 ```
