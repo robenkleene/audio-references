@@ -52,16 +52,34 @@
 ### First Inversion
 
 ```
+71
+ 5
+   3
+
+  71
+3  5
 ```
 
 ### Second Inversion
 
 ```
+   3
+
+71
+ 5
 ```
 
 ### Third Inversion
 
 ```
+   3
+    5
+71
+
+3
+ 5
+
+   71
 ```
 
 ## Minor
