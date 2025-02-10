@@ -63,7 +63,6 @@
 ### Second Inversion
 
 ```
-
  3
 71
  5
