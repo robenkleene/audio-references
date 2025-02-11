@@ -207,7 +207,6 @@
 ### Root
 
 ```
-
 ```
 
 ### First Inversion
