@@ -170,15 +170,16 @@
 ## Diminished Triad
 
 ### Root
+
 ```
  5
 1   3
 
-3  5
-  1
+3 5
+ 1
 
 5
-  3
+   3
     1
 ```
 
@@ -189,8 +190,8 @@
 5
    3
 
-    1
-3  5
+   1
+3 5
 ```
 
 ### Second Inversion
@@ -199,6 +200,29 @@
 3
  1
 5
+```
+
+## Diminished 7th
+
+### Root
+
+```
+
+```
+
+### First Inversion
+
+```
+```
+
+### Second Inversion
+
+```
+```
+
+### Third Inversion
+
+```
 ```
 
 ## Dominant Triad
