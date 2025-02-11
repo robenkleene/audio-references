@@ -47,6 +47,11 @@
   7
 3  5
  1
+
+7
+ 5
+   3
+    1
 ```
 
 ### First Inversion
@@ -71,16 +76,15 @@
 ### Third Inversion
 
 ```
-3   5
+3  5
 71
 
- 5
-
-   3
-   71
+5
+  3
+  71
 ```
 
-## Minor
+## Minor Triad
 
 ### Root
 
@@ -163,7 +167,7 @@
    7
 ```
 
-## Diminished
+## Diminished Triad
 
 ### Root
 ```
@@ -197,7 +201,38 @@
 5
 ```
 
-## Dominant
+## Dominant Triad
+
+### Root
+
+```
+  5
+1   3
+
+3  5
+ 1
+```
+
+### First Inversion
+
+```
+1
+5
+  3
+
+   1
+3  5
+```
+
+### Second Inversion
+
+```
+3
+ 1
+ 5
+```
+
+## Dominant 7th
 
 ### Root
 
