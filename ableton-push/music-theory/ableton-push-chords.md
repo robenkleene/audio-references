@@ -128,16 +128,39 @@
     1
 ```
 
+### First Inversion
+
+```
+7 1
+  5
+   3
+
+1
+5  7
+ 3
+```
+
+### Second Inversion
+
+```
+3
+7 1
+  5
+
+1  3
+5  7
+```
+
 ### Third Inversion
 
 ```
-   5
-1   3
-    7
-
 5
  3
  7 1
+
+  5
+1  3
+   7
 ```
 
 ## Diminished
