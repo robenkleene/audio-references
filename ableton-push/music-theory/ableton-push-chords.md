@@ -285,11 +285,10 @@ Major triad with a minor 7th
 ### Third Inversion
 
 ```
- 3   5
+ 3  5
 7 1
 
  5
-
    3
   7 1
 ```
