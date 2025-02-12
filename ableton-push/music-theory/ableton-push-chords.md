@@ -37,7 +37,7 @@
 
 ## Major 7th
 
-A major triad with a major 7th.
+Major triad with a major 7th
 
 ### Root
 
@@ -121,6 +121,8 @@ A major triad with a major 7th.
 ```
 
 ## Minor 7th
+
+Minor triad with a minor 7th
 
 ### Root
 
@@ -206,7 +208,7 @@ A major triad with a major 7th.
 
 ## Diminished 7th
 
-A diminished triad with a diminished 7th.
+Diminished triad with a diminished 7th
 
 ### Root
 
@@ -228,42 +230,26 @@ A diminished triad with a diminished 7th.
 ```
 ```
 
-## Dominant Triad
-
-PROBABLY WRONG
+## Augmented Triad
 
 ### Root
 
 ```
-  5
-1   3
-
-3  5
- 1
 ```
 
 ### First Inversion
 
 ```
-1
-5
-  3
-
-   1
-3  5
 ```
 
 ### Second Inversion
 
 ```
-3
- 1
- 5
 ```
 
 ## Dominant 7th
 
-A major triad with a minor 7th.
+Major triad with a minor 7th
 
 ### Root
 
