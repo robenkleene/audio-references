@@ -1,5 +1,6 @@
 # Ableton Move Effects
 
+- In `Session Mode`, the set's Main Effects can be changed
 - Does not appear you can mute effects on Ableton Move
 
 ## Drums
