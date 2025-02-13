@@ -11,3 +11,7 @@
 - The layout used is called isomorphic layout
 - This layout means you only have to use one pattern for each type of chord, then you can apply that to other notes
 - One semitone going to the right, and five semitones (perfect fourth) going up
+
+## Chromatic Mode
+
+In chromatic mode, the keys start repeating after one hand length. For example the sixth note in a row is the same as the first note in the row above it.
