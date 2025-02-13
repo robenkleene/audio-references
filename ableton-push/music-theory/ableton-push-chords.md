@@ -4,6 +4,8 @@
 
 ### Root
 
+1 is the bottom note
+
 ```
   5
 1   3
@@ -18,6 +20,8 @@
 
 ### First Inversion
 
+3 is the bottom note
+
 ```
 1
 5
@@ -28,6 +32,8 @@
 ```
 
 ### Second Inversion
+
+5 is the bottom note
 
 ```
 3
@@ -40,6 +46,8 @@
 Major triad with a major 7th
 
 ### Root
+
+1 is the bottom note
 
 ```
  7
@@ -58,6 +66,8 @@ Major triad with a major 7th
 
 ### First Inversion
 
+3 is the bottom note
+
 ```
 71
  5
@@ -69,6 +79,8 @@ Major triad with a major 7th
 
 ### Second Inversion
 
+5 is the bottom note
+
 ```
 3
 71
@@ -76,6 +88,8 @@ Major triad with a major 7th
 ```
 
 ### Third Inversion
+
+7 is the bottom note
 
 ```
 3  5
@@ -90,6 +104,8 @@ Major triad with a major 7th
 
 ### Root
 
+1 is the bottom note
+
 ```
    5
 1   3
@@ -103,6 +119,9 @@ Major triad with a major 7th
 ```
 
 ### First Inversion
+
+3 is the bottom note
+
 ```
 1
 5
@@ -110,6 +129,8 @@ Major triad with a major 7th
 ```
 
 ### Second Inversion
+
+5 is the bottom note
 
 ```
 3
@@ -126,6 +147,8 @@ Minor triad with a minor 7th
 
 ### Root
 
+1 is the bottom note
+
 ```
 7
    5
@@ -137,6 +160,8 @@ Minor triad with a minor 7th
 ```
 
 ### First Inversion
+
+3 is the bottom note
 
 ```
 7 1
@@ -150,6 +175,8 @@ Minor triad with a minor 7th
 
 ### Second Inversion
 
+5 is the bottom note
+
 ```
 3
 7 1
@@ -160,6 +187,8 @@ Minor triad with a minor 7th
 ```
 
 ### Third Inversion
+
+7 is the bottom note
 
 ```
 5
@@ -175,6 +204,8 @@ Minor triad with a minor 7th
 
 ### Root
 
+1 is the bottom note
+
 ```
  5
 1   3
@@ -189,6 +220,8 @@ Minor triad with a minor 7th
 
 ### First Inversion
 
+3 is the bottom note
+
 ```
  1
 5
@@ -199,6 +232,8 @@ Minor triad with a minor 7th
 ```
 
 ### Second Inversion
+
+5 is the bottom note
 
 ```
 3
@@ -253,6 +288,8 @@ Major triad with a minor 7th
 
 ### Root
 
+1 is the bottom note
+
 ```
 7
   5
@@ -265,6 +302,8 @@ Major triad with a minor 7th
 
 ### First Inversion
 
+3 is the bottom note
+
 ```
 7 1
   5
@@ -276,6 +315,8 @@ Major triad with a minor 7th
 
 ### Second Inversion
 
+5 is the bottom note
+
 ```
  3
 7 1
@@ -283,6 +324,8 @@ Major triad with a minor 7th
 ```
 
 ### Third Inversion
+
+7 is the bottom note
 
 ```
  3  5
