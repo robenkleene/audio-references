@@ -6,13 +6,22 @@
 
 1 is the bottom note
 
+#### Natural
+
 ```
   5
 1   3
+```
 
+#### Raised First
+
+```
 3   5
  1
+```
 
+#### Raised Second
+```
 5
   3
    1
@@ -106,13 +115,23 @@ Major triad with a major 7th
 
 1 is the bottom note
 
+#### Natural
+
 ```
    5
 1   3
+```
 
+#### Raised First
+
+```
 3   5
   1
+```
 
+#### Raised Second
+
+```
 5
  3
    1
@@ -206,13 +225,23 @@ Minor triad with a minor 7th
 
 1 is the bottom note
 
+#### Natural
+
 ```
  5
 1   3
+```
 
+#### Raised First
+
+```
 3 5
  1
+```
 
+#### Raised Second
+
+```
 5
    3
     1
