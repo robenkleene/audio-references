@@ -6,21 +6,21 @@
 
 1 is the bottom note
 
-#### Natural
+#### Natural Fingering
 
 ```
   5
 1   3
 ```
 
-#### Raised First
+#### First Fingering Inversion
 
 ```
 3   5
  1
 ```
 
-#### Raised Second
+#### Second Fingering Inversion
 ```
 5
   3
@@ -115,21 +115,21 @@ Major triad with a major 7th
 
 1 is the bottom note
 
-#### Natural
+#### Natural Fingering
 
 ```
    5
 1   3
 ```
 
-#### Raised First
+#### First Fingering Inversion
 
 ```
 3   5
   1
 ```
 
-#### Raised Second
+#### Second Fingering Inversion
 
 ```
 5
@@ -225,21 +225,21 @@ Minor triad with a minor 7th
 
 1 is the bottom note
 
-#### Natural
+#### Natural Fingering
 
 ```
  5
 1   3
 ```
 
-#### Raised First
+#### First Fingering Inversion
 
 ```
 3 5
  1
 ```
 
-#### Raised Second
+#### Second Fingering Inversion
 
 ```
 5
