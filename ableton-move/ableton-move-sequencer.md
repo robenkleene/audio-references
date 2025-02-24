@@ -5,3 +5,4 @@
 - To add drum notes, just push a pad to choose the sound, then push the number for the note
 - To add sustained notes, hold the pad, then push the starting number for the note followed by the ending number for the note
 - To transpose by a semitone, hold the step button and push the `+` / `-` buttons, long push the `+` / `-` to transpose by an octave
+- To transpose an entire clip, enter loop mode then hold down the step button for the clip and use `-` / `+`
