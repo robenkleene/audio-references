@@ -1,3 +1,3 @@
 # Ableton Live Instruments Simpler
 
-There isn't a way to `Hot Swap` just the simpler sample (like there is in Live by using the `Hot Swap` button in the lower right of the waveform view)
+To load or swap a sample, push the `Hot Swap` button, then navigate to the top of the hierarchy then into the `Samples` folder.
