@@ -8,6 +8,7 @@
 ## Note Duration
 
 - Using the scene buttons `1/32t`, `1/4`, etc... will change the duration that each note represents.
+- To change the duration of an individual note, switch to the `Clip` button in the upper right, and then hold the pad and adjust the `Length` encoder.
 
 ## 32-Note Melodic Step Sequencer
 

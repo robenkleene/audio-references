@@ -1,6 +1,6 @@
 # Ableton Push UI
 
-![UI](assets/ableton-push-buttons.png)
+![UI](assets/ableton-push-ui.png)
 
 - **Top Right:** Device, Mixer, Clip, Session
 - **Top Left, Below Knob:** Lock, Stop Clip, Mute, Solo
