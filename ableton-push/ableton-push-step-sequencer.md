@@ -2,7 +2,7 @@
 
 ![Step Sequencer Layout](assets/ableton-push-step-sequencer-layout.png)
 
-- Push the `Layout` button to access the step sequencer
+- Push the `Layout` to cycle through layouts to access the step sequencer
 - Top two rows are step sequencer
 - Bottom left is pads
 - Bottom right is velocity (to change velocity, hold a pad in the step sequencer and choose a velocity pad)
