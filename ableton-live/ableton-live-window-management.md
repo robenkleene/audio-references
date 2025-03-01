@@ -2,6 +2,12 @@
 
 - `⌥⌘`: Toggle browser
 
+## Clip View
+
+- `⌥⇧1`: Notes
+- `⌥⇧2`: Envelopes (automation)
+- `⌥⇧3`: MPE
+
 ## Focus
 
 ### Browser
