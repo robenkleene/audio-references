@@ -2,11 +2,15 @@
 
 - `⌘B`: Turn on editing mode
 - `⌘1` / `⌘2`: Narrow / widen grid
-- To preview (play) notes when the MIDI editor is clicked on, turn on "MIDI Editor Preview" with the headphones icon above the piano roll notes.
-- To give multiple notes the same velocity, select the notes then drag their velocity to the maximum, then to the desired value.
-- To select all notes in a key, click the note in the piano roll.
+- To preview (play) notes when the MIDI editor is clicked on, turn on "MIDI Editor Preview" with the headphones icon above the piano roll notes
+- To select all notes in a key, click the note in the piano roll
 - Use `⇧` click to select multiple non-continuous MIDI notes
-- Click a note to select all notes in that key
+
+## Note Values
+
+- To give multiple notes the same velocity, select the notes then drag their velocity to the maximum, then to the desired value
+- `↑` / `↓`: Move selected notes up / down by a semitone
+- `⇧↑` / `⇧↓`: Move selected notes up / down by an octave
 
 ## Grid
 
