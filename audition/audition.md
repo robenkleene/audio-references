@@ -1,3 +1,0 @@
-# Audition
-
-- `⇧⌘A`: Deselect all
