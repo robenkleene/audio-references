@@ -4,6 +4,10 @@
 - `⌥␣`: Play selection
 - `F9`: Record
 
+## Mouse
+
+- `⌘Scroll`: Zoom
+
 ## Playback
 
 - `⌘L`: Toggle loop
