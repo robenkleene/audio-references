@@ -13,3 +13,9 @@
 2. Push a drum pad
 3. Play the sound
 4. Push the pad again to stop recording
+
+- To record to multiple pads in one take, tap another pad to switch to it (always tap the currently recording pad to stop recording)
+
+### Melodic
+
+Same as for drum rack, but choose the pad that will play back the sample at the recorded pitch (in the C major chromatic layout, `C3` is the fourth pad from the left in the bottom row)
