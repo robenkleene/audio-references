@@ -1,35 +1,41 @@
 # Melodics
 
+- `␣`: Restart step
+
+There's no keyboard shortcut for pause unfortunately.
+
+## MIDI
+
 After initial setup, most of the settings persist. To send MIDI to Melodics again:
 
 1. Launch Live, and on the MIDI track channel strip, choose `MIDI To > IAC Driver`
 2. Make sure the device is selected in Melodics under `Audio & Devices > Connected instruments > Selected instrument: Virtual MIDI Bus`
 
-## Initial Setup
+### Initial Setup
 
-### Ableton Live
+#### Ableton Live
 
 1. Connect Push and turn on Live
 2. Push the scale button and toggle `In Key` to `Chromatic`
 
-### Audio MIDI Setup
+#### Audio MIDI Setup
 
 1. Open `Audio MIDI Setup`
 2. Choose `Window > Show MIDI Studio`
 3. Double-click `IAC Driver`
 4. Choose `Ports > Bus 1` (add a port if it's missing), and toggle on `Device is online`
 
-### Ableton Live
+#### Ableton Live
 
 1. In Live's preferences, toggle off `Input > IAC Driver > Track` (a feedback loop will happen if this isn't toggled off), and toggle on `Output > IAC Driver > Track`.
 2. For the MIDI track channel strip in Live, choose `MIDI To > IAC Driver`
 
-### Melodics
+#### Melodics
 
 1. Install the `virtual-midi-bus.json` device at `~/Library/Application Support/Melodics/Melodics/devices`.
 2. In Melodics settings, set `Audio & Devices > Connected instruments > Selected instrument: Virtual MIDI Bus`
 
-### Device JSON
+#### Device JSON
 
 ``` json
 {
