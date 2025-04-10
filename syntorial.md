@@ -12,3 +12,8 @@
 - The other common doubling option is seven semitones, this creates a fifth
 - Other common values are multiple whole octaves (e.g., 24, 36, etc...) or a fifth raised one or more octaves, e.g., `12 + 7 = 19`, `2 * 12 + 7 = 31`
 - If it's blending really well, it's in octaves
+
+## Tips
+
+- Sawtooth waves sound bright, buzzy, and harmonically rich. They contain both even and odd harmonics.
+- Square waves sound hollow. They contain only odd harmonics.
