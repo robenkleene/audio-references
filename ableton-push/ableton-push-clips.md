@@ -17,6 +17,7 @@
 
 - Use the jog wheel to select individual notes
 - With a note selected, use the `Position` encoder to change its position
+- Hold multiple notes in the step sequencer, and then adjust the decoders (e.g., for `Velocity`) to change those notes.
 
 ## Troubleshooting
 
