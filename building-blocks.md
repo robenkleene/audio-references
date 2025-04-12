@@ -19,5 +19,6 @@ The menu in the upper left has these options.
 
 ## Theory
 
-- 1 & 3: Major tonality
-- 1 & ♭3: Minor tonality
+- **1 & 3:** Major tonality
+- **1 & ♭3:** Minor tonality
+- **1, 4 & 5:** sus4 (sustain, the 4 wants to resolve to 3 or ♭3)
