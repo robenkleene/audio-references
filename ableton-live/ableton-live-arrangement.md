@@ -27,3 +27,9 @@
 - When an audio in the arrange view can't be heard, click `Return to Arrangement` in the upper right of the tracks
 - Clicking `Return to Arrangement` will also prevent an audio track from being recorded over by clips
 
+## Splitting
+
+To split a clip:
+
+1. Click in the clip to place the `Insert Marker`
+2. `Edit > Split` (`⌘E`)
