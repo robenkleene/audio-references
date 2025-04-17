@@ -21,5 +21,5 @@ The menu in the upper left has these options.
 
 - **1 & 3:** Major tonality
 - **1 & ♭3:** Minor tonality
-- **1, 4 & 5:** sus4 unresolved tonality, brighter character with more "lift" (4 resolves to 3 or ♭3)
-- **1, 2 % 5:** sus2 unresolved tonality, benign character, more subtle (2 resolves to 3 or ♭3)
+- **1, 4 & 5:** sus4 unresolved tonality, brighter character with more "lift", cluster at top (4 resolves to 3 or ♭3)
+- **1, 2 % 5:** sus2 unresolved tonality, benign character, more subtle, cluster at bottom (2 resolves to 3 or ♭3)
