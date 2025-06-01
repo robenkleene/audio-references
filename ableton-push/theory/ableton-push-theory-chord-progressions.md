@@ -20,7 +20,7 @@ Root
 
 ### `ii V I` Major
 
-In C major: D minor 7th - G 7th - C major 7th
+In C major: D minor 7th - G dominant 7th - C major 7th
 
 ```
 Root
