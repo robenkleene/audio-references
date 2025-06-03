@@ -1,6 +1,7 @@
 # Ableton Live Arrangement
 
 - `HOME` / `END`: Move the Insert Marker to the beginning or end of the track
+- `F10`: Back to arrangement
 
 ## Loop
 
