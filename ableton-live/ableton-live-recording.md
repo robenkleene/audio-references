@@ -6,7 +6,7 @@
 
 ### Overdub
 
-- To overdub (keep existing notes when recording), toggle on `MIDI Arrangement Overdub` to the right of the play button (looks like a `+` button)
+- To overdub (keep existing notes when recording), toggle on `MIDI Arrangement Overdub` (to the right of the play button, looks like a `+` button) *If this isn't working it's probably because the overdub is mapped to the session view, to make it work for the Arrangement, toggle it off and on again*
 
 ## Audio
 
