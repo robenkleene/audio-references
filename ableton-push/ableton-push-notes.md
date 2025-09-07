@@ -18,5 +18,13 @@ In chromatic mode, the keys start repeating after one hand length. For example t
 
 ## Notes
 
-- **FCG:** Notes above and below C ("Fast Cars Go")
-- **GDA:** Row of white keys to the right of the C row
+### Columns
+
+- **FCG:** Column of white keys including C ("Fast cars go")
+- **GDA:** Column of white keys to the right of C ("Great days ahead")
+
+### Rows
+
+- **EFG:** Row above C ("Eat fresh grapes")
+- **FGA:** Row below C ("Fun games ahead")
+
