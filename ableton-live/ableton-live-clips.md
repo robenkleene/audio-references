@@ -7,3 +7,9 @@
 ## Scrubbing
 
 You can scrub audio by turning off quantization (`⌘0`) and moving the cursor above the waveform until it becomes a cursor icon.
+
+## Follow Actions
+
+`Follow Actions` are used to perform an action after a clip plays.
+
+In the `Clip View`, open the `Launch` section, and toggle on `Follow Action`. To play the next clip in the scene when this one ends, choose `Next` for the action (or `Previous` for the previous clip).
