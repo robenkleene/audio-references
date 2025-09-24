@@ -10,6 +10,7 @@
 - Use the jog wheel to select individual notes
 - With a note selected, use the `Position` encoder to change its position
 - Hold multiple notes in the step sequencer, and then adjust the decoders (e.g., for `Velocity`) to change those notes.
+- Multiple notes can be edited by holding those notes in any sequencer `Layout` (only a subset of options is available when editing notes this way)
 
 ## Troubleshooting
 
