@@ -2,7 +2,7 @@
 
 - `⌘B`: Turn on editing mode
 - `⌘1` / `⌘2`: Narrow / widen grid
-- To preview (play) notes when the MIDI editor is clicked on, turn on "MIDI Editor Preview" with the headphones icon above the piano roll notes
+- To preview (play) notes when the MIDI editor is clicked on, turn on `MIDI Editor Preview` with the headphone or speaker icon above the piano roll notes
 - To select all notes in a key, click the note in the piano roll
 - Use `⇧` click to select multiple non-continuous MIDI notes
 
