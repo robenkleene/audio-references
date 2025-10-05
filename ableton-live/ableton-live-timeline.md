@@ -13,3 +13,7 @@
 - `⌘L`: Toggle loop
 - `␣`: Play from the insert marker (click to place the insert marker anywhere)
 - `⇧␣`: Pause / play (e.g., without starting again from the insert marker)
+
+## Duration
+
+There's a time ruler at the bottom of the `Arrangement` view that shows the duration.
