@@ -5,7 +5,7 @@
 
 ## Loop
 
-- `⌘L`: Toggle loop
+- `⌘L`: Toggle loop (the loop marker must be selected)
 - `⌘←` / `⌘→`: Shorten / lengthen loop
 
 ### Loop Whole Song
