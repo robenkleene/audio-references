@@ -1,3 +1,6 @@
 # Ableton Live Project
 
-To reveal the current project in the finder, right-click `Current Project` in the sidebar, and choose `Reveal in Finder`
+## Reveal in Finder
+
+- `⌘-click` the project name in the title bar (default macOS way to access a file's path)
+- Right-click `Current Project` in the sidebar, and choose `Reveal in Finder`
