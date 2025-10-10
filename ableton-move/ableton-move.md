@@ -8,6 +8,6 @@
 - Hold `Shift` (`...`) and press button `2`, then choose `Update` with the wheel to update
 - This menu also shows the battery status
 
-## Controling Live
+## Controlling Live
 
 - Hold `Shift` (`...`) and press button `2`, then choose `Control Live` with the wheel
