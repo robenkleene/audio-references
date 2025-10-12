@@ -3,11 +3,26 @@
 - Double-click to create a warp marker
 - `⇧Drag` on the audio to move the audio under the warp marker
 - If all the clip slots are filled, use `Create > Insert Scene` (`⌘I`) to add another scene
+- `⇧Z`: Zoom in on current time selection (zooms into the whole clip if nothing is selected)
+- `⇧X`: Zoom in on the entire clip (the `⇧Z` and `⇧X` shortcuts require `⇧` even though that isn't labeled in the menu item)
+
+## Start & End
+
+The `Start` and `End` of the clip, always the absolute boundary for playback (the `Loop` can't extend beyond the `Start` and `End`), and determines the played section if the `Loop` is off.
+
+The upper lower set of braces in the `Clip` view is for the `Start` and `End`.
+
+## Loop
+
+The loop section has a `Position` and `Length` which determine the looped section. If looping is disabled, the clip will just play once and end.
+
+A good workflow to temporarily focus on just a section of a clip is to set the `Loop` to just repeat the section being worked on.
+
+The upper set of braces in the `Clip` view is for the `Loop` (note that moving the `Loop` while both the `Loop` and `Start` and `End` braces are at the same spot *will move both the `Loop` and the `Start` and `End`).
 
 ## Scrubbing
 
 You can scrub audio by turning off quantization (`⌘0`) and moving the cursor above the waveform until it becomes a cursor icon.
-
 
 ## Extending Length
 
