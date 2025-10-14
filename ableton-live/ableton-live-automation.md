@@ -30,7 +30,6 @@
 
 ## Clips
 
-
 ### Troubleshooting
 
 - By default session automation is only turned on for armed tracks, which means MIDI clips will record automation by default, but Audio tracks will not.
