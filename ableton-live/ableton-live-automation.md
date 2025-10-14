@@ -30,6 +30,8 @@
 
 ## Clips
 
+- Clip automation can be cut and pasted by dragging out a selection over the enveloped and `right-click > Copy Envelope` (or just `⌘C`) and then `⌘V` to paste on another clip.
+
 ### Troubleshooting
 
 - By default session automation is only turned on for armed tracks, which means MIDI clips will record automation by default, but Audio tracks will not.
