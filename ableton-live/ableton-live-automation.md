@@ -1,6 +1,6 @@
 # Ableton Live Automation
 
-- You can show automation by a control either by changing its value, or by right-clicking the control and choosing `Show Automation`
+- You can show automation by a control either by changing its value, or, to show automation without changing the current value, right-click the control and choosing `Show Automation`
 
 ## Turning On
 
