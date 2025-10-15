@@ -1,5 +1,7 @@
 # Ableton Live Automation
 
+- You can show automation by a control either by changing its value, or by right-clicking the control and choosing `Show Automation`
+
 ## Turning On
 
 - `A`: Toggle `Automation` in the arrange view (if this isn't working, it's probably because `Options > Computer MIDI Keyboard` [keyboard icon in upper right] is toggled on, `M` to toggle off)
