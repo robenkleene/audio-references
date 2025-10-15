@@ -28,9 +28,11 @@
     - Click on a point to delete a point
     - Drag a point to move it
 
-## Clips
+## Clip
 
-- Clip automation can be cut and pasted by dragging out a selection over the enveloped and `right-click > Copy Envelope` (or just `⌘C`) and then `⌘V` to paste on another clip.
+### Copy & Paste
+
+- Clip automation can be cut and pasted by dragging out a selection over the enveloped and `right-click > Copy Envelope` (or just `⌘C`) and then `⌘V` to paste on another clip. Only the breakpoints need to be selected, e.g., if there's only single `Device On` breakpoint at the beginning of a clip, then only the section of the single breakpoint needs to be copied.
 
 ### Troubleshooting
 
