@@ -1,6 +1,7 @@
 # Ableton Live Session
 
 - `⌘I`: Insert a new `Scene` row below selected scene
+- `⌫`: Delete a `Scene` row (with the Scene button selected on the far right)
 - `⌘E`: Toggle stop button (if a scene doesn't have the stop button, then when that scene plays, it won't stop existing clips, this is a way to make a clip span multiple scenes)
 - `←` / `→`: Select left / right track
 - `↑` / `↓`: Select up / down clip
