@@ -19,6 +19,8 @@
 
 ## Session to Arrangement
 
+- Note that clip-based automation in the Session View is converted to "track-based" automation in the Arrangement View. This is because clip-based automation in Session View sets the value directly, whereas clip-based automation in the Arrangement View is *modulation*, it changes the base value. So in order to preserve the session view's clip-based automation values, it needs to set the base value, which can only be done as track-based automation in the Arrangement View, so the automation is converted to track-based automation. (This is also why boolean values like `Device On`, can't be set in the clip-based automation in the Arrangement View, because boolean values can't be modulated.)
+
 ### Drag & Drop
 
 - Start dragging a clip, hit `⇥` to switch to `Arrangement`, drop the clip
