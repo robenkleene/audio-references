@@ -17,6 +17,10 @@
 - To delete automation, right-click on a control and select `Delete Automation`
 - To move all automation at once, right-click the track channel and select `Select all content` than move the cursor near the automation until the full automation highlights and click and drag the automation line up or down.
 
+## Deleting
+
+- `⌘A ⌫` will select all clips and automation and delete it (this includes *all* automation data, not just the selected automation data)
+
 ## Snap
 
 - Turn off snap under `Options > Snap to Grid` (`⌘4`).
