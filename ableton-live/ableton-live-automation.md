@@ -17,6 +17,13 @@
 - To delete automation, right-click on a control and select `Delete Automation`
 - To move all automation at once, right-click the track channel and select `Select all content` than move the cursor near the automation until the full automation highlights and click and drag the automation line up or down.
 
+## Duplicating
+
+There's a lock icon in the upper right of the `Arrangement View` for `Lock Envelopes`, if `Lock Envelopes` is *toggled off*:
+
+- Moving the clip, will also move the automation data
+- `⌘D` will duplicate the clip *and the Automation Data
+
 ## Deleting
 
 - `⌘A ⌫` will select all clips and automation and delete it (this includes *all* automation data, not just the selected automation data)
