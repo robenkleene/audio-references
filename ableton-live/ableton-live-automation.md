@@ -1,47 +1,47 @@
 # Ableton Live Automation
 
 - You can show automation by a control either by changing its value, or, to show automation without changing the current value, right-click the control and choosing `Show Automation`
+- If automation is just setting a parameter to a single value (e.g., `Device On`), then you only need one point at the beginning (e.g., a second point at the end isn't necessary)
 
-## Turning On
+## Devices
 
-- `A`: Toggle `Automation` in the arrange view (if this isn't working, it's probably because `Options > Computer MIDI Keyboard` [keyboard icon in upper right] is toggled on, `M` to toggle off)
-- Automation for clips is found under `Envelopes` tab along the top
-- Note that if automation is just setting a parameter to a single value (e.g., `Device On`), then you only need one point at the beginning (a second point at the end it superfluous)
+- `Right-click` a parameter and choose `Show Automation`
+- To delete automation on a Device, right-click on a control and select `Delete Automation`
 
-## Editing
+## Graph Editor
+
+With the pointer tool enabled (e.g., make sure the pencil tool is toggled off with `⌘B`):
 
 - `click`: Add / remove point
 - `click&drag`: Move point
 - `⇧click`: Move point or line
-- `right-click` a parameter and choose `Show Automation` to make it automate-able
-- To delete automation, right-click on a control and select `Delete Automation`
-- To move all automation at once, right-click the track channel and select `Select all content` than move the cursor near the automation until the full automation highlights and click and drag the automation line up or down.
 
-## Duplicating
+### Snap
+
+- Turn off snap under `Options > Snap to Grid` (`⌘4`).
+- Hold `⌘` to disable snap while dragging
+- Constrain to one axis by holding `⇧` while dragging
+
+## Arrangement
+
+- `A`: Toggle `Automation` in the arrange view (if this isn't working, it's probably because `Options > Computer MIDI Keyboard` [keyboard icon in upper right] is toggled on, `M` to toggle off)
+
+### Deleting
+
+- `⌘A ⌫` will select all clips and automation and delete it (this includes *all* automation data, not just the selected automation data)
+
+### Duplicating
 
 There's a lock icon in the upper right of the `Arrangement View` for `Lock Envelopes`, if `Lock Envelopes` is *toggled off*:
 
 - Moving the clip, will also move the automation data
 - `⌘D` will duplicate the clip *and the Automation Data
 
-## Deleting
+### Master & Return Tracks
 
-- `⌘A ⌫` will select all clips and automation and delete it (this includes *all* automation data, not just the selected automation data)
+To add automation to master or return tracks, just open the disclosure triangle on those tracks in the session view.
 
-## Snap
-
-- Turn off snap under `Options > Snap to Grid` (`⌘4`).
-- Hold `⌘` to disable snap while dragging
-- Constrain to one axis by holding `⇧` while dragging
-
-## Graph Editor
-
-- With the pointer tool enabled (toggle off the pencil tool with `⌘B`):
-    - Click on a graph to add a point
-    - Click on a point to delete a point
-    - Drag a point to move it
-
-## Clip
+## Session (Clip Automation)
 
 ### Copy & Paste
 
@@ -49,9 +49,4 @@ There's a lock icon in the upper right of the `Arrangement View` for `Lock Envel
 
 ### Troubleshooting
 
-- By default session automation is only turned on for armed tracks, which means MIDI clips will record automation by default, but Audio tracks will not.
-- To fix this, set `Preferences > Record > Record Session Automation in: All Tracks` (as opposed to `Armed Tracks`)
-
-## Master & Return Tracks
-
-To add automation to master or return tracks, just open the disclosure triangle on those tracks in the session view.
+- By default session automation is only turned on for armed tracks, which means MIDI clips will record automation by default, but Audio tracks will not. To change this, set `Preferences > Record > Record Session Automation in: All Tracks` (as opposed to `Armed Tracks`)
