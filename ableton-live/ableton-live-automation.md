@@ -43,7 +43,7 @@ To add automation to master or return tracks, just open the disclosure triangle 
 
 ## Session (Clip Automation)
 
-Clip automation can either be `Modulation` or `Automation`
+Clip automation can either be `Modulation` or `Automation`. If a parameter doesn't support `Modulation` (e.g., like `Device On` which is a boolean value, so it can't be modulated), then only `Automation` will be visible. For parameters that support both, tabs below the graph editor allow switching between `Automation` and `Modulation`.
 
 ### Copy & Paste
 
