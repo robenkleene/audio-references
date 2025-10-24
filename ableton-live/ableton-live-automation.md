@@ -43,10 +43,17 @@ To add automation to master or return tracks, just open the disclosure triangle 
 
 ## Session (Clip Automation)
 
+Clip automation can either be `Modulation` or `Automation`
+
 ### Copy & Paste
 
 - Clip automation can be cut and pasted by dragging out a selection over the enveloped and `right-click > Copy Envelope` (or just `⌘C`) and then `⌘V` to paste on another clip. Only the breakpoints need to be selected, e.g., if there's only single `Device On` breakpoint at the beginning of a clip, then only the section of the single breakpoint needs to be copied.
 
 ### Troubleshooting
 
-- By default session automation is only turned on for armed tracks, which means MIDI clips will record automation by default, but Audio tracks will not. To change this, set `Preferences > Record > Record Session Automation in: All Tracks` (as opposed to `Armed Tracks`)
+- By default session automation is only turned on for armed tracks, which means MIDI clips will record automation by default, but Audio tracks will not. To change this, set `Preferences > Record > Record Session Automation in: All Tracks` (as opposed to `Armed Tracks`).
+
+### Session to Arrangement
+
+- Note that clip-based automation in the Session View is converted to "track-based" automation in the Arrangement View. This is because clip-based automation in Session View sets the value directly, whereas clip-based automation in the Arrangement View is *modulation*, it changes the base value. So in order to preserve the session view's clip-based automation values, it needs to set the base value, which can only be done as track-based automation in the Arrangement View, so the automation is converted to track-based automation. (This is also why boolean values like `Device On`, can't be set in the clip-based automation in the Arrangement View, because boolean values can't be modulated.)
+
