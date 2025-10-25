@@ -3,6 +3,14 @@
 - You can show automation by a control either by changing its value, or, to show automation without changing the current value, right-click the control and choosing `Show Automation`
 - If automation is just setting a parameter to a single value (e.g., `Device On`), then you only need one point at the beginning (e.g., a second point at the end isn't necessary)
 
+## Automation
+
+- Tells Ableton to set a parameter to a specific value at a specific time
+- In Session View, Automation is displayed in Clips
+- If a parameter has been automated, a red dot is displayed on that control
+
+## Modulation
+
 ## Devices
 
 - `Right-click` a parameter and choose `Show Automation`
@@ -53,7 +61,14 @@ Clip automation can either be `Modulation` or `Automation`. If a parameter doesn
 
 - By default session automation is only turned on for armed tracks, which means MIDI clips will record automation by default, but Audio tracks will not. To change this, set `Preferences > Record > Record Session Automation in: All Tracks` (as opposed to `Armed Tracks`).
 
-### Session to Arrangement
+## Session to Arrangement
 
-- Note that clip-based automation in the Session View is converted to "track-based" automation in the Arrangement View. This is because clip-based automation in Session View sets the value directly, whereas clip-based automation in the Arrangement View is *modulation*, it changes the base value. So in order to preserve the session view's clip-based automation values, it needs to set the base value, which can only be done as track-based automation in the Arrangement View, so the automation is converted to track-based automation. (This is also why boolean values like `Device On`, can't be set in the clip-based automation in the Arrangement View, because boolean values can't be modulated.)
+### Automation
+
+Clip-based automation in the Session View is converted to track-based automation in the Arrangement View.
+
+
+
+
+This is because clip-based automation in Session View sets the value directly, whereas clip-based automation in the Arrangement View is *modulation*, it changes the base value. So in order to preserve the session view's clip-based automation values, it needs to set the base value, which can only be done as track-based automation in the Arrangement View, so the automation is converted to track-based automation. (This is also why boolean values like `Device On`, can't be set in the clip-based automation in the Arrangement View, because boolean values can't be modulated.)
 
