@@ -5,11 +5,22 @@
 
 ## Automation
 
-- Tells Ableton to set a parameter to a specific value at a specific time
-- In Session View, Automation is displayed in Clips
+- Automation sets a parameter to a specific value
+- In Session View, Automation is by clip, while in the Arrangement View it's by track
 - If a parameter has been automated, a red dot is displayed on that control
 
 ## Modulation
+
+- Modulation is always relative to the parameters current value
+- Modulation is by clip both in the Arrangement and Session views
+
+### Multiplicative vs. Additive
+
+Modulation can either by multiplicative or additive, if the modulation range goes from `0--100%`, it's multiplicative, if it goes from -`50--50%`, then it's additive.
+
+- Multiplicative never increases the value of a parameter it only attenuates it (so if a parameter is set to `70%`, setting the modulation to `0`% will set it to `0%`, and `100%` will set it to `70%`)
+- Additive will increase or decrease the value of a parameter by up to half of the parameters range (so if a parameter is set to `70%`, setting the modulation to `-50%` will set it to `20%` and `+50%` will set it to `100%`)
+
 
 ## Devices
 
