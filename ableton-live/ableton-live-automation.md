@@ -7,12 +7,15 @@
 
 - Automation sets a parameter to a specific value
 - In Session View, Automation is by clip, while in the Arrangement View it's by track
-- If a parameter has been automated, a red dot is displayed on that control
+- If a parameter is being automated, a red dot is displayed on its control
 
 ## Modulation
 
 - Modulation is always relative to the parameters current value
 - Modulation is by clip both in the Arrangement and Session views
+- Modulated parameters change the section that's blue
+- If a parameter is being modulated, a blue dot is displayed on its control (note the blue dot does not seem to appear for clip-based automation)
+- Boolean parameters (like `Device On`) cannot be modulated because they only have two values
 
 ### Multiplicative vs. Additive
 
@@ -76,10 +79,5 @@ Clip automation can either be `Modulation` or `Automation`. If a parameter doesn
 
 ### Automation
 
-Clip-based automation in the Session View is converted to track-based automation in the Arrangement View.
-
-
-
-
-This is because clip-based automation in Session View sets the value directly, whereas clip-based automation in the Arrangement View is *modulation*, it changes the base value. So in order to preserve the session view's clip-based automation values, it needs to set the base value, which can only be done as track-based automation in the Arrangement View, so the automation is converted to track-based automation. (This is also why boolean values like `Device On`, can't be set in the clip-based automation in the Arrangement View, because boolean values can't be modulated.)
-
+- **Clip-based automation in the Session View is converted to track-based automation in the Arrangement View.** Automation sets the value of a parameter. Automation is clip-based in the Session View, because there's no lanes, whereas it's lane-based in the Arrangement View.
+- Clip-based modulation stays as clip-based in the Arrangement View.
