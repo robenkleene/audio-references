@@ -14,3 +14,7 @@
 
 - You cannot turn off pitch tracking in Simpler, the easiest way to stop it from transposing the sample is to wrap it in a Drum Rack (or use Sampler).
 - Similarly, you can't change the pitch of the sample, the easiest workaround is just place a `Pitch` before the `Simpler`.
+
+## LFO
+
+Click the `Control` tab in the upper right to view the LFO routing (e.g., to route the LFO to volume, pitch, pan, or filter).
