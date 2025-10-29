@@ -1,6 +1,7 @@
 # Ableton Push Clip
 
 - `Loop Length`: Change the length of the clip
+- `Double Loop`: Extend clip to more bars copying notes
 - Hold `Delete` and push a pad to delete all notes for that pad
 - Push the `Edit` displayed button to enter `Note Edit` mode
 
