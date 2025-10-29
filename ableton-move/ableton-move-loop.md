@@ -5,6 +5,7 @@
 - Use the arrow buttons to move between clips
 - To transpose an entire clip, enter loop mode then hold down the step button for the clip and use `-` / `+`
 - There does not seem to be a way to delete all notes for a single pad in a single bar (you can only delete all notes for a single pad for the entire clip)
+- `Double Clip` is the fifteenth step button (two clips overlapping each other)
 
 ## Re-arranging Clips
 
