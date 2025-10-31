@@ -16,6 +16,7 @@
 - Modulated parameters change the section that's blue
 - If a parameter is being modulated, a blue dot is displayed on its control (note the blue dot does not seem to appear for clip-based automation)
 - Boolean parameters (like `Device On`) cannot be modulated because they only have two values
+- A green dot, means the parameter is linked to a macro
 
 ### Multiplicative vs. Additive
 
