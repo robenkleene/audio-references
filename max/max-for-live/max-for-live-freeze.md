@@ -1,5 +1,7 @@
 # Max for Live Freeze
 
+- Use `File > List Externals and Subpatcher Files` to list dependencies
+
 Working on frozen devices that use `bpatcher` is somewhat tedious, here's the process:
 
 1. Optionally start by create a `git` branch
