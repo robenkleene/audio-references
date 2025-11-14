@@ -1,4 +1,4 @@
-# Max for Live Patch Code Standard
+# Max for Live Coding Guidelines
 
 - Use `CamelCase` (not `snake_case`) for patcher names
 - Sub-patcher and script files start with an upper case (e.g., `FooBar`)
