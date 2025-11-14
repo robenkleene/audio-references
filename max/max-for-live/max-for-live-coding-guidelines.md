@@ -3,6 +3,7 @@
 - Use `CamelCase` (not `snake_case`) for patcher names
 - Sub-patcher and script files start with an upper case (e.g., `FooBar`)
 - When the name contains an abbreviation, capitalize only the first letter (e.g., `FlowLcd`)
+- These same guidelines apply to `Scripting Name` (i.e., first-letter capitalized `CamelCase`)
 
 ## Inlets & Outlets
 
