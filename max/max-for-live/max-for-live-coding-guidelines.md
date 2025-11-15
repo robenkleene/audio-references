@@ -18,3 +18,13 @@
 - `(float float, %) x, y`
 - `(int float symbol) id, amount, key`
 - `(list) all filter coefficients <= if the list length is not fixed and/or the list is long`
+
+## Acronyms
+
+- **Amp**
+- **Amt**
+- **Env**
+- **Filt**
+- **Freq**
+- **Osc**
+- **Semi**
