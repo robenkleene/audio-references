@@ -23,6 +23,7 @@
 
 - **Amp**
 - **Amt**
+- **Dur**
 - **Env**
 - **Filt**
 - **Freq**
