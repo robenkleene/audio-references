@@ -1,4 +1,10 @@
-# Max Info
+# Max Documentation
+
+## Names
+
+- **Short Name:** Shown in the UI
+- **Long Name:** For automation and UI mapping
+- **Scripting Name:** Used for scripting and `pattr`
 
 ## Annotation
 
