@@ -2,9 +2,11 @@
 
 ## Names
 
-- **Short Name:** Shown in the UI
-- **Long Name:** For automation and UI mapping
-- **Scripting Name:** Used for scripting and `pattr`
+- `Short Name`: Shown in the UI
+- `Long Name`: For automation and UI mapping
+- `Scripting Name`: Used for scripting and `pattr`
+
+`Long Name` and `Scripting Name` must be unique per device.
 
 ## Annotation
 

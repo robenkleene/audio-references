@@ -21,6 +21,8 @@
 
 ## Acronyms
 
+Only use these abbreviations.
+
 - **Amp**
 - **Amt**
 - **Dur**
@@ -29,3 +31,6 @@
 - **Freq**
 - **Osc**
 - **Semi**
+- **Vol**
+
+Use abbreviations in the `Short Name`, `Long Name`, and `Scripting Name`, but *not* in the `Hit` or `Info View Text`.
