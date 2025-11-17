@@ -7,6 +7,7 @@
 
 ## Inlets & Outlets
 
+- Set the assistance comment
 - Schema: `(type(s), unit, range) description per list element`
 - `unit` and `range` are optional (and only used for `int` and `float`)
 
@@ -18,6 +19,7 @@
 - `(float float, %) x, y`
 - `(int float symbol) id, amount, key`
 - `(list) all filter coefficients <= if the list length is not fixed and/or the list is long`
+- These are examples from Ableton's coding guidelines, but in practice capitalization is inconsistent
 
 ## Acronyms
 
@@ -34,3 +36,7 @@ Only use these abbreviations.
 - **Vol**
 
 Use abbreviations in the `Short Name`, `Long Name`, and `Scripting Name`, but *not* in the `Hit` or `Info View Text`.
+
+## Documentation
+
+Use the `Info View Text` field to provide a text description of each parameter (the `Hint` field does not appear to be necessary).
