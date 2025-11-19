@@ -25,15 +25,16 @@
 
 Only use these abbreviations.
 
-- **Amp**
-- **Amt**
-- **Dur**
-- **Env**
-- **Filt**
-- **Freq**
-- **Osc**
-- **Semi**
-- **Vol**
+- **Amp**: Amplifier
+- **Amt**: Amount
+- **Ch**: Channel
+- **Dur**: Duration
+- **Env**: Envelope
+- **Filt**: Filter
+- **Freq**: Frequency
+- **Osc**: Oscillator
+- **Semi**: Semitones
+- **Vol**: Volume
 
 Use abbreviations in the `Short Name`, `Long Name`, and `Scripting Name`, but *not* in the `Hit` or `Info View Text`.
 
