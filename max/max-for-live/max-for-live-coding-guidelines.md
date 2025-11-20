@@ -34,6 +34,7 @@ Only use these abbreviations.
 - **Freq**: Frequency
 - **Osc**: Oscillator
 - **Semi**: Semitones
+- **Val**: Value
 - **Vol**: Volume
 
 Use abbreviations in the `Short Name`, `Long Name`, and `Scripting Name`, but *not* in the `Hit` or `Info View Text`.
