@@ -33,6 +33,7 @@ Only use these abbreviations.
 - **Filt**: Filter
 - **Freq**: Frequency
 - **Osc**: Oscillator
+- **Param**: Parameter
 - **Semi**: Semitones
 - **Val**: Value
 - **Vol**: Volume
