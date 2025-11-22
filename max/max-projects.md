@@ -28,3 +28,13 @@ For this reason, non-project related files, such as `README.md`, should not go i
 ## Max for Live Devices
 
 The only way to for a Max for Live device file (`.amxd`) to load dependencies seems for those files to be in the exact same directory as the `.amxd` file (which conflicts with `.maxproj` wanting to move assets like images into other directories from patchers).
+
+## Settings
+
+- `Project Inspector > Project Items Order > Ascending`
+
+## Export Max for Live Device
+
+- Set `Project Inspector > Max for Live Device Type` to the correct device type
+- Set the wrapper patcher to `Open on Project Load`
+- Choose `File > Export Max for Live Device...`
