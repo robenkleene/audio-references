@@ -33,6 +33,8 @@ Only use these abbreviations.
 - **Env**: Envelope
 - **Filt**: Filter
 - **Freq**: Frequency
+- **Man**: Maximum
+- **Min**: Minimum
 - **Osc**: Oscillator
 - **Param**: Parameter
 - **Semi**: Semitones
