@@ -39,6 +39,7 @@ Only use these abbreviations.
 - **Param**: Parameter
 - **Semi**: Semitones
 - **Val**: Value
+- **Vel**: Velocity
 - **Vol**: Volume
 
 Use abbreviations in the `Short Name`, `Long Name`, and `Scripting Name`, but *not* in the `Hit` or `Info View Text`.
