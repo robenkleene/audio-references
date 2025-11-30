@@ -1,7 +1,8 @@
 # Ableton Live Keyboard
 
-- `z` / `x`: Down / up octave
-- `c` / `v`: Down / up velocity
+- `M`: Toggle MIDI keyboard
+- `Z` / `X`: Down / up octave
+- `C` / `V`: Down / up velocity
 
 Note keys
 
