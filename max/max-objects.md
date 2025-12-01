@@ -1,13 +1,22 @@
 # Max Objects
 
-- `b`: Add button
-- `c`: Add comment
-- `f`: Number (float)
-- `i`: Number (int)
-- `m`: Add message
-- `s`: Slider
-- `t`: Toggle
+- `N`: New object
+- `P`: New object in presentation
+- `R`: Recent object
+- `L`: `live.` object
+- `J`: `jit.` object
+- `X`: Show these key commands in a menu
+
+## Objects
+
+- `A`: `attrui`
+- `B`: `button`
+- `C`: `comment`
+- `F`: `number` (float)
+- `I`: `number` (int)
+- `M`: `message`
+- `S`: `slider`
+- `T`: `toggle`
 
 ## Max for Live
 
-- `l`: Add `live` object (e.g., `live.text` but the cursor is place before text, so start typing the object name to choose another)

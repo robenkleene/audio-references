@@ -15,6 +15,8 @@
 
 ### Keyboard
 
+- `z` / `Z`: Zoom in / out
+
 #### Palettes
 
 - `⇧⌘I`: Open inspector in a separate window
