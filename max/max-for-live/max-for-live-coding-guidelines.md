@@ -37,6 +37,7 @@ Only use these abbreviations.
 - **Min**: Minimum
 - **Osc**: Oscillator
 - **Param**: Parameter
+- **Pch**: Pitch
 - **Semi**: Semitones
 - **Val**: Value
 - **Vel**: Velocity
