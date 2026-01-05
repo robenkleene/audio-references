@@ -26,22 +26,23 @@
 
 Only use these abbreviations.
 
-- **Amp**: Amplifier
-- **Amt**: Amount
-- **Ch**: Channel
-- **Dur**: Duration
-- **Env**: Envelope
-- **Filt**: Filter
-- **Freq**: Frequency
-- **Man**: Maximum
-- **Min**: Minimum
-- **Osc**: Oscillator
-- **Param**: Parameter
-- **Pch**: Pitch
-- **Semi**: Semitones
-- **Val**: Value
-- **Vel**: Velocity
-- **Vol**: Volume
+- **Amp:** Amplifier
+- **Amt:** Amount
+- **Ch:** Channel
+- **Dur:** Duration
+- **Env:** Envelope
+- **Filt:** Filter
+- **Freq:** Frequency
+- **Man:** Maximum
+- **Min:** Minimum
+- **Mod:** Modulator
+- **Osc:** Oscillator
+- **Param:** Parameter
+- **Pch:** Pitch
+- **Semi:** Semitones
+- **Val:** Value
+- **Vel:** Velocity
+- **Vol:** Volume
 
 Use abbreviations in the `Short Name`, `Long Name`, and `Scripting Name`, but *not* in the `Hit` or `Info View Text`.
 
