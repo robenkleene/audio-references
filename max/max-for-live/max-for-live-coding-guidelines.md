@@ -39,6 +39,7 @@ Only use these abbreviations.
 - **Osc:** Oscillator
 - **Param:** Parameter
 - **Pch:** Pitch
+- **Rand:** Random
 - **Semi:** Semitones
 - **Val:** Value
 - **Vel:** Velocity
