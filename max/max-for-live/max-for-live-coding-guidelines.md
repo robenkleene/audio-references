@@ -41,6 +41,7 @@ Only use these abbreviations.
 - **Pch:** Pitch
 - **Rand:** Random
 - **Semi:** Semitones
+- **Trig:** Trigger
 - **Val:** Value
 - **Vel:** Velocity
 - **Vol:** Volume
