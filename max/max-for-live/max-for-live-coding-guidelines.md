@@ -9,8 +9,7 @@
 ## Inlets & Outlets
 
 - Set the assistance comment
-- Schema: `(type(s), unit, range) description per list element`
-- `unit` and `range` are optional (and only used for `int` and `float`)
+- Schema: `(type(s), unit, range) description per list element` (`unit` and `range` are optional and only used for `int` and `float`)
 
 ### Examples
 
