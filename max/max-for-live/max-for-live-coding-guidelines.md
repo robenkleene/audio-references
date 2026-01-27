@@ -6,6 +6,11 @@
 - These same guidelines apply to `Scripting Name` (i.e., first-letter capitalized `CamelCase`)
 - Check the Max for Live project by choosing `Edit in Max` (or just opening the `.amxd` file in Max) then choosing `Show Containing Project`
 
+## Personal Guidelines
+
+- Use `t signal` to make patch chords appear as signals
+- Use `setfoo` (from `function`, e.g., `setcurve`) when it doesn't make sense to set control values directly from inlets (e.g., for `bpatcher` that use inlets for signals)
+
 ## Inlets & Outlets
 
 - Set the assistance comment
