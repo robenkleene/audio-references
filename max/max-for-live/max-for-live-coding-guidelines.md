@@ -11,6 +11,7 @@
 - Use `t signal` to make patch chords appear as signals
 - Use `setfoo` (from `function`, e.g., `setcurve`) when it doesn't make sense to set control values directly from inlets (e.g., for `bpatcher` that use inlets for signals)
 - Prefix `bpatcher` files with `Ui` (e.g., `UiFoo`)
+- Messages should use all lowercase (this matches Max-style, e.g., `function` has `setcurve`)
 
 ## Inlets & Outlets
 
