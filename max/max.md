@@ -42,7 +42,3 @@ Using `presets` object with the mouse:
 - `⇧-click`: Save current preset
 - `click`: Restore preset
 - `⇧⌥-click`: Delete preset
-
-## Initial Window Size
-
-To set the window size and position, select "Definite Initial Window Location".
