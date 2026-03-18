@@ -1,4 +1,6 @@
-# Max for Live Coding Guidelines
+# Max for Live Guidelines
+
+## Official Guidelines
 
 - Use `CamelCase` (not `snake_case`) for patcher names
 - Sub-patcher and script files start with an upper case (e.g., `FooBar`)
@@ -12,6 +14,16 @@
 - Use `setfoo` (from `function`, e.g., `setcurve`) when it doesn't make sense to set control values directly from inlets (e.g., for `bpatcher` that use inlets for signals)
 - Prefix `bpatcher` files with `Ui` (e.g., `UiFoo`)
 - Messages should use all lowercase (this matches Max-style, e.g., `function` has `setcurve`)
+
+## Documentation
+
+For `live.` objects, use the `Info View Text` field to provide a text description of each parameter, and the `Info View Title` for the title.
+
+For non-Live objects, use the `Annotation` field, and the `Scripting Name` for the title.
+
+The `Hint` field does not appear to be necessary.
+
+Documentation comments should start with one of these verbs: `Adjusts`, `Defines`, `Sets`, `Select` (for drop-down menus), `Determines`, `Enable` (for toggle buttons). For non-interactive elements: `This`, e.g., "This LED flashes when...".
 
 ## Inlets & Outlets
 
@@ -53,7 +65,3 @@ Only use these abbreviations.
 - **Vol:** Volume
 
 Use abbreviations in the `Short Name`, `Long Name`, and `Scripting Name`, but *not* in the `Hit` or `Info View Text`.
-
-## Documentation
-
-Use the `Info View Text` field to provide a text description of each parameter (the `Hint` field does not appear to be necessary).
