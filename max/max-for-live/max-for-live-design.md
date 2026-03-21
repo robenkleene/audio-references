@@ -26,4 +26,4 @@ Live devices also have a `4px` border between groupings of controls.
 - For visual content, like graphs, use a black background (graphical controls [e.g., like dials] never go on the black background, but number controls, toggles, and pull-down menus do)
 - Groups of related controls (e.g., a few dials that belong together) have their own background panel, and `2px` gaps separate these groupings from each other and from adjacent sections
 - Set panels to group controls to `Device Inspector > Color > Locked Patcher Background Color > Dynamic > Live Theme Colors: Device Background` to match the default that Live devices use for these panels
-- Set `Device Inspector > Color > Locked Patcher Background Color > Dynamic > Live Theme Colors: Control Header` to for the device background to match the default that Live devices use for the device background
+- Set `Device Inspector > Color > Locked Patcher Background Color > Dynamic > Live Theme Colors: Control Header` for the device background to match the default that Live devices use for the device background
