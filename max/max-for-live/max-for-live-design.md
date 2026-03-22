@@ -10,7 +10,7 @@ Live devices also have a `4px` border between groupings of controls.
 
 ### Max Dimensions
 
-- Max for Live inserts a comment with a Y origin of `170px`, indicating the real device height is `169px` (i.e., the device height ends `1px` before the comment)
+- New Max for Live projects insert a comment with a Y origin of `170px`, indicating the real device height is `169px` (i.e., the device height ends `1px` before the comment)
 - This is reinforced by the pixel measurements on macOS, accounting for Retina displays, the drawable device height in Max is `338px / 2px = 169px`
 - Similarly, after accounting for Retina displays, the border width between control groups should be `4px / 2px = 2px`
 - To prevent borders around the device, e.g., to make sure Live doesn't add extra padding to the right of the device, set the `Initial Window Size` to the exact width and height of the device (set the origin to `0. 0.`)
