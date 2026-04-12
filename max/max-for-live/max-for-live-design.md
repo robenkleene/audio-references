@@ -21,6 +21,11 @@ Live devices also have a `4px` border between groupings of controls.
 - The black background section for visual content typically extends all the way to bottom of the device (with the standard `2px` margin at the bottom, but that's not in the drawable area)
 - Tabs use a black background, and the selected tab visually connects to the black content area below it (i.e., the tab bar and the visual area appear as one continuous black region)
 
+## Control Spacing
+
+- When a Live device has a single column of full size controls, the panel behind the controls should be `53px` (resulting in a Retina Display width of `106px`)
+- Two columns of controls is `113px` (`226px` Retina Display width)
+
 ## Color
 
 - For visual content, like graphs, use a black background (graphical controls [e.g., like dials] never go on the black background, but number controls, toggles, and pull-down menus do)
