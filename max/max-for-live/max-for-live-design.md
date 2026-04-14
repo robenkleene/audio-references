@@ -28,6 +28,7 @@ Spacing when a background panel is shown behind controls to group them.
 - Generally the rule that determines the width of the background panel is `4px` (`8px` Retina Display width) padding on each side of the longest control
 - Similarly, with two columns of controls next to each other on the same background panel, those controls should be `4px` (`8px` Retina Display width) away from each other
 - A short control (toggle button) is `46px` (`92px` Retina Display width), this makes the width of the column `46px + 4px * 2 = 54px` (`108px` Retina Display width)
+- Controls should have the same amount of vertical padding `4px` (`8px` Retina Display height)
 
 ## Color
 
