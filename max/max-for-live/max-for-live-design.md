@@ -10,11 +10,12 @@
 
 ## Spacing
 
+- The horizontal and vertical spacing between control groups (i.e., groups of controls with a background panel behind them) is `2px`
+
 ### Padding
 
-A `2px` padding is commonly used.
+A `5px` padding is commonly used.
 
-- The horizontal and vertical spacing between control groups (i.e., groups of controls with a background panel behind them)
 - The horizontal and vertical padding between the edge of a panel or the device edge and the controls it contains
 - The horizontal and vertical spacing between controls (e.g., a `live.numbox` positioned next to or above another)
 - When a label is position to the left of a control (e.g., a label for a `live.numbox`)
