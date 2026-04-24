@@ -6,16 +6,35 @@
 - This is reinforced by the pixel measurements on macOS, accounting for Retina displays, the drawable device height in Max is `338px / 2px = 169px` (i.e., `338px` measured pixels results in `169px` usable pixels in Max)
 - To prevent borders around the device, e.g., to make sure Live doesn't add extra padding to the right of the device, set the `Initial Window Size` to the exact width and height of the device (set the origin to `0. 0.`)
 
-
-
-## Spacing
+## Control Spacing
 
 - `2px`: The horizontal and vertical spacing between control groups (i.e., groups of controls with a background panel behind them)
 - `5px`: The horizontal and vertical padding between the edge of a panel or the device edge and the controls it contains
 - `4px`: The horizontal and vertical spacing between controls (e.g., a `live.numbox` positioned next to or above another)
 - `4px`: When a label is position to the left of a control (e.g., a label for a `live.numbox`)
 
-### Black Backgrounds
+### Math
+
+The following algorithm can be used to calculate where controls should be positioned.
+
+- `3px` is to start after `2px` spacing
+- `maxVisualControlWidth` is the size of the largest control that can fit in this column (`44px` is a good default for this, in this case `live.text` buttons would be `44px`)
+- `visualControlWidth` is to account for spacing controls that are smaller than `maxVisualControlWidth` (e.g., `live.dial` are locked at `41px`)
+
+`(maxVisualControlWidth + 3) × col + 3 + (maxVisualControlWidth − visualControlWidth) / 2`
+
+Using `maxVisualControlWidth = 44px` and `visualControlWidth = 44px`, this gives, for the first eight columns:
+
+1. `3px`
+2. `52px`
+3. `97px`
+4. `144px`
+5. `191px`
+6. `238px`
+7. `285px`
+8. `332px`
+
+## Black Background Panels
 
 For visual content, like graphs, use a black background (graphical controls [e.g., like dials] never go on the black background, but number controls, toggles, and pull-down menus do)
 
