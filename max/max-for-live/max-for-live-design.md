@@ -23,10 +23,18 @@ The following algorithm can be used to calculate where controls should be positi
 
 `(maxVisualControlWidth + 3) × col + 3 + (maxVisualControlWidth − visualControlWidth) / 2`
 
-Using `maxVisualControlWidth = 44px` and `visualControlWidth = 44px`, this gives, for the first eight columns:
+Or simplified:
+
+`3 + (44 + 3) × col`
+
+Or simplified further:
+
+Start from `3px` and add `47px` for each column.
+
+This gives the following values for the first eight columns:
 
 1. `3px`
-2. `52px`
+2. `50px`
 3. `97px`
 4. `144px`
 5. `191px`
