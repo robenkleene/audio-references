@@ -42,6 +42,12 @@ This gives the following values for the first eight columns:
 7. `285px`
 8. `332px`
 
+The spacing of the end of a panel is the same as the next control, so for a single column panel:
+
+- The panel itself would have an origin of `0px`
+- The first control would have an origin of `3px`
+- The panel width would be `50px`
+
 ## Black Background Panels
 
 For visual content, like graphs, use a black background (graphical controls [e.g., like dials] never go on the black background, but number controls, toggles, and pull-down menus do)
