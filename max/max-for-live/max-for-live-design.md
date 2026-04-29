@@ -18,7 +18,7 @@
 The following algorithm can be used to calculate where controls should be positioned.
 
 - `3px` is to start after `2px` spacing
-- `maxVisualControlWidth` is the size of the largest control that can fit in this column (`44px` is a good default for this, in this case `live.text` buttons would be `44px`)
+- `maxVisualControlWidth` is the size of the largest control that can fit in this column (`44px` is a good default for this, in this case `live.text` buttons would be `44px` [note that a `live.text` button appears to have an extra pixel of spacing on each side, so a `46px` button has a visual width of `44px`])
 - `visualControlWidth` is to account for spacing controls that are smaller than `maxVisualControlWidth` (e.g., `live.dial` are locked at `41px`)
 
 `(maxVisualControlWidth + 3) × col + 3 + (maxVisualControlWidth − visualControlWidth) / 2`
