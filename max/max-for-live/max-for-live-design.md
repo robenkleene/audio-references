@@ -48,6 +48,10 @@ The spacing of the end of a panel is the same as the next control, so for a sing
 - The first control would have an origin of `3px`
 - The panel width would be `50px`
 
+The distance from the start of the last control on the previous panel, to the start of the first control on the next panel:
+
+`46 + 3 + 3 + 2 = 54`
+
 ## Black Background Panels
 
 For visual content, like graphs, use a black background (graphical controls [e.g., like dials] never go on the black background, but number controls, toggles, and pull-down menus do)
