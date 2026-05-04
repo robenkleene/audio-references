@@ -52,6 +52,12 @@ The distance from the start of the last control on the previous panel, to the st
 
 `46 + 3 + 3 + 2 = 54`
 
+## Bottom-Aligned Dials
+
+Dials should have a bit more space around them, the calculation is that dials should have about `15px` space from the bottom of text (with no descenders) to their containing panel (or the device bottom).
+
+The resulting equation is: `panelOriginY + panelHeight - 53px = `dialOriginY`
+
 ## Black Background Panels
 
 For visual content, like graphs, use a black background (graphical controls [e.g., like dials] never go on the black background, but number controls, toggles, and pull-down menus do)
