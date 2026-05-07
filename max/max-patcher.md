@@ -1,13 +1,24 @@
 # Max Patcher
 
-## Initial Window Size
+- `z` / `Z`: Zoom in / out
+- `⌘Y`: Auto-align
+- `⌘J`: Fix width (e.g., a comment)
+- `⌃⌘O`: Show object explorer
 
-- `View > Initial Window Location`: Move the window back to the default initial window size and position
-- `View > Define Fixed Initial Window Location`: Set the current window size and position to the default position when the patcher is opened
+## Editing
 
-### Tips
+- `⇧↩` / `⇥`: End editing
+- `⌘'` / `Object > Name...`: Edit scripting name
 
-There are two good ways of setting the initial window size:
+## Mouse
 
-- Grab the lower-right corner and resize the window to the smallest size where neither of the scroll bars (horizontal or vertical) appear
-- When in Unlocked Presentation mode, a black border will show with the current `Initial Window Size`, size that to the smallest size that contains the content
+- `⌘-double-click` object: Open `bpatcher`
+- `⌥-click` object: Open help
+- `⌘-click` white space: Unlock/Lock Window
+- `⌥-drag`: To select patch cords
+- `⌥-drag` from any object: To duplicate it
+- `⌘-drag` object: Manipulate it as if the window were locked
+- `⌘-double-click patcher`: Open it in a new window, even if the window is locked
+- `⌘-double-click send` (or `receive`): See menu with all instances of the pair (the `⌘` isn't necessary in a locked window.)
+- `⌥-click` any object: Help
+

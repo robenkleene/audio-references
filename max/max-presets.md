@@ -5,6 +5,12 @@ The strategy for presets with Max for Live:
 1. Have the `pattrstorage` system only read and write JSON files
 2. Store the current state with Ableton Live
 
+## Presets Object
+
+- `⇧-click`: Save current preset
+- `click`: Restore preset
+- `⇧⌥-click`: Delete preset
+
 ## Alternatives
 
 There is a way to have the current status of `pattrstorage` be stored with a Live set, this is done by toggling on all of the following options in the Info panel of `pattrstorage`:
