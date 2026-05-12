@@ -1,5 +1,10 @@
 # Logic Pro iPad Tracks
 
+## Regions
+
+- To drag audio and MIDI regions, drag from the center (not from the title)
+- To loop a region, tap the Loop icon (semi-circle) in the `Tracks` area menu bar, this will cause the region to have a `Loop Handle` (semi-cicle again). Drag the `Loop Handle` to loop the region.
+
 ## Stack
 
 To create a `Summing Stack`:
