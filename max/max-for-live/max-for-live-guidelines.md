@@ -38,6 +38,7 @@ Documentation comments should start with one of these verbs: `Adjusts`, `Defines
 - `(float float, %) x, y`
 - `(int float symbol) id, amount, key`
 - `(list) all filter coefficients <= if the list length is not fixed and/or the list is long`
+- `(message) control message`
 - These are examples from Ableton's coding guidelines, but in practice capitalization is inconsistent
 
 ## Acronyms
