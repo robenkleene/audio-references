@@ -43,7 +43,7 @@ Documentation comments should start with one of these verbs: `Adjusts`, `Defines
 
 ## Acronyms
 
-These abbreviations should be used in `Scripting Name` (and `Long Name` which doesn't appear to be displayed anywhere), but not `Short Name`, because `Short Name` is displayed on Ableton Push, and the convention is to not use abbreviations in the Ableton Push UI.
+These abbreviations should be used in `Scripting Name`, `Long Name`, and `Short Name`. Note that in Live native devices, for dials the Live UI shows an abbreviation (e.g., `Freq`) but Push shows the full name (e.g., `Frequency`). Max for Live devices can't replicate this (the `Short Name` is shown on both Live and Push), so using the abbreviation is appropriate.
 
 - **Amp:** Amplifier
 - **Amt:** Amount
