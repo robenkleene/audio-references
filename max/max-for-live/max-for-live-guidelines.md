@@ -43,7 +43,7 @@ Documentation comments should start with one of these verbs: `Adjusts`, `Defines
 
 ## Acronyms
 
-Only use these abbreviations.
+These abbreviations should be used in `Scripting Name` (and `Long Name` which doesn't appear to be displayed anywhere), but not `Short Name`, because `Short Name` is displayed on Ableton Push, and the convention is to not use abbreviations in the Ableton Push UI.
 
 - **Amp:** Amplifier
 - **Amt:** Amount
@@ -59,6 +59,7 @@ Only use these abbreviations.
 - **Param:** Parameter
 - **Pch:** Pitch
 - **Rand:** Random
+- **Res:** Resonance
 - **Semi:** Semitones
 - **Trig:** Trigger
 - **Val:** Value
