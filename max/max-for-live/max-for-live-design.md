@@ -65,6 +65,8 @@ For visual content, like graphs, use a black background (graphical controls [e.g
 - The black background section for visual content typically extends all the way to bottom of the device (with the standard `2px` margin at the bottom, but that's not in the drawable area)
 - When tabs use a black background then the selected tab visually connects to the black content area below it (i.e., the tab bar and the visual area appear as one continuous black region)
 
+When styling black background panels, give the `Panel` itself `Color > Interior Color: Dynamic > Live Theme Colors > LCD Background`
+
 ## Color
 
 - Set panels to group controls to `Device Inspector > Color > Locked Patcher Background Color > Dynamic > Live Theme Colors: Device Background` to match the default that Live devices use for these panels
