@@ -2,7 +2,7 @@
 
 To add files to the Push standalone user library:
 
-1. Launch Push in standalone mode
+1. Launch Push in standalone mode, on Push `Settings > Start Standalone`
 2. In Live's sidebar select `Places > Push`
 3. Drag files from the `User Library` to the `Push` section to install them
 
