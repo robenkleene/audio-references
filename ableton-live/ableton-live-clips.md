@@ -1,5 +1,7 @@
 # Ableton Live Clips
 
+- `⇧⌘M`: Create a MIDI clip with a clip slot
+
 ## Follow Actions
 
 `Follow Actions` are used to perform an action after a clip plays.
