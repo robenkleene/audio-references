@@ -1,6 +1,7 @@
 # Ableton Move Capture
 
 - The capture button (upper right, looks like a camera view finder) captures up to eight bars
+- To clear capture history, hold shift and push the capture button
 
 ## Looping
 
