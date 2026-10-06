@@ -19,13 +19,20 @@ With a Drum Rack on the current track.
 3. Play the sound
 4. Push the pad again to stop recording
 
-- To record to multiple pads in one take, tap another pad to switch to it (always tap the currently recording pad to stop recording)
+To record to multiple pads in one take, tap another pad to switch to it (always tap the currently recording pad to stop recording)
 
 #### Slicing
 
 1. Select the pad containing the sample
-2. Hold shift and press the wheel to and choose `Slice`
-3. Turn the wheel to choose the number of slices
+2. Hold shift and press the wheel to and choose `Slice`, this enters `Slice Mode`
+
+##### Slice Mode
+
+- Turn the wheel to choose the number of slices
+- Encoder 1 changes the overall start point
+- Encoder 2 the overall end point
+- Encoder 3changes the individual start point for the selected pad
+- Push a pad to select that pad (e.g., to change its start point)
 
 Slices start with equal duration, adjusting the ending for one pad, automatically updates the start of the next pad.
 
