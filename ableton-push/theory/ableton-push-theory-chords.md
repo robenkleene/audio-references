@@ -231,7 +231,11 @@ Minor triad with a minor 7th
 7 1
   5
    3
+```
 
+#### Alternative Fingering
+
+```
 1
 5  7
  3
@@ -245,7 +249,11 @@ Minor triad with a minor 7th
 3
 7 1
   5
+```
 
+#### Alternative Fingering
+
+```
 1  3
 5  7
 ```
@@ -258,7 +266,11 @@ Minor triad with a minor 7th
 5
  3
  7 1
+```
 
+#### Alternative Fingering
+
+```
   5
 1  3
    7
@@ -270,21 +282,21 @@ Minor triad with a minor 7th
 
 1 is the bottom note
 
-#### Natural Fingering
+#### Fingering
 
 ```
  5
 1   3
 ```
 
-#### First Fingering
+#### Alternative Fingering
 
 ```
 3 5
  1
 ```
 
-#### Second Fingering
+#### Second Alternative Fingering
 
 ```
 5
@@ -296,11 +308,17 @@ Minor triad with a minor 7th
 
 3 is the bottom note
 
+#### Fingering
+
 ```
  1
 5
    3
+```
 
+#### Alternative Fingering
+
+```
    1
 3 5
 ```
@@ -364,11 +382,17 @@ Major triad with a minor 7th
 
 1 is the bottom note
 
+#### Fingering
+
 ```
 7
   5
 1   3
+```
 
+#### Alternative Fingering
+
+```
  7
 3  5
  1
@@ -382,7 +406,11 @@ Major triad with a minor 7th
 7 1
   5
     3
+```
 
+#### Alternative Fingering
+
+```
  7 1
 3  5
 ```
@@ -404,8 +432,12 @@ Major triad with a minor 7th
 ```
  3  5
 7 1
+```
 
- 5
-   3
-  7 1
+#### Alternative Fingering
+
+```
+5
+  3
+ 7 1
 ```
