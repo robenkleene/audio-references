@@ -339,39 +339,166 @@ Diminished triad with a diminished 7th
 
 ### Root
 
+1 is the bottom note
+
+#### Fingering
+
 ```
+.5..7
+1..3.
+```
+
+#### Alternative Fingering
+
+```
+.7..
+3..5
+..1.
+```
+
+#### Second Alternative Fingering
+
+```
+5..7.
+..3..
+....1
 ```
 
 ### First Inversion
 
+3 is the bottom note
+
+#### Fingering
+
 ```
+.7..1
+3..5.
+```
+
+#### Alternative Fingering
+
+```
+.1..
+5..7
+..3.
 ```
 
 ### Second Inversion
 
+5 is the bottom note
+
+#### Fingering
+
 ```
+.1..3
+5..7.
+```
+
+#### Alternative Fingering
+
+```
+.3..
+7..1
+..5.
 ```
 
 ### Third Inversion
 
+7 is the bottom note
+
+#### Fingering
+
 ```
+.3..5
+7..1.
+```
+
+#### Alternative Fingering
+
+```
+.5..
+1..3
+..7.
 ```
 
 ## Augmented Triad
 
 ### Root
 
+1 is the bottom note
+
+#### Fingering
+
 ```
+...5.
+1...3
+```
+
+#### Alternative Fingering
+
+```
+3...5
+.1...
+```
+
+#### Second Alternative Fingering
+
+```
+5..
+.3.
+..1
 ```
 
 ### First Inversion
 
+3 is the bottom note
+
+#### Fingering
+
 ```
+...1.
+3...5
+```
+
+#### Alternative Fingering
+
+```
+5...1
+.3...
+```
+
+#### Second Alternative Fingering
+
+```
+1..
+.5.
+..3
 ```
 
 ### Second Inversion
 
+5 is the bottom note
+
+#### Fingering
+
 ```
+...3.
+5...1
+```
+
+#### Alternative Fingering
+
+```
+1...3
+.5...
+```
+
+#### Second Alternative Fingering
+
+```
+3..
+.1.
+..5
 ```
 
 ## Dominant 7th
