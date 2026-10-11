@@ -1,6 +1,6 @@
 # Ableton Push Chord Progressions
 
-Progressions using the fingerings from `ableton-push-theory-chords.md`. Every progression fits within 4 rows × 8 pads, so it plays the same on Push's 8 × 8 grid and on Move's 4 × 8 grid.
+Progressions using the shapes from `ableton-push-theory-chords.md`. Every progression fits within 4 rows × 8 pads, so it plays the same on Push's 8 × 8 grid and on Move's 4 × 8 grid.
 
 ## Setup
 
@@ -11,7 +11,7 @@ Progressions using the fingerings from `ableton-push-theory-chords.md`. Every pr
 
 - Each diagram is cropped to the area the whole progression uses, so every chord in a progression shows the same window of pads. Where a chord sits in its box is where your hand goes relative to the other chords.
 - Numbers are chord tones of that chord (1, 3, 5, 7, 9), the same as the chord reference. `.` is a pad you don't play.
-- Under each chord is the shape it uses, named after the chord reference's fingering when it matches one.
+- Under each chord is the shape it uses from the chord reference (chord type and inversion).
 - Voicings in the later progressions were picked to keep your hand as still as possible through the loop, including the move from the last chord back to the first.
 
 ## Major
@@ -22,7 +22,7 @@ In C major: F – Dm – Em
 
 #### IV (F)
 
-Major Triad, Root, Fingering
+Major Triad, Root
 
 ```
 ......
@@ -33,7 +33,7 @@ Major Triad, Root, Fingering
 
 #### ii (Dm)
 
-Minor Triad, Root, Fingering
+Minor Triad, Root
 
 ```
 ..5...
@@ -44,7 +44,7 @@ Minor Triad, Root, Fingering
 
 #### iii (Em)
 
-Minor Triad, Root, Fingering
+Minor Triad, Root
 
 ```
 ......
@@ -59,7 +59,7 @@ In C major: Dm7 – G7 – Cmaj7
 
 #### ii (Dm7)
 
-Minor 7th, Root, Alternative Fingering
+Minor 7th, Root
 
 ```
 5..7
@@ -69,7 +69,7 @@ Minor 7th, Root, Alternative Fingering
 
 #### V (G7)
 
-Dominant 7th, Second Inversion, Fingering
+Dominant 7th, Second Inversion
 
 ```
 ..3.
@@ -79,7 +79,7 @@ Dominant 7th, Second Inversion, Fingering
 
 #### I (Cmaj7)
 
-Major 7th, Root, Alternative Fingering
+Major 7th, Root
 
 ```
 ..7.
@@ -95,7 +95,7 @@ In C major: C – G – Am – F
 
 #### I (C)
 
-Major Triad, Root, Alternative Fingering
+Major Triad, Root
 
 ```
 3..5
@@ -105,7 +105,7 @@ Major Triad, Root, Alternative Fingering
 
 #### V (G)
 
-Major Triad, Root, Alternative Fingering
+Major Triad, Root
 
 ```
 ....
@@ -115,7 +115,7 @@ Major Triad, Root, Alternative Fingering
 
 #### vi (Am)
 
-Minor Triad, Root, Second Alternative Fingering
+Minor Triad, Root
 
 ```
 5...
@@ -125,7 +125,7 @@ Minor Triad, Root, Second Alternative Fingering
 
 #### IV (F)
 
-Major Triad, First Inversion, Fingering
+Major Triad, First Inversion
 
 ```
 .1..
@@ -141,7 +141,7 @@ In C major: Am – F – C – G
 
 #### vi (Am)
 
-Minor Triad, Root, Fingering
+Minor Triad, Root
 
 ```
 ....
@@ -152,7 +152,7 @@ Minor Triad, Root, Fingering
 
 #### IV (F)
 
-Major Triad, First Inversion, Alternative Fingering
+Major Triad, First Inversion
 
 ```
 ....
@@ -163,7 +163,7 @@ Major Triad, First Inversion, Alternative Fingering
 
 #### I (C)
 
-Major Triad, Root, Second Alternative Fingering
+Major Triad, Root
 
 ```
 5...
@@ -174,7 +174,7 @@ Major Triad, Root, Second Alternative Fingering
 
 #### V (G)
 
-Major Triad, Root, Second Alternative Fingering
+Major Triad, Root
 
 ```
 ....
@@ -191,7 +191,7 @@ In C major: C – Am – F – G
 
 #### I (C)
 
-Major Triad, Root, Alternative Fingering
+Major Triad, Root
 
 ```
 3..5
@@ -201,7 +201,7 @@ Major Triad, Root, Alternative Fingering
 
 #### vi (Am)
 
-Minor Triad, Root, Second Alternative Fingering
+Minor Triad, Root
 
 ```
 5...
@@ -211,7 +211,7 @@ Minor Triad, Root, Second Alternative Fingering
 
 #### IV (F)
 
-Major Triad, First Inversion, Fingering
+Major Triad, First Inversion
 
 ```
 .1..
@@ -221,7 +221,7 @@ Major Triad, First Inversion, Fingering
 
 #### V (G)
 
-Major Triad, Root, Alternative Fingering
+Major Triad, Root
 
 ```
 ....
@@ -237,7 +237,7 @@ In C major: C – F – G – F
 
 #### I (C)
 
-Major Triad, Root, Fingering
+Major Triad, Root
 
 ```
 .....
@@ -247,7 +247,7 @@ Major Triad, Root, Fingering
 
 #### IV (F)
 
-Major Triad, Root, Fingering
+Major Triad, Root
 
 ```
 ..5..
@@ -257,7 +257,7 @@ Major Triad, Root, Fingering
 
 #### V (G)
 
-Major Triad, Root, Alternative Fingering
+Major Triad, Root
 
 ```
 .3..5
@@ -267,7 +267,7 @@ Major Triad, Root, Alternative Fingering
 
 #### IV (F)
 
-Major Triad, Root, Fingering
+Major Triad, Root
 
 ```
 ..5..
@@ -283,7 +283,7 @@ In C major: C – Bb – F – C
 
 #### I (C)
 
-Major Triad, Root, Alternative Fingering
+Major Triad, Root
 
 ```
 .3..5
@@ -293,7 +293,7 @@ Major Triad, Root, Alternative Fingering
 
 #### ♭VII (Bb)
 
-Major Triad, Root, Fingering
+Major Triad, Root
 
 ```
 ..5..
@@ -303,7 +303,7 @@ Major Triad, Root, Fingering
 
 #### IV (F)
 
-Major Triad, First Inversion, Fingering
+Major Triad, First Inversion
 
 ```
 ..1..
@@ -313,7 +313,7 @@ Major Triad, First Inversion, Fingering
 
 #### I (C)
 
-Major Triad, Root, Alternative Fingering
+Major Triad, Root
 
 ```
 .3..5
@@ -329,7 +329,7 @@ In C major: C – E – F – Fm
 
 #### I (C)
 
-Major Triad, Root, Second Alternative Fingering
+Major Triad, Root
 
 ```
 5...
@@ -339,7 +339,7 @@ Major Triad, Root, Second Alternative Fingering
 
 #### III (E)
 
-Major Triad, Second Inversion, Fingering
+Major Triad, Second Inversion
 
 ```
 .3..
@@ -349,7 +349,7 @@ Major Triad, Second Inversion, Fingering
 
 #### IV (F)
 
-Major Triad, Second Inversion, Fingering
+Major Triad, Second Inversion
 
 ```
 ..3.
@@ -359,7 +359,7 @@ Major Triad, Second Inversion, Fingering
 
 #### iv (Fm)
 
-Minor Triad, Second Inversion, Fingering
+Minor Triad, Second Inversion
 
 ```
 .3..
@@ -375,7 +375,7 @@ In C major: C – Caug – F – Fm
 
 #### I (C)
 
-Major Triad, Root, Second Alternative Fingering
+Major Triad, Root
 
 ```
 5...
@@ -385,7 +385,7 @@ Major Triad, Root, Second Alternative Fingering
 
 #### I+ (Caug)
 
-Augmented Triad, Root, Second Alternative Fingering
+Augmented Triad, Root
 
 ```
 .5..
@@ -395,7 +395,7 @@ Augmented Triad, Root, Second Alternative Fingering
 
 #### IV (F)
 
-Major Triad, Second Inversion, Fingering
+Major Triad, Second Inversion
 
 ```
 ..3.
@@ -405,7 +405,7 @@ Major Triad, Second Inversion, Fingering
 
 #### iv (Fm)
 
-Minor Triad, Second Inversion, Fingering
+Minor Triad, Second Inversion
 
 ```
 .3..
@@ -421,7 +421,7 @@ In C major: C – C#dim7 – Dm – G7
 
 #### I (C)
 
-Major Triad, Root, Fingering
+Major Triad, Root
 
 ```
 ..5...
@@ -431,7 +431,7 @@ Major Triad, Root, Fingering
 
 #### ♯i°7 (C#dim7)
 
-Diminished 7th, Root, Fingering
+Diminished 7th, Root
 
 ```
 ..5..7
@@ -441,7 +441,7 @@ Diminished 7th, Root, Fingering
 
 #### ii (Dm)
 
-Minor Triad, Root, Alternative Fingering
+Minor Triad, Root
 
 ```
 3...5.
@@ -451,7 +451,7 @@ Minor Triad, Root, Alternative Fingering
 
 #### V7 (G7)
 
-Dominant 7th, First Inversion, Fingering
+Dominant 7th, First Inversion
 
 ```
 7.1...
@@ -467,7 +467,7 @@ In C major: C – G – Am – Em – F – C – F – G
 
 #### I (C)
 
-Major Triad, Root, Fingering
+Major Triad, Root
 
 ```
 ..5..
@@ -478,7 +478,7 @@ Major Triad, Root, Fingering
 
 #### V (G)
 
-Major Triad, Root, Fingering
+Major Triad, Root
 
 ```
 .....
@@ -489,7 +489,7 @@ Major Triad, Root, Fingering
 
 #### vi (Am)
 
-Minor Triad, Root, Alternative Fingering
+Minor Triad, Root
 
 ```
 .....
@@ -500,7 +500,7 @@ Minor Triad, Root, Alternative Fingering
 
 #### iii (Em)
 
-Minor Triad, Root, Alternative Fingering
+Minor Triad, Root
 
 ```
 .....
@@ -511,7 +511,7 @@ Minor Triad, Root, Alternative Fingering
 
 #### IV (F)
 
-Major Triad, Root, Second Alternative Fingering
+Major Triad, Root
 
 ```
 .....
@@ -522,7 +522,7 @@ Major Triad, Root, Second Alternative Fingering
 
 #### I (C)
 
-Major Triad, First Inversion, Fingering
+Major Triad, First Inversion
 
 ```
 .....
@@ -533,7 +533,7 @@ Major Triad, First Inversion, Fingering
 
 #### IV (F)
 
-Major Triad, Root, Second Alternative Fingering
+Major Triad, Root
 
 ```
 .....
@@ -544,7 +544,7 @@ Major Triad, Root, Second Alternative Fingering
 
 #### V (G)
 
-Major Triad, Root, Fingering
+Major Triad, Root
 
 ```
 .....
@@ -561,7 +561,7 @@ In C major: Cmaj7 – Am7 – Dm7 – G7
 
 #### Imaj7 (Cmaj7)
 
-Major 7th, Third Inversion, Fingering
+Major 7th, Third Inversion
 
 ```
 3..5
@@ -571,7 +571,7 @@ Major 7th, Third Inversion, Fingering
 
 #### vi7 (Am7)
 
-Minor 7th, Root, Alternative Fingering
+Minor 7th, Root
 
 ```
 5..7
@@ -581,7 +581,7 @@ Minor 7th, Root, Alternative Fingering
 
 #### ii7 (Dm7)
 
-Minor 7th, Second Inversion, Fingering
+Minor 7th, Second Inversion
 
 ```
 .3..
@@ -591,7 +591,7 @@ Minor 7th, Second Inversion, Fingering
 
 #### V7 (G7)
 
-Dominant 7th, Root, Alternative Fingering
+Dominant 7th, Root
 
 ```
 .7..
@@ -607,7 +607,7 @@ In C major: Cmaj7 – Fmaj7
 
 #### Imaj7 (Cmaj7)
 
-Major 7th, Second Inversion, Fingering
+Major 7th, Second Inversion
 
 ```
 .3...
@@ -617,7 +617,7 @@ Major 7th, Second Inversion, Fingering
 
 #### IVmaj7 (Fmaj7)
 
-Major 7th, Root, Fingering
+Major 7th, Root
 
 ```
 .7...
@@ -633,7 +633,7 @@ In C major: C7 – F7 – C7 – G7 – F7 – C7
 
 #### I7 (C7)
 
-Dominant 7th, Third Inversion, Alternative Fingering
+Dominant 7th, Third Inversion
 
 ```
 5...
@@ -644,7 +644,7 @@ Dominant 7th, Third Inversion, Alternative Fingering
 
 #### IV7 (F7)
 
-Dominant 7th, First Inversion, Alternative Fingering
+Dominant 7th, First Inversion
 
 ```
 ....
@@ -655,7 +655,7 @@ Dominant 7th, First Inversion, Alternative Fingering
 
 #### I7 (C7)
 
-Dominant 7th, First Inversion, Alternative Fingering
+Dominant 7th, First Inversion
 
 ```
 ....
@@ -666,7 +666,7 @@ Dominant 7th, First Inversion, Alternative Fingering
 
 #### V7 (G7)
 
-Dominant 7th, Third Inversion, Alternative Fingering
+Dominant 7th, Third Inversion
 
 ```
 ....
@@ -677,7 +677,7 @@ Dominant 7th, Third Inversion, Alternative Fingering
 
 #### IV7 (F7)
 
-Dominant 7th, Root, Alternative Fingering
+Dominant 7th, Root
 
 ```
 ....
@@ -688,7 +688,7 @@ Dominant 7th, Root, Alternative Fingering
 
 #### I7 (C7)
 
-Dominant 7th, Third Inversion, Alternative Fingering
+Dominant 7th, Third Inversion
 
 ```
 5...
@@ -705,7 +705,7 @@ In A minor: Fmaj7 – Am7 – A7♭9♯5
 
 #### VI (Fmaj7)
 
-Major 7th, Root, Alternative Fingering
+Major 7th, Root
 
 ```
 ..7...
@@ -715,7 +715,7 @@ Major 7th, Root, Alternative Fingering
 
 #### i (Am7)
 
-Minor 7th, Third Inversion, Fingering
+Minor 7th, Third Inversion
 
 ```
 ..5...
@@ -725,7 +725,7 @@ Minor 7th, Third Inversion, Fingering
 
 #### I7 (A7♭9♯5)
 
-Dominant 7th ♭9 ♯5, no root
+Dominant 7th ♭9 ♯5, Rootless, Third Inversion
 
 ```
 ...5..
@@ -741,7 +741,7 @@ In A minor: Dm7 – E7 – E7♯5♯9 (bonus) – Am9
 
 #### iv (Dm7)
 
-Minor 7th, First Inversion, Alternative Fingering
+Minor 7th, First Inversion
 
 ```
 .......
@@ -752,7 +752,7 @@ Minor 7th, First Inversion, Alternative Fingering
 
 #### V (E7)
 
-Dominant 7th, Root, Alternative Fingering
+Dominant 7th, Root
 
 ```
 .......
@@ -761,7 +761,7 @@ Dominant 7th, Root, Alternative Fingering
 ...1...
 ```
 
-Alternative: Dominant 7th, Root
+Dominant 7th, Root
 
 ```
 .......
@@ -772,7 +772,7 @@ Alternative: Dominant 7th, Root
 
 #### V, Bonus (E7♯5♯9)
 
-Dominant 7th ♯5 ♯9, no root
+Dominant 7th ♯5 ♯9, Rootless, First Inversion
 
 ```
 ...9...
@@ -781,7 +781,7 @@ Dominant 7th ♯5 ♯9, no root
 .......
 ```
 
-Alternative: Dominant 7th ♯5 ♯9, no root
+Dominant 7th ♯5 ♯9, Rootless, First Inversion
 
 ```
 ...9...
@@ -792,7 +792,7 @@ Alternative: Dominant 7th ♯5 ♯9, no root
 
 #### i (Am9)
 
-Minor 9th, Third Inversion, no root
+Minor 9th, Rootless, Third Inversion
 
 ```
 .......
@@ -807,7 +807,7 @@ In A minor: F – G – Am
 
 #### VI (F)
 
-Major Triad, Root, Alternative Fingering
+Major Triad, Root
 
 ```
 ......
@@ -817,7 +817,7 @@ Major Triad, Root, Alternative Fingering
 
 #### VII (G)
 
-Major Triad, Root, Alternative Fingering
+Major Triad, Root
 
 ```
 ......
@@ -827,7 +827,7 @@ Major Triad, Root, Alternative Fingering
 
 #### i (Am)
 
-Minor Triad, Root, Fingering
+Minor Triad, Root
 
 ```
 ..5...
@@ -843,7 +843,7 @@ In C minor: Cm – Ab – Eb – Bb
 
 #### i (Cm)
 
-Minor Triad, Root, Fingering
+Minor Triad, Root
 
 ```
 ..5.
@@ -853,7 +853,7 @@ Minor Triad, Root, Fingering
 
 #### VI (Ab)
 
-Major Triad, First Inversion, Alternative Fingering
+Major Triad, First Inversion
 
 ```
 ...1
@@ -863,7 +863,7 @@ Major Triad, First Inversion, Alternative Fingering
 
 #### III (Eb)
 
-Major Triad, First Inversion, Alternative Fingering
+Major Triad, First Inversion
 
 ```
 ....
@@ -873,7 +873,7 @@ Major Triad, First Inversion, Alternative Fingering
 
 #### VII (Bb)
 
-Major Triad, Root, Second Alternative Fingering
+Major Triad, Root
 
 ```
 5...
@@ -889,7 +889,7 @@ In C minor: Cm – Bb – Ab – G
 
 #### i (Cm)
 
-Minor Triad, Root, Fingering
+Minor Triad, Root
 
 ```
 ...5.
@@ -899,7 +899,7 @@ Minor Triad, Root, Fingering
 
 #### VII (Bb)
 
-Major Triad, Root, Second Alternative Fingering
+Major Triad, Root
 
 ```
 .5...
@@ -909,7 +909,7 @@ Major Triad, Root, Second Alternative Fingering
 
 #### VI (Ab)
 
-Major Triad, First Inversion, Alternative Fingering
+Major Triad, First Inversion
 
 ```
 ....1
@@ -919,7 +919,7 @@ Major Triad, First Inversion, Alternative Fingering
 
 #### V (G)
 
-Major Triad, First Inversion, Alternative Fingering
+Major Triad, First Inversion
 
 ```
 ...1.
@@ -935,7 +935,7 @@ In C minor: Cm – Ddim – G – Cm
 
 #### i (Cm)
 
-Minor Triad, Root, Fingering
+Minor Triad, Root
 
 ```
 ...5.
@@ -944,7 +944,7 @@ Minor Triad, Root, Fingering
 
 #### ii° (Ddim)
 
-Diminished Triad, Root, Alternative Fingering
+Diminished Triad, Root
 
 ```
 .3..5
@@ -953,7 +953,7 @@ Diminished Triad, Root, Alternative Fingering
 
 #### V (G)
 
-Major Triad, First Inversion, Alternative Fingering
+Major Triad, First Inversion
 
 ```
 ...1.
@@ -962,7 +962,7 @@ Major Triad, First Inversion, Alternative Fingering
 
 #### i (Cm)
 
-Minor Triad, Root, Fingering
+Minor Triad, Root
 
 ```
 ...5.
@@ -977,7 +977,7 @@ In C minor: Cm – Fm – Bdim7 – Cm
 
 #### i (Cm)
 
-Minor Triad, Root, Fingering
+Minor Triad, Root
 
 ```
 ....
@@ -987,7 +987,7 @@ Minor Triad, Root, Fingering
 
 #### iv (Fm)
 
-Minor Triad, Root, Fingering
+Minor Triad, Root
 
 ```
 ..5.
@@ -997,7 +997,7 @@ Minor Triad, Root, Fingering
 
 #### vii°7 (Bdim7)
 
-Diminished 7th, First Inversion, Alternative Fingering
+Diminished 7th, First Inversion
 
 ```
 .1..
@@ -1007,7 +1007,7 @@ Diminished 7th, First Inversion, Alternative Fingering
 
 #### i (Cm)
 
-Minor Triad, Root, Fingering
+Minor Triad, Root
 
 ```
 ....
@@ -1023,7 +1023,7 @@ In C minor: Cm7 – Fm7
 
 #### i7 (Cm7)
 
-Minor 7th, Root, Fingering
+Minor 7th, Root
 
 ```
 7...
@@ -1033,7 +1033,7 @@ Minor 7th, Root, Fingering
 
 #### iv7 (Fm7)
 
-Minor 7th, Second Inversion, Alternative Fingering
+Minor 7th, Second Inversion
 
 ```
 ....
