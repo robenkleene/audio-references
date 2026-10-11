@@ -6,7 +6,7 @@
 2. Choose `Monitor > In` to hear what's playing from the sample source
 3. Choose `I/O > Input` and `Type > Ext. In`
 
-The input volume can be boosted in `Preferences > Audio`
+The input volume can be boosted in `Preferences > Audio`, for an iPhone, boost each `Line` gain to `+20 dB`
 
 ## Record
 
