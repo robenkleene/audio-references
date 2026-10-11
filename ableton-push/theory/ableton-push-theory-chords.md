@@ -4,8 +4,6 @@
 
 ### Root
 
-1 is the bottom note
-
 ```
 ..5..
 1...3
@@ -24,8 +22,6 @@
 
 ### First Inversion
 
-3 is the bottom note
-
 ```
 1..
 5..
@@ -39,8 +35,6 @@
 
 ### Second Inversion
 
-5 is the bottom note
-
 ```
 3..
 .1.
@@ -52,8 +46,6 @@
 Major triad with a major 7th
 
 ### Root
-
-1 is the bottom note
 
 ```
 .7...
@@ -76,8 +68,6 @@ Major triad with a major 7th
 
 ### First Inversion
 
-3 is the bottom note
-
 ```
 71..
 .5..
@@ -91,8 +81,6 @@ Major triad with a major 7th
 
 ### Second Inversion
 
-5 is the bottom note
-
 ```
 3.
 71
@@ -100,8 +88,6 @@ Major triad with a major 7th
 ```
 
 ### Third Inversion
-
-7 is the bottom note
 
 ```
 3..5
@@ -126,8 +112,6 @@ Major triad with a major 6th
 
 ### Root
 
-1 is the bottom note
-
 ```
 ..5.6
 1...3
@@ -147,8 +131,6 @@ Major triad with a major 6th
 
 ### First Inversion
 
-3 is the bottom note
-
 ```
 6..1
 3..5
@@ -161,8 +143,6 @@ Major triad with a major 6th
 ```
 
 ### Second Inversion
-
-5 is the bottom note
 
 ```
 1...3
@@ -183,8 +163,6 @@ Major triad with a major 6th
 
 ### Third Inversion
 
-6 is the bottom note
-
 ```
 3..5
 .1..
@@ -202,8 +180,6 @@ Major triad with a major 6th
 Major triad with a 9th and no 7th
 
 ### Root
-
-1 is the bottom note
 
 ```
 3..5
@@ -223,8 +199,6 @@ Major triad with a 9th and no 7th
 
 ### First Inversion
 
-3 is the bottom note
-
 ```
 1.9
 5..
@@ -238,8 +212,6 @@ Major triad with a 9th and no 7th
 ```
 
 ### Second Inversion
-
-5 is the bottom note
 
 ```
 1.9.3
@@ -264,8 +236,6 @@ Major 7th with a 9th
 
 ### Root
 
-1 is the bottom note
-
 ```
 ..7.
 3..5
@@ -273,8 +243,6 @@ Major 7th with a 9th
 ```
 
 ### First Inversion
-
-3 is the bottom note
 
 ```
 71.9
@@ -289,8 +257,6 @@ Major 7th with a 9th
 ```
 
 ### Second Inversion
-
-5 is the bottom note
 
 ```
 1.9.3
@@ -311,8 +277,6 @@ Major 7th with a 9th
 
 ### Third Inversion
 
-7 is the bottom note
-
 ```
 3..5
 71.9
@@ -332,8 +296,6 @@ Major 7th with a 9th
 
 ### Rootless, First Inversion
 
-3 is the bottom note
-
 ```
 7..9
 .5..
@@ -347,8 +309,6 @@ Major 7th with a 9th
 ```
 
 ### Rootless, Second Inversion
-
-5 is the bottom note
 
 ```
 ..9.3
@@ -369,8 +329,6 @@ Major 7th with a 9th
 
 ### Rootless, Third Inversion
 
-7 is the bottom note
-
 ```
 3..5
 7..9
@@ -388,8 +346,6 @@ Major 7th with a sharp 11th (written as 4)
 
 ### Root
 
-1 is the bottom note
-
 ```
 ..7.
 3.45
@@ -397,8 +353,6 @@ Major 7th with a sharp 11th (written as 4)
 ```
 
 ### First Inversion
-
-3 is the bottom note
 
 ```
 ..71
@@ -413,8 +367,6 @@ Major 7th with a sharp 11th (written as 4)
 
 ### Second Inversion
 
-5 is the bottom note
-
 ```
 3.4
 71.
@@ -422,8 +374,6 @@ Major 7th with a sharp 11th (written as 4)
 ```
 
 ### Third Inversion
-
-7 is the bottom note
 
 ```
 3.45
@@ -438,8 +388,6 @@ Major 7th with a sharp 11th (written as 4)
 
 ### No 5th, Root
 
-1 is the bottom note
-
 ```
 ..7
 3.4
@@ -447,8 +395,6 @@ Major 7th with a sharp 11th (written as 4)
 ```
 
 ### No 5th, First Inversion
-
-3 is the bottom note
 
 ```
 ..71
@@ -462,8 +408,6 @@ Major 7th with a sharp 11th (written as 4)
 ```
 
 ### No 5th, Third Inversion
-
-7 is the bottom note
 
 ```
 3.4
@@ -482,8 +426,6 @@ Major 7th with a 9th and 13th (13th written as 6), 5th left out
 
 ### Root
 
-1 is the bottom note
-
 ```
 6.7.
 3...
@@ -491,8 +433,6 @@ Major 7th with a 9th and 13th (13th written as 6), 5th left out
 ```
 
 ### First Inversion
-
-3 is the bottom note
 
 ```
 71.9
@@ -507,8 +447,6 @@ Major 7th with a 9th and 13th (13th written as 6), 5th left out
 ```
 
 ### Third Inversion
-
-7 is the bottom note
 
 ```
 ..6.
@@ -530,8 +468,6 @@ Major 7th with a 9th and 13th (13th written as 6), 5th left out
 
 ### Rootless, First Inversion
 
-3 is the bottom note
-
 ```
 9..
 6.7
@@ -545,8 +481,6 @@ Major 7th with a 9th and 13th (13th written as 6), 5th left out
 ```
 
 ### Rootless, Third Inversion
-
-7 is the bottom note
 
 ```
 ..6
@@ -563,8 +497,6 @@ Major 7th with a 9th and 13th (13th written as 6), 5th left out
 ## Minor Triad
 
 ### Root
-
-1 is the bottom note
 
 ```
 ..5.
@@ -584,8 +516,6 @@ Major 7th with a 9th and 13th (13th written as 6), 5th left out
 
 ### First Inversion
 
-3 is the bottom note
-
 ```
 1.
 5.
@@ -593,8 +523,6 @@ Major 7th with a 9th and 13th (13th written as 6), 5th left out
 ```
 
 ### Second Inversion
-
-5 is the bottom note
 
 ```
 3..
@@ -613,8 +541,6 @@ Minor triad with a minor 7th
 
 ### Root
 
-1 is the bottom note
-
 ```
 7...
 ..5.
@@ -628,8 +554,6 @@ Minor triad with a minor 7th
 ```
 
 ### First Inversion
-
-3 is the bottom note
 
 ```
 7.1.
@@ -645,8 +569,6 @@ Minor triad with a minor 7th
 
 ### Second Inversion
 
-5 is the bottom note
-
 ```
 3..
 7.1
@@ -659,8 +581,6 @@ Minor triad with a minor 7th
 ```
 
 ### Third Inversion
-
-7 is the bottom note
 
 ```
 5...
@@ -680,8 +600,6 @@ Minor triad with a major 6th
 
 ### Root
 
-1 is the bottom note
-
 ```
 ..5.6
 1..3.
@@ -694,8 +612,6 @@ Minor triad with a major 6th
 ```
 
 ### First Inversion
-
-3 is the bottom note
 
 ```
 1..
@@ -710,8 +626,6 @@ Minor triad with a major 6th
 
 ### Second Inversion
 
-5 is the bottom note
-
 ```
 1..3
 5.6.
@@ -724,8 +638,6 @@ Minor triad with a major 6th
 ```
 
 ### Third Inversion
-
-6 is the bottom note
 
 ```
 ..5.
@@ -745,8 +657,6 @@ Minor triad with a major 7th
 
 ### Root
 
-1 is the bottom note
-
 ```
 .7..
 ..5.
@@ -754,8 +664,6 @@ Minor triad with a major 7th
 ```
 
 ### First Inversion
-
-3 is the bottom note
 
 ```
 71.
@@ -769,8 +677,6 @@ Minor triad with a major 7th
 ```
 
 ### Second Inversion
-
-5 is the bottom note
 
 ```
 3..
@@ -789,8 +695,6 @@ Minor triad with a major 7th
 ```
 
 ### Third Inversion
-
-7 is the bottom note
 
 ```
 ...5.
@@ -814,8 +718,6 @@ Minor triad with a 9th and no 7th
 
 ### Root
 
-1 is the bottom note
-
 ```
 ..5.
 1.93
@@ -834,8 +736,6 @@ Minor triad with a 9th and no 7th
 
 ### First Inversion
 
-3 is the bottom note
-
 ```
 1.9
 5..
@@ -843,8 +743,6 @@ Minor triad with a 9th and no 7th
 ```
 
 ### Second Inversion
-
-5 is the bottom note
 
 ```
 1.93
@@ -863,8 +761,6 @@ Minor 7th with a 9th
 
 ### Root
 
-1 is the bottom note
-
 ```
 5..7
 93..
@@ -879,8 +775,6 @@ Minor 7th with a 9th
 
 ### First Inversion
 
-3 is the bottom note
-
 ```
 1.9.
 5..7
@@ -888,8 +782,6 @@ Minor 7th with a 9th
 ```
 
 ### Second Inversion
-
-5 is the bottom note
 
 ```
 1.93
@@ -903,8 +795,6 @@ Minor 7th with a 9th
 ```
 
 ### Third Inversion
-
-7 is the bottom note
 
 ```
 3...5
@@ -925,8 +815,6 @@ Minor 7th with a 9th
 
 ### Rootless, First Inversion
 
-3 is the bottom note
-
 ```
 ..9.
 5..7
@@ -934,8 +822,6 @@ Minor 7th with a 9th
 ```
 
 ### Rootless, Second Inversion
-
-5 is the bottom note
 
 ```
 ..93
@@ -949,8 +835,6 @@ Minor 7th with a 9th
 ```
 
 ### Rootless, Third Inversion
-
-7 is the bottom note
 
 ```
 5.
@@ -969,8 +853,6 @@ Minor 7th with an 11th (written as 4), 9th left out
 
 ### Root
 
-1 is the bottom note
-
 ```
 5..7
 .3.4
@@ -984,8 +866,6 @@ Minor 7th with an 11th (written as 4), 9th left out
 ```
 
 ### First Inversion
-
-3 is the bottom note
 
 ```
 ..7.1
@@ -1006,8 +886,6 @@ Minor 7th with an 11th (written as 4), 9th left out
 
 ### Second Inversion
 
-5 is the bottom note
-
 ```
 3.4
 7.1
@@ -1021,8 +899,6 @@ Minor 7th with an 11th (written as 4), 9th left out
 ```
 
 ### Third Inversion
-
-7 is the bottom note
 
 ```
 3.4.5
@@ -1043,8 +919,6 @@ Minor 7th with an 11th (written as 4), 9th left out
 
 ### Rootless, First Inversion
 
-3 is the bottom note
-
 ```
 5..7
 .3.4
@@ -1063,8 +937,6 @@ Minor 7th with an 11th (written as 4), 9th left out
 
 ### Rootless, Second Inversion
 
-5 is the bottom note
-
 ```
 3.4
 7..
@@ -1078,8 +950,6 @@ Minor 7th with an 11th (written as 4), 9th left out
 ```
 
 ### Rootless, Third Inversion
-
-7 is the bottom note
 
 ```
 3.4.5
@@ -1104,8 +974,6 @@ Minor 7th with a 9th and 13th (13th written as 6), 5th left out
 
 ### Root
 
-1 is the bottom note
-
 ```
 ..67
 93..
@@ -1113,8 +981,6 @@ Minor 7th with a 9th and 13th (13th written as 6), 5th left out
 ```
 
 ### First Inversion
-
-3 is the bottom note
 
 ```
 1.9.
@@ -1124,8 +990,6 @@ Minor 7th with a 9th and 13th (13th written as 6), 5th left out
 
 ### Third Inversion
 
-7 is the bottom note
-
 ```
 ..6.
 93..
@@ -1134,8 +998,6 @@ Minor 7th with a 9th and 13th (13th written as 6), 5th left out
 
 ### Rootless, First Inversion
 
-3 is the bottom note
-
 ```
 .9.
 .67
@@ -1143,8 +1005,6 @@ Minor 7th with a 9th and 13th (13th written as 6), 5th left out
 ```
 
 ### Rootless, Third Inversion
-
-7 is the bottom note
 
 ```
 ..6
@@ -1155,8 +1015,6 @@ Minor 7th with a 9th and 13th (13th written as 6), 5th left out
 ## Diminished Triad
 
 ### Root
-
-1 is the bottom note
 
 ```
 .5..
@@ -1176,8 +1034,6 @@ Minor 7th with a 9th and 13th (13th written as 6), 5th left out
 
 ### First Inversion
 
-3 is the bottom note
-
 ```
 .1.
 5..
@@ -1191,8 +1047,6 @@ Minor 7th with a 9th and 13th (13th written as 6), 5th left out
 
 ### Second Inversion
 
-5 is the bottom note
-
 ```
 3..
 ..1
@@ -1204,8 +1058,6 @@ Minor 7th with a 9th and 13th (13th written as 6), 5th left out
 Diminished triad with a diminished 7th
 
 ### Root
-
-1 is the bottom note
 
 ```
 .5..7
@@ -1226,8 +1078,6 @@ Diminished triad with a diminished 7th
 
 ### First Inversion
 
-3 is the bottom note
-
 ```
 .7..1
 3..5.
@@ -1241,8 +1091,6 @@ Diminished triad with a diminished 7th
 
 ### Second Inversion
 
-5 is the bottom note
-
 ```
 .1..3
 5..7.
@@ -1255,8 +1103,6 @@ Diminished triad with a diminished 7th
 ```
 
 ### Third Inversion
-
-7 is the bottom note
 
 ```
 .3..5
@@ -1275,8 +1121,6 @@ Diminished triad with a minor 7th
 
 ### Root
 
-1 is the bottom note
-
 ```
 ..7.
 3..5
@@ -1291,8 +1135,6 @@ Diminished triad with a minor 7th
 
 ### First Inversion
 
-3 is the bottom note
-
 ```
 ..7.1
 3..5.
@@ -1306,8 +1148,6 @@ Diminished triad with a minor 7th
 
 ### Second Inversion
 
-5 is the bottom note
-
 ```
 3..
 7.1
@@ -1320,8 +1160,6 @@ Diminished triad with a minor 7th
 ```
 
 ### Third Inversion
-
-7 is the bottom note
 
 ```
 3..5
@@ -1337,8 +1175,6 @@ Diminished triad with a minor 7th
 ## Augmented Triad
 
 ### Root
-
-1 is the bottom note
 
 ```
 ...5.
@@ -1358,8 +1194,6 @@ Diminished triad with a minor 7th
 
 ### First Inversion
 
-3 is the bottom note
-
 ```
 ...1.
 3...5
@@ -1377,8 +1211,6 @@ Diminished triad with a minor 7th
 ```
 
 ### Second Inversion
-
-5 is the bottom note
 
 ```
 ...3.
@@ -1402,8 +1234,6 @@ Augmented triad with a minor 7th
 
 ### Root
 
-1 is the bottom note
-
 ```
 5.7
 .3.
@@ -1411,8 +1241,6 @@ Augmented triad with a minor 7th
 ```
 
 ### First Inversion
-
-3 is the bottom note
 
 ```
 .7.1.
@@ -1432,8 +1260,6 @@ Augmented triad with a minor 7th
 
 ### Second Inversion
 
-5 is the bottom note
-
 ```
 ...3.
 5.7.1
@@ -1452,8 +1278,6 @@ Augmented triad with a minor 7th
 
 ### Third Inversion
 
-7 is the bottom note
-
 ```
 5..
 .3.
@@ -1465,8 +1289,6 @@ Augmented triad with a minor 7th
 Major triad with a minor 7th
 
 ### Root
-
-1 is the bottom note
 
 ```
 7....
@@ -1488,8 +1310,6 @@ Major triad with a minor 7th
 
 ### First Inversion
 
-3 is the bottom note
-
 ```
 7.1..
 ..5..
@@ -1509,8 +1329,6 @@ Major triad with a minor 7th
 
 ### Second Inversion
 
-5 is the bottom note
-
 ```
 .3.
 7.1
@@ -1518,8 +1336,6 @@ Major triad with a minor 7th
 ```
 
 ### Third Inversion
-
-7 is the bottom note
 
 ```
 .3..5
@@ -1538,8 +1354,6 @@ Dominant 7th with a 9th
 
 ### Root
 
-1 is the bottom note
-
 ```
 .7..
 3..5
@@ -1553,8 +1367,6 @@ Dominant 7th with a 9th
 ```
 
 ### First Inversion
-
-3 is the bottom note
 
 ```
 1.9.
@@ -1570,8 +1382,6 @@ Dominant 7th with a 9th
 
 ### Second Inversion
 
-5 is the bottom note
-
 ```
 1.9.3
 5..7.
@@ -1585,8 +1395,6 @@ Dominant 7th with a 9th
 
 ### Third Inversion
 
-7 is the bottom note
-
 ```
 .3..5
 7.1.9
@@ -1599,8 +1407,6 @@ Dominant 7th with a 9th
 ```
 
 ### Rootless, First Inversion
-
-3 is the bottom note
 
 ```
 ..9.
@@ -1616,8 +1422,6 @@ Dominant 7th with a 9th
 
 ### Rootless, Second Inversion
 
-5 is the bottom note
-
 ```
 ..9.3
 5..7.
@@ -1630,8 +1434,6 @@ Dominant 7th with a 9th
 ```
 
 ### Rootless, Third Inversion
-
-7 is the bottom note
 
 ```
 5..
@@ -1650,8 +1452,6 @@ Dominant 7th with a flat 9th
 
 ### Root
 
-1 is the bottom note
-
 ```
 .7..
 3..5
@@ -1659,8 +1459,6 @@ Dominant 7th with a flat 9th
 ```
 
 ### First Inversion
-
-3 is the bottom note
 
 ```
 .7.19
@@ -1675,8 +1473,6 @@ Dominant 7th with a flat 9th
 
 ### Second Inversion
 
-5 is the bottom note
-
 ```
 19..3
 5..7.
@@ -1690,16 +1486,12 @@ Dominant 7th with a flat 9th
 
 ### Third Inversion
 
-7 is the bottom note
-
 ```
 .3..5
 7.19.
 ```
 
 ### Rootless, First Inversion
-
-3 is the bottom note
 
 ```
 .7..9
@@ -1714,8 +1506,6 @@ Dominant 7th with a flat 9th
 
 ### Rootless, Second Inversion
 
-5 is the bottom note
-
 ```
 .9..3
 5..7.
@@ -1728,8 +1518,6 @@ Dominant 7th with a flat 9th
 ```
 
 ### Rootless, Third Inversion
-
-7 is the bottom note
 
 ```
 .3..5
@@ -1748,8 +1536,6 @@ Dominant 7th with a sharp 9th
 
 ### Root
 
-1 is the bottom note
-
 ```
 5..7
 .93.
@@ -1757,8 +1543,6 @@ Dominant 7th with a sharp 9th
 ```
 
 ### First Inversion
-
-3 is the bottom note
 
 ```
 .9..
@@ -1774,8 +1558,6 @@ Dominant 7th with a sharp 9th
 
 ### Second Inversion
 
-5 is the bottom note
-
 ```
 93.
 7.1
@@ -1789,8 +1571,6 @@ Dominant 7th with a sharp 9th
 
 ### Third Inversion
 
-7 is the bottom note
-
 ```
 93..5
 7.1..
@@ -1803,8 +1583,6 @@ Dominant 7th with a sharp 9th
 ```
 
 ### Rootless, First Inversion
-
-3 is the bottom note
 
 ```
 ...9
@@ -1820,8 +1598,6 @@ Dominant 7th with a sharp 9th
 
 ### Rootless, Second Inversion
 
-5 is the bottom note
-
 ```
 93.
 7..
@@ -1834,8 +1610,6 @@ Dominant 7th with a sharp 9th
 ```
 
 ### Rootless, Third Inversion
-
-7 is the bottom note
 
 ```
 5..
@@ -1854,8 +1628,6 @@ Augmented 7th with a flat 9th
 
 ### Root
 
-1 is the bottom note
-
 ```
 5.7.
 .3..
@@ -1863,8 +1635,6 @@ Augmented 7th with a flat 9th
 ```
 
 ### First Inversion
-
-3 is the bottom note
 
 ```
 .7.19
@@ -1878,8 +1648,6 @@ Augmented 7th with a flat 9th
 ```
 
 ### Second Inversion
-
-5 is the bottom note
 
 ```
 19..3
@@ -1899,8 +1667,6 @@ Augmented 7th with a flat 9th
 
 ### Third Inversion
 
-7 is the bottom note
-
 ```
 5...
 .3..
@@ -1908,8 +1674,6 @@ Augmented 7th with a flat 9th
 ```
 
 ### Rootless, First Inversion
-
-3 is the bottom note
 
 ```
 9..
@@ -1924,8 +1688,6 @@ Augmented 7th with a flat 9th
 
 ### Rootless, Second Inversion
 
-5 is the bottom note
-
 ```
 9..3
 5.7.
@@ -1938,8 +1700,6 @@ Augmented 7th with a flat 9th
 ```
 
 ### Rootless, Third Inversion
-
-7 is the bottom note
 
 ```
 ..5.
@@ -1959,8 +1719,6 @@ Augmented 7th with a sharp 9th
 
 ### Root
 
-1 is the bottom note
-
 ```
 5.7
 93.
@@ -1969,8 +1727,6 @@ Augmented 7th with a sharp 9th
 
 ### First Inversion
 
-3 is the bottom note
-
 ```
 1..9
 .5.7
@@ -1978,8 +1734,6 @@ Augmented 7th with a sharp 9th
 ```
 
 ### Second Inversion
-
-5 is the bottom note
 
 ```
 ..93.
@@ -1999,8 +1753,6 @@ Augmented 7th with a sharp 9th
 
 ### Third Inversion
 
-7 is the bottom note
-
 ```
 5..
 93.
@@ -2008,8 +1760,6 @@ Augmented 7th with a sharp 9th
 ```
 
 ### Rootless, First Inversion
-
-3 is the bottom note
 
 ```
 .9...
@@ -2025,8 +1775,6 @@ Augmented 7th with a sharp 9th
 
 ### Rootless, Second Inversion
 
-5 is the bottom note
-
 ```
 ..93
 5.7.
@@ -2040,8 +1788,6 @@ Augmented 7th with a sharp 9th
 
 ### Rootless, Third Inversion
 
-7 is the bottom note
-
 ```
 5.
 93
@@ -2053,8 +1799,6 @@ Augmented 7th with a sharp 9th
 Dominant 7th with a 9th and 13th (13th written as 6), 5th left out
 
 ### Root
-
-1 is the bottom note
 
 ```
 ..67
@@ -2070,8 +1814,6 @@ Dominant 7th with a 9th and 13th (13th written as 6), 5th left out
 
 ### First Inversion
 
-3 is the bottom note
-
 ```
 1.9.
 ..67
@@ -2086,8 +1828,6 @@ Dominant 7th with a 9th and 13th (13th written as 6), 5th left out
 
 ### Third Inversion
 
-7 is the bottom note
-
 ```
 ..6.
 9.3.
@@ -2096,8 +1836,6 @@ Dominant 7th with a 9th and 13th (13th written as 6), 5th left out
 
 ### Rootless, First Inversion
 
-3 is the bottom note
-
 ```
 9.
 67
@@ -2105,8 +1843,6 @@ Dominant 7th with a 9th and 13th (13th written as 6), 5th left out
 ```
 
 ### Rootless, Third Inversion
-
-7 is the bottom note
 
 ```
 ..6
@@ -2119,8 +1855,6 @@ Dominant 7th with a 9th and 13th (13th written as 6), 5th left out
 Major triad with the 3rd replaced by a 2nd
 
 ### Root
-
-1 is the bottom note
 
 ```
 ..5
@@ -2135,8 +1869,6 @@ Major triad with the 3rd replaced by a 2nd
 
 ### First Inversion
 
-2 is the bottom note
-
 ```
 1
 5
@@ -2144,8 +1876,6 @@ Major triad with the 3rd replaced by a 2nd
 ```
 
 ### Second Inversion
-
-5 is the bottom note
 
 ```
 1.2
@@ -2164,8 +1894,6 @@ Major triad with the 3rd replaced by a 4th
 
 ### Root
 
-1 is the bottom note
-
 ```
 4.5
 1..
@@ -2178,8 +1906,6 @@ Major triad with the 3rd replaced by a 4th
 ```
 
 ### First Inversion
-
-4 is the bottom note
 
 ```
 ..1
@@ -2194,8 +1920,6 @@ Major triad with the 3rd replaced by a 4th
 
 ### Second Inversion
 
-5 is the bottom note
-
 ```
 4
 1
@@ -2207,8 +1931,6 @@ Major triad with the 3rd replaced by a 4th
 Suspended 4th with a minor 7th
 
 ### Root
-
-1 is the bottom note
 
 ```
 7..
@@ -2224,8 +1946,6 @@ Suspended 4th with a minor 7th
 
 ### First Inversion
 
-4 is the bottom note
-
 ```
 7.1
 4.5
@@ -2238,8 +1958,6 @@ Suspended 4th with a minor 7th
 ```
 
 ### Second Inversion
-
-5 is the bottom note
 
 ```
 ..4
@@ -2254,8 +1972,6 @@ Suspended 4th with a minor 7th
 ```
 
 ### Third Inversion
-
-7 is the bottom note
 
 ```
 ..4.5
@@ -2280,8 +1996,6 @@ Dominant 7th suspended 4th with a 9th, 5th left out (also called an 11 chord)
 
 ### Root
 
-1 is the bottom note
-
 ```
 7..
 4..
@@ -2295,8 +2009,6 @@ Dominant 7th suspended 4th with a 9th, 5th left out (also called an 11 chord)
 ```
 
 ### First Inversion
-
-4 is the bottom note
 
 ```
 7.1.9
@@ -2316,8 +2028,6 @@ Dominant 7th suspended 4th with a 9th, 5th left out (also called an 11 chord)
 ```
 
 ### Third Inversion
-
-7 is the bottom note
 
 ```
 9..4
@@ -2341,8 +2051,6 @@ Root and 5th, no 3rd
 
 ### Root
 
-1 is the bottom note
-
 ```
 ..5
 1..
@@ -2355,8 +2063,6 @@ Root and 5th, no 3rd
 ```
 
 ### Second Inversion
-
-5 is the bottom note
 
 ```
 1
