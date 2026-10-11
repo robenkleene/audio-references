@@ -2,6 +2,8 @@
 
 ## Major Triad
 
+`C` (also `CM`, `Cmaj`)
+
 ### Root
 
 ```
@@ -42,6 +44,8 @@
 ```
 
 ## Major 7th
+
+`Cmaj7` (also `CM7`, `CΔ7`)
 
 Major triad with a major 7th
 
@@ -107,6 +111,8 @@ Major triad with a major 7th
 ```
 
 ## Major 6th
+
+`C6`
 
 Major triad with a major 6th
 
@@ -177,6 +183,8 @@ Major triad with a major 6th
 
 ## Major Added 9th
 
+`Cadd9`
+
 Major triad with a 9th and no 7th
 
 ### Root
@@ -231,6 +239,8 @@ Major triad with a 9th and no 7th
 ```
 
 ## Major 9th
+
+`Cmaj9` (also `CM9`, `CΔ9`)
 
 Major 7th with a 9th
 
@@ -342,6 +352,8 @@ Major 7th with a 9th
 
 ## Major 7th Sharp 11th
 
+`Cmaj7♯11` (also `CΔ7♯11`)
+
 Major 7th with a sharp 11th (written as 4)
 
 ### Root
@@ -422,6 +434,8 @@ Major 7th with a sharp 11th (written as 4)
 
 ## Major 13th
 
+`Cmaj13` (also `CM13`, `CΔ13`)
+
 Major 7th with a 9th and 13th (13th written as 6), 5th left out
 
 ### Root
@@ -496,6 +510,8 @@ Major 7th with a 9th and 13th (13th written as 6), 5th left out
 
 ## Minor Triad
 
+`Cm` (also `Cmin`, `C−`)
+
 ### Root
 
 ```
@@ -536,6 +552,8 @@ Major 7th with a 9th and 13th (13th written as 6), 5th left out
 ```
 
 ## Minor 7th
+
+`Cm7` (also `Cmin7`, `C−7`)
 
 Minor triad with a minor 7th
 
@@ -596,6 +614,8 @@ Minor triad with a minor 7th
 
 ## Minor 6th
 
+`Cm6` (also `C−6`)
+
 Minor triad with a major 6th
 
 ### Root
@@ -652,6 +672,8 @@ Minor triad with a major 6th
 ```
 
 ## Minor-Major 7th
+
+`Cm(maj7)` (also `CmM7`, `C−Δ7`)
 
 Minor triad with a major 7th
 
@@ -714,6 +736,8 @@ Minor triad with a major 7th
 
 ## Minor Added 9th
 
+`Cm(add9)`
+
 Minor triad with a 9th and no 7th
 
 ### Root
@@ -756,6 +780,8 @@ Minor triad with a 9th and no 7th
 ```
 
 ## Minor 9th
+
+`Cm9` (also `C−9`)
 
 Minor 7th with a 9th
 
@@ -848,6 +874,8 @@ Minor 7th with a 9th
 ```
 
 ## Minor 11th
+
+`Cm11` (also `C−11`)
 
 Minor 7th with an 11th (written as 4), 9th left out
 
@@ -970,6 +998,8 @@ Minor 7th with an 11th (written as 4), 9th left out
 
 ## Minor 13th
 
+`Cm13` (also `C−13`)
+
 Minor 7th with a 9th and 13th (13th written as 6), 5th left out
 
 ### Root
@@ -1014,6 +1044,8 @@ Minor 7th with a 9th and 13th (13th written as 6), 5th left out
 
 ## Diminished Triad
 
+`Cdim` (also `C°`)
+
 ### Root
 
 ```
@@ -1054,6 +1086,8 @@ Minor 7th with a 9th and 13th (13th written as 6), 5th left out
 ```
 
 ## Diminished 7th
+
+`Cdim7` (also `C°7`)
 
 Diminished triad with a diminished 7th
 
@@ -1117,6 +1151,8 @@ Diminished triad with a diminished 7th
 
 ## Half-Diminished 7th
 
+`Cm7♭5` (also `Cø7`)
+
 Diminished triad with a minor 7th
 
 ### Root
@@ -1174,6 +1210,8 @@ Diminished triad with a minor 7th
 
 ## Augmented Triad
 
+`Caug` (also `C+`)
+
 ### Root
 
 ```
@@ -1230,6 +1268,8 @@ Diminished triad with a minor 7th
 
 ## Augmented 7th
 
+`C7♯5` (also `Caug7`, `C+7`)
+
 Augmented triad with a minor 7th
 
 ### Root
@@ -1285,6 +1325,8 @@ Augmented triad with a minor 7th
 ```
 
 ## Dominant 7th
+
+`C7`
 
 Major triad with a minor 7th
 
@@ -1349,6 +1391,8 @@ Major triad with a minor 7th
 ```
 
 ## Dominant 9th
+
+`C9`
 
 Dominant 7th with a 9th
 
@@ -1448,6 +1492,8 @@ Dominant 7th with a 9th
 
 ## Dominant 7th Flat 9th
 
+`C7♭9`
+
 Dominant 7th with a flat 9th
 
 ### Root
@@ -1531,6 +1577,8 @@ Dominant 7th with a flat 9th
 ```
 
 ## Dominant 7th Sharp 9th
+
+`C7♯9`
 
 Dominant 7th with a sharp 9th
 
@@ -1624,6 +1672,8 @@ Dominant 7th with a sharp 9th
 
 ## Dominant 7th Sharp 5th Flat 9th
 
+`C7♯5♭9` (also `C+7♭9`)
+
 Augmented 7th with a flat 9th
 
 ### Root
@@ -1715,6 +1765,8 @@ Augmented 7th with a flat 9th
 
 ## Dominant 7th Sharp 5th Sharp 9th
 
+`C7♯5♯9` (also `C+7♯9`)
+
 Augmented 7th with a sharp 9th
 
 ### Root
@@ -1796,6 +1848,8 @@ Augmented 7th with a sharp 9th
 
 ## Dominant 13th
 
+`C13`
+
 Dominant 7th with a 9th and 13th (13th written as 6), 5th left out
 
 ### Root
@@ -1852,6 +1906,8 @@ Dominant 7th with a 9th and 13th (13th written as 6), 5th left out
 
 ## Suspended 2nd
 
+`Csus2`
+
 Major triad with the 3rd replaced by a 2nd
 
 ### Root
@@ -1890,6 +1946,8 @@ Major triad with the 3rd replaced by a 2nd
 
 ## Suspended 4th
 
+`Csus4` (also `Csus`)
+
 Major triad with the 3rd replaced by a 4th
 
 ### Root
@@ -1927,6 +1985,8 @@ Major triad with the 3rd replaced by a 4th
 ```
 
 ## Dominant 7th Suspended 4th
+
+`C7sus4` (also `C7sus`)
 
 Suspended 4th with a minor 7th
 
@@ -1992,6 +2052,8 @@ Suspended 4th with a minor 7th
 
 ## Dominant 9th Suspended 4th
 
+`C9sus4` (also `C9sus`, `C11`)
+
 Dominant 7th suspended 4th with a 9th, 5th left out (also called an 11 chord)
 
 ### Root
@@ -2046,6 +2108,8 @@ Dominant 7th suspended 4th with a 9th, 5th left out (also called an 11 chord)
 ```
 
 ## Power Chord
+
+`C5`
 
 Root and 5th, no 3rd
 
