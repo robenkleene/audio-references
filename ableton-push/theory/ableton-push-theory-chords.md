@@ -16,8 +16,8 @@
 #### Alternative Fingering
 
 ```
-3...5
-.1...
+3..5
+.1..
 ```
 
 #### Second Alternative Fingering
@@ -149,8 +149,8 @@ Major triad with a major 7th
 #### Fingering
 
 ```
-...5.
-1...3
+..5.
+1..3
 ```
 
 #### Alternative Fingering
@@ -210,16 +210,16 @@ Minor triad with a minor 7th
 #### Fingering
 
 ```
-7....
-...5.
-1...3
+7...
+..5.
+1..3
 ```
 
 #### Alternative Fingering
 
 ```
-5...7
-.3...
+.5..7
+..3..
 ....1
 ```
 
@@ -285,22 +285,22 @@ Minor triad with a minor 7th
 #### Fingering
 
 ```
-.5...
-1...3
+.5..
+1..3
 ```
 
 #### Alternative Fingering
 
 ```
-3.5
-.1.
+3..5
+..1.
 ```
 
 #### Second Alternative Fingering
 
 ```
 5....
-...3.
+..3..
 ....1
 ```
 
@@ -311,16 +311,16 @@ Minor triad with a minor 7th
 #### Fingering
 
 ```
-.1..
-5...
-...3
+.1.
+5..
+..3
 ```
 
 #### Alternative Fingering
 
 ```
-...1
-3.5.
+....1
+3..5.
 ```
 
 ### Second Inversion
@@ -328,9 +328,9 @@ Minor triad with a minor 7th
 5 is the bottom note
 
 ```
-3.
-.1
-5.
+3..
+..1
+.5.
 ```
 
 ## Diminished 7th
