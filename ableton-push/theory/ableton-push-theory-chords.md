@@ -197,7 +197,7 @@ Major triad with a major 6th
 6..1
 ```
 
-## Add9
+## Major Added 9th
 
 Major triad with a 9th and no 7th
 
@@ -382,7 +382,7 @@ Major 7th with a 9th
 ..7
 ```
 
-## Major 7th ♯11
+## Major 7th Sharp 11th
 
 Major 7th with a sharp 11th (written as 4)
 
@@ -808,7 +808,7 @@ Minor triad with a major 7th
 ..71
 ```
 
-## Minor Add9
+## Minor Added 9th
 
 Minor triad with a 9th and no 7th
 
@@ -1644,7 +1644,7 @@ Dominant 7th with a 9th
 7...9
 ```
 
-## Dominant 7th ♭9
+## Dominant 7th Flat 9th
 
 Dominant 7th with a flat 9th
 
@@ -1742,7 +1742,7 @@ Dominant 7th with a flat 9th
 ..7.
 ```
 
-## Dominant 7th ♯9
+## Dominant 7th Sharp 9th
 
 Dominant 7th with a sharp 9th
 
@@ -1848,7 +1848,7 @@ Dominant 7th with a sharp 9th
 7....
 ```
 
-## Dominant 7th ♭9 ♯5
+## Dominant 7th Sharp 5th Flat 9th
 
 Augmented 7th with a flat 9th
 
@@ -1953,7 +1953,7 @@ Augmented 7th with a flat 9th
 7..9
 ```
 
-## Dominant 7th ♯5 ♯9
+## Dominant 7th Sharp 5th Sharp 9th
 
 Augmented 7th with a sharp 9th
 
@@ -2114,7 +2114,7 @@ Dominant 7th with a 9th and 13th (13th written as 6), 5th left out
 .7.
 ```
 
-## Sus2
+## Suspended 2nd
 
 Major triad with the 3rd replaced by a 2nd
 
@@ -2158,7 +2158,7 @@ Major triad with the 3rd replaced by a 2nd
 ...5
 ```
 
-## Sus4
+## Suspended 4th
 
 Major triad with the 3rd replaced by a 4th
 
@@ -2202,9 +2202,9 @@ Major triad with the 3rd replaced by a 4th
 5
 ```
 
-## 7sus4
+## Dominant 7th Suspended 4th
 
-Sus4 with a minor 7th
+Suspended 4th with a minor 7th
 
 ### Root
 
@@ -2274,9 +2274,9 @@ Sus4 with a minor 7th
 .7.1
 ```
 
-## 9sus4
+## Dominant 9th Suspended 4th
 
-7sus4 with a 9th, 5th left out (also called an 11 chord)
+Dominant 7th suspended 4th with a 9th, 5th left out (also called an 11 chord)
 
 ### Root
 

@@ -701,7 +701,7 @@ Dominant 7th, Third Inversion
 
 ### `VI i I7`
 
-In A minor: Fmaj7 – Am7 – A7♭9♯5
+In A minor: Fmaj7 – Am7 – A7♯5♭9
 
 #### VI (Fmaj7)
 
@@ -723,9 +723,9 @@ Minor 7th, Third Inversion
 ...7.1
 ```
 
-#### I7 (A7♭9♯5)
+#### I7 (A7♯5♭9)
 
-Dominant 7th ♭9 ♯5, Rootless, Third Inversion
+Dominant 7th Sharp 5th Flat 9th, Rootless, Third Inversion
 
 ```
 ...5..
@@ -772,7 +772,7 @@ Dominant 7th, Root
 
 #### V, Bonus (E7♯5♯9)
 
-Dominant 7th ♯5 ♯9, Rootless, First Inversion
+Dominant 7th Sharp 5th Sharp 9th, Rootless, First Inversion
 
 ```
 ...9...
@@ -781,7 +781,7 @@ Dominant 7th ♯5 ♯9, Rootless, First Inversion
 .......
 ```
 
-Dominant 7th ♯5 ♯9, Rootless, First Inversion
+Dominant 7th Sharp 5th Sharp 9th, Rootless, First Inversion
 
 ```
 ...9...
