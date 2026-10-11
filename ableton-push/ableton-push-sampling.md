@@ -13,3 +13,6 @@ The input volume can be boosted in `Preferences > Audio`
 1. On an `Audio Track`, hold `Record` and push the track button to arm it
 2. Push `Record` to start recording
 
+## Convert to Instrument
+
+Push `convert` then choose a destination instrument (e.g., `Simpler`, `Drum Rack`, etc...)
