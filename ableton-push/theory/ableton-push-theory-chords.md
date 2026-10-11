@@ -6,21 +6,21 @@
 
 1 is the bottom note
 
-#### Natural Fingering
+#### Fingering
 
 ```
 ..5..
 1...3
 ```
 
-#### First Fingering
+#### Alternative Fingering
 
 ```
 3...5
 .1...
 ```
 
-#### Second Fingering
+#### Second Alternative Fingering
 
 ```
 5...
@@ -40,11 +40,11 @@
 ..3
 ```
 
-#### First Fingering
+#### Alternative Fingering
 
 ```
-   1
-3  5
+...1
+3..5
 ```
 
 ### Second Inversion
@@ -52,9 +52,9 @@
 5 is the bottom note
 
 ```
-3
- 1
- 5
+3..
+.1.
+.5.
 ```
 
 ## Major 7th
@@ -65,55 +65,77 @@ Major triad with a major 7th
 
 1 is the bottom note
 
+#### Fingering
+
 ```
- 7
-  5
-1   3
+.7...
+..5..
+1...3
+```
 
-  7
-3  5
- 1
+#### Alternative Fingering
 
-7
- 5
-   3
-    1
+```
+..7.
+3..5
+.1..
+```
+
+#### Second Alternative Fingering
+
+```
+7....
+.5...
+...3.
+....1
 ```
 
 ### First Inversion
 
 3 is the bottom note
 
-```
-71
- 5
-   3
+#### Natural Fingering
 
-  71
-3  5
+```
+71..
+.5..
+...3
+```
+
+```
+..71
+3..5
 ```
 
 ### Second Inversion
 
 5 is the bottom note
 
+#### Fingering
+
 ```
-3
+3.
 71
- 5
+.5
 ```
 
 ### Third Inversion
 
 7 is the bottom note
 
-```
-3  5
-71
+#### Fingering
 
-5
-  3
-  71
+```
+3..5
+71..
+```
+
+#### Alternative Fingering
+
+```
+5...
+..3.
+..71
 ```
 
 ## Minor Triad
@@ -122,26 +144,26 @@ Major triad with a major 7th
 
 1 is the bottom note
 
-#### Natural Fingering
+#### Fingering
 
 ```
-   5
-1   3
+...5.
+1...3
 ```
 
-#### First Fingering
+#### Alternative Fingering
 
 ```
-3   5
-  1
+3...5
+..1..
 ```
 
-#### Second Fingering
+#### Second Alternative Fignering
 
 ```
-5
- 3
-   1
+5...
+.3..
+...1
 ```
 
 ### First Inversion
