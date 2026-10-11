@@ -13,14 +13,14 @@
 1   3
 ```
 
-#### First Fingering Inversion
+#### First Fingering
 
 ```
 3   5
  1
 ```
 
-#### Second Fingering Inversion
+#### Second Fingering
 ```
 5
   3
@@ -122,14 +122,14 @@ Major triad with a major 7th
 1   3
 ```
 
-#### First Fingering Inversion
+#### First Fingering
 
 ```
 3   5
   1
 ```
 
-#### Second Fingering Inversion
+#### Second Fingering
 
 ```
 5
@@ -232,14 +232,14 @@ Minor triad with a minor 7th
 1   3
 ```
 
-#### First Fingering Inversion
+#### First Fingering
 
 ```
 3 5
  1
 ```
 
-#### Second Fingering Inversion
+#### Second Fingering
 
 ```
 5
