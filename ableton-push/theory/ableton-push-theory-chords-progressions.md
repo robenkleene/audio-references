@@ -1,17 +1,8 @@
 # Ableton Push Chord Progressions
 
-Progressions using the shapes from `ableton-push-theory-chords.md`. Every progression fits within 4 rows × 8 pads, so it plays the same on Push's 8 × 8 grid and on Move's 4 × 8 grid.
-
-## Setup
-
-- Chromatic note mode with the 4ths layout. One pad to the right is +1 semitone, and one row up is +5.
 - Put the first chord's shape on any pad that plays that chord's root. Every other chord follows from there.
-
-## Reading the Diagrams
-
 - Each diagram is cropped to the area the whole progression uses, so every chord in a progression shows the same window of pads. Where a chord sits in its box is where your hand goes relative to the other chords.
-- Numbers are chord tones of that chord (1, 3, 5, 7, 9), the same as the chord reference. `.` is a pad you don't play.
-- Under each chord is the shape it uses from the chord reference (chord type and inversion).
+- Under each chord is the shape it uses from the chord files (chord type and inversion).
 - Voicings in the later progressions were picked to keep your hand as still as possible through the loop, including the move from the last chord back to the first.
 
 ## Major
