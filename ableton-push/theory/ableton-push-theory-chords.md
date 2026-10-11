@@ -2,14 +2,6 @@
 
 Chord shapes for the pad grid, shared by the chord files below. Push and Move both use this layout, so every shape plays the same on either.
 
-## Files
-
-- `ableton-push-theory-chords-basic.md`: triads and 7th chords
-- `ableton-push-theory-chords-added.md`: 6ths, added 9ths, suspended chords and power chords
-- `ableton-push-theory-chords-extended.md`: 9th, 11th and 13th chords
-- `ableton-push-theory-chords-altered.md`: dominant 7th chords with an altered 5th or 9th
-- `ableton-push-theory-chords-progressions.md`: chord progressions using these shapes
-
 ## Layout
 
 - Chromatic note mode with the 4ths layout. One pad to the right is +1 semitone, and one row up is +5 (a 4th).
