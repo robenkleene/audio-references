@@ -9,33 +9,40 @@
 #### Natural Fingering
 
 ```
-  5
-1   3
+..5..
+1...3
 ```
 
 #### First Fingering
 
 ```
-3   5
- 1
+3...5
+.1...
 ```
 
 #### Second Fingering
+
 ```
-5
-  3
-   1
+5...
+..3.
+...1
 ```
 
 ### First Inversion
 
 3 is the bottom note
 
-```
-1
-5
-  3
+#### Natural Fingering
 
+```
+1..
+5..
+..3
+```
+
+#### First Fingering
+
+```
    1
 3  5
 ```
