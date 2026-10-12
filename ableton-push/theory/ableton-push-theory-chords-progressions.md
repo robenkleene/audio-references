@@ -1,9 +1,9 @@
 # Ableton Push Chord Progressions
 
-- Put the first chord's shape on any pad that plays that chord's root. Every other chord follows from there.
-- Each diagram is cropped to the area the whole progression uses, so every chord in a progression shows the same window of pads. Where a chord sits in its box is where your hand goes relative to the other chords.
+- `R` marks the key's root. The bottom-left pad of each diagram is the bottom-left pad of the grid, which plays the key's root in chromatic mode. Every other `R` matches a pad the device lights as a root. When a chord plays a root pad, that pad shows the chord tone's number instead.
+- Each diagram shows the smallest area, starting from the bottom-left pad, that fits every chord in the progression. All of a progression's diagrams show the same window of pads.
 - Under each chord is the shape it uses from the chord files (chord type and inversion).
-- Voicings in the later progressions were picked to keep your hand as still as possible through the loop, including the move from the last chord back to the first.
+- Shapes were picked to fit the smallest area first, then to keep your hand as still as possible through the loop, including the move from the last chord back to the first.
 
 ## Major
 
@@ -16,9 +16,9 @@ In C major: F – Dm – Em
 Major Triad, Root
 
 ```
-..5.....
-1...3...
-........
+..5..
+1...3
+R....
 ```
 
 #### ii (Dm)
@@ -26,9 +26,9 @@ Major Triad, Root
 Minor Triad, Root
 
 ```
-........
-....5...
-..1..3..
+..R..
+3...5
+R.1..
 ```
 
 #### iii (Em)
@@ -36,9 +36,9 @@ Minor Triad, Root
 Minor Triad, Root
 
 ```
-........
-......5.
-....1..3
+.5R..
+..3..
+R...1
 ```
 
 ### `ii V I`
@@ -50,19 +50,19 @@ In C major: Dm7 – G7 – Cmaj7
 Minor 7th, Root
 
 ```
-5..7
-.3..
-...1
+..7...
+....5.
+R.1..3
 ```
 
 #### V (G7)
 
-Dominant 7th, Second Inversion
+Dominant 7th, Third Inversion
 
 ```
-..3.
-.7.1
-...5
+.3R.5.
+7.1...
+R.....
 ```
 
 #### I (Cmaj7)
@@ -70,9 +70,9 @@ Dominant 7th, Second Inversion
 Major 7th, Root
 
 ```
-..7.
-3..5
-.1..
+.7R...
+..5...
+1...3.
 ```
 
 ### `I V vi IV`
@@ -83,12 +83,12 @@ In C major: C – G – Am – F
 
 #### I (C)
 
-Major Triad, Root
+Major Triad, First Inversion
 
 ```
-3..5
-.1..
-....
+..1..
+..5..
+R...3
 ```
 
 #### V (G)
@@ -96,29 +96,29 @@ Major Triad, Root
 Major Triad, Root
 
 ```
-....
-3..5
-.1..
+.3R.5
+..1..
+R....
 ```
 
 #### vi (Am)
 
-Minor Triad, Root
+Minor Triad, Second Inversion
 
 ```
-5...
-.3..
-...1
+..3..
+....1
+R...5
 ```
 
 #### IV (F)
 
-Major Triad, First Inversion
+Major Triad, Root
 
 ```
-.1..
-.5..
-...3
+..5..
+1...3
+R....
 ```
 
 ### `vi IV I V`
@@ -129,35 +129,32 @@ In C major: Am – F – C – G
 
 #### vi (Am)
 
-Minor Triad, Root
+Minor Triad, Second Inversion
 
 ```
-....
-..5.
-1..3
-....
+..3..
+....1
+R...5
 ```
 
 #### IV (F)
 
-Major Triad, First Inversion
+Major Triad, Root
 
 ```
-....
-...1
-3..5
-....
+..5..
+1...3
+R....
 ```
 
 #### I (C)
 
-Major Triad, Root
+Major Triad, First Inversion
 
 ```
-5...
-..3.
-...1
-....
+..1..
+..5..
+R...3
 ```
 
 #### V (G)
@@ -165,10 +162,9 @@ Major Triad, Root
 Major Triad, Root
 
 ```
-....
-5...
-..3.
-...1
+.3R.5
+..1..
+R....
 ```
 
 ### `I vi IV V`
@@ -179,32 +175,32 @@ In C major: C – Am – F – G
 
 #### I (C)
 
-Major Triad, Root
+Major Triad, First Inversion
 
 ```
-3..5
-.1..
-....
+..1..
+..5..
+R...3
 ```
 
 #### vi (Am)
 
-Minor Triad, Root
+Minor Triad, Second Inversion
 
 ```
-5...
-.3..
-...1
+..3..
+....1
+R...5
 ```
 
 #### IV (F)
 
-Major Triad, First Inversion
+Major Triad, Root
 
 ```
-.1..
-.5..
-...3
+..5..
+1...3
+R....
 ```
 
 #### V (G)
@@ -212,9 +208,9 @@ Major Triad, First Inversion
 Major Triad, Root
 
 ```
-....
-3..5
-.1..
+.3R.5
+..1..
+R....
 ```
 
 ### `I IV V IV`
@@ -228,7 +224,7 @@ In C major: C – F – G – F
 Major Triad, Root
 
 ```
-.....
+..R..
 ..5..
 1...3
 ```
@@ -240,7 +236,7 @@ Major Triad, Root
 ```
 ..5..
 1...3
-.....
+R....
 ```
 
 #### V (G)
@@ -248,9 +244,9 @@ Major Triad, Root
 Major Triad, Root
 
 ```
-.3..5
+.3R.5
 ..1..
-.....
+R....
 ```
 
 #### IV (F)
@@ -260,7 +256,7 @@ Major Triad, Root
 ```
 ..5..
 1...3
-.....
+R....
 ```
 
 ### `I ♭VII IV I`
@@ -274,29 +270,29 @@ In C major: C – Bb – F – C
 Major Triad, Root
 
 ```
-.3..5
-..1..
-.....
+..R..
+..5..
+1...3
 ```
 
 #### ♭VII (Bb)
+
+Major Triad, First Inversion
+
+```
+1.R..
+5....
+R.3..
+```
+
+#### IV (F)
 
 Major Triad, Root
 
 ```
 ..5..
 1...3
-.....
-```
-
-#### IV (F)
-
-Major Triad, First Inversion
-
-```
-..1..
-..5..
-....3
+R....
 ```
 
 #### I (C)
@@ -304,9 +300,9 @@ Major Triad, First Inversion
 Major Triad, Root
 
 ```
-.3..5
-..1..
-.....
+..R..
+..5..
+1...3
 ```
 
 ### `I III IV iv`
@@ -317,42 +313,42 @@ In C major: C – E – F – Fm
 
 #### I (C)
 
-Major Triad, Root
+Major Triad, First Inversion
 
 ```
-5...
-..3.
-...1
+..1..
+..5..
+R...3
 ```
 
 #### III (E)
 
-Major Triad, Second Inversion
+Major Triad, Root
 
 ```
-.3..
-..1.
-..5.
+.5R..
+...3.
+R...1
 ```
 
 #### IV (F)
 
-Major Triad, Second Inversion
+Major Triad, Root
 
 ```
-..3.
-...1
-...5
+..5..
+1...3
+R....
 ```
 
 #### iv (Fm)
 
-Minor Triad, Second Inversion
+Minor Triad, Root
 
 ```
-.3..
-...1
-...5
+..5..
+1..3.
+R....
 ```
 
 ### `I I+ IV iv`
@@ -366,9 +362,9 @@ In C major: C – Caug – F – Fm
 Major Triad, Root
 
 ```
-5...
-..3.
-...1
+..R..
+..5..
+1...3
 ```
 
 #### I+ (Caug)
@@ -376,29 +372,29 @@ Major Triad, Root
 Augmented Triad, Root
 
 ```
-.5..
-..3.
-...1
+..R..
+...5.
+1...3
 ```
 
 #### IV (F)
 
-Major Triad, Second Inversion
+Major Triad, Root
 
 ```
-..3.
-...1
-...5
+..5..
+1...3
+R....
 ```
 
 #### iv (Fm)
 
-Minor Triad, Second Inversion
+Minor Triad, Root
 
 ```
-.3..
-...1
-...5
+..5..
+1..3.
+R....
 ```
 
 ### `I ♯i°7 ii V7`
@@ -412,9 +408,9 @@ In C major: C – C#dim7 – Dm – G7
 Major Triad, Root
 
 ```
+..R...
 ..5...
 1...3.
-......
 ```
 
 #### ♯i°7 (C#dim7)
@@ -422,9 +418,9 @@ Major Triad, Root
 Diminished 7th, Root
 
 ```
+..R...
 ..5..7
-.1..3.
-......
+R1..3.
 ```
 
 #### ii (Dm)
@@ -432,19 +428,19 @@ Diminished 7th, Root
 Minor Triad, Root
 
 ```
+..R...
 3...5.
-..1...
-......
+R.1...
 ```
 
 #### V7 (G7)
 
-Dominant 7th, First Inversion
+Dominant 7th, Second Inversion
 
 ```
+.3R...
 7.1...
-..5...
-....3.
+R.5...
 ```
 
 ### `I V vi iii IV I IV V`
@@ -455,13 +451,12 @@ In C major: C – G – Am – Em – F – C – F – G
 
 #### I (C)
 
-Major Triad, Root
+Major Triad, First Inversion
 
 ```
+..1..
 ..5..
-1...3
-.....
-.....
+R...3
 ```
 
 #### V (G)
@@ -469,21 +464,19 @@ Major Triad, Root
 Major Triad, Root
 
 ```
-.....
-..5..
-1...3
-.....
+.3R.5
+..1..
+R....
 ```
 
 #### vi (Am)
 
-Minor Triad, Root
+Minor Triad, Second Inversion
 
 ```
-.....
-3...5
-..1..
-.....
+..3..
+....1
+R...5
 ```
 
 #### iii (Em)
@@ -491,10 +484,9 @@ Minor Triad, Root
 Minor Triad, Root
 
 ```
-.....
-.....
-3...5
-..1..
+.5R..
+..3..
+R...1
 ```
 
 #### IV (F)
@@ -502,21 +494,19 @@ Minor Triad, Root
 Major Triad, Root
 
 ```
-.....
-5....
-..3..
-...1.
+..5..
+1...3
+R....
 ```
 
 #### I (C)
 
-Major Triad, First Inversion
+Major Triad, Root
 
 ```
-.....
-1....
-5....
-..3..
+..R..
+..5..
+1...3
 ```
 
 #### IV (F)
@@ -524,10 +514,9 @@ Major Triad, First Inversion
 Major Triad, Root
 
 ```
-.....
-5....
-..3..
-...1.
+..5..
+1...3
+R....
 ```
 
 #### V (G)
@@ -535,10 +524,9 @@ Major Triad, Root
 Major Triad, Root
 
 ```
-.....
-..5..
-1...3
-.....
+.3R.5
+..1..
+R....
 ```
 
 ### `Imaj7 vi7 ii7 V7`
@@ -549,42 +537,42 @@ In C major: Cmaj7 – Am7 – Dm7 – G7
 
 #### Imaj7 (Cmaj7)
 
-Major 7th, Third Inversion
+Major 7th, First Inversion
 
 ```
-3..5
-71..
-....
+.71...
+..5...
+R...3.
 ```
 
 #### vi7 (Am7)
 
-Minor 7th, Root
+Minor 7th, Second Inversion
 
 ```
-5..7
-.3..
-...1
+..3...
+..7.1.
+R...5.
 ```
 
 #### ii7 (Dm7)
 
-Minor 7th, Second Inversion
+Minor 7th, Root
 
 ```
-.3..
-.7.1
-...5
+..7...
+....5.
+R.1..3
 ```
 
 #### V7 (G7)
 
-Dominant 7th, Root
+Dominant 7th, Third Inversion
 
 ```
-.7..
-3..5
-.1..
+.3R.5.
+7.1...
+R.....
 ```
 
 ### `Imaj7 IVmaj7`
@@ -595,22 +583,20 @@ In C major: Cmaj7 – Fmaj7
 
 #### Imaj7 (Cmaj7)
 
-Major 7th, Second Inversion
+Major 7th, First Inversion
 
 ```
-.3...
-.71..
-..5..
+......71
+R...3..5
 ```
 
 #### IVmaj7 (Fmaj7)
 
-Major 7th, Root
+Major 7th, Third Inversion
 
 ```
-.7...
-..5..
-1...3
+....3..5
+R...71..
 ```
 
 ### `I7 IV7 I7 V7 IV7 I7`
@@ -621,24 +607,22 @@ In C major: C7 – F7 – C7 – G7 – F7 – C7
 
 #### I7 (C7)
 
-Dominant 7th, Third Inversion
+Dominant 7th, First Inversion
 
 ```
-5...
-..3.
-.7.1
-....
+..1...
+..5..7
+R...3.
 ```
 
 #### IV7 (F7)
 
-Dominant 7th, First Inversion
+Dominant 7th, Third Inversion
 
 ```
-....
-.7.1
-3..5
-....
+..5...
+....3.
+R..7.1
 ```
 
 #### I7 (C7)
@@ -646,10 +630,9 @@ Dominant 7th, First Inversion
 Dominant 7th, First Inversion
 
 ```
-....
-....
-.7.1
-3..5
+..1...
+..5..7
+R...3.
 ```
 
 #### V7 (G7)
@@ -657,32 +640,29 @@ Dominant 7th, First Inversion
 Dominant 7th, Third Inversion
 
 ```
-....
-5...
-..3.
-.7.1
+.3R.5.
+7.1...
+R.....
 ```
 
 #### IV7 (F7)
 
-Dominant 7th, Root
+Dominant 7th, Third Inversion
 
 ```
-....
-.7..
-3..5
-.1..
+..5...
+....3.
+R..7.1
 ```
 
 #### I7 (C7)
 
-Dominant 7th, Third Inversion
+Dominant 7th, First Inversion
 
 ```
-5...
-..3.
-.7.1
-....
+..1...
+..5..7
+R...3.
 ```
 
 ## Minor
@@ -693,32 +673,35 @@ In A minor: Fmaj7 – Am7 – A7♯5♭9
 
 #### VI (Fmaj7)
 
-Major 7th, Root
+Major 7th, Third Inversion
 
 ```
-..7...
-3..5..
-.1....
+5...
+..3.
+..71
+R...
 ```
 
 #### i (Am7)
 
-Minor 7th, Third Inversion
+Minor 7th, First Inversion
 
 ```
-..5...
-...3..
-...7.1
+....
+7.1.
+..5.
+R..3
 ```
 
 #### I7 (A7♯5♭9)
 
-Dominant 7th Sharp 5th Flat 9th, Rootless, Third Inversion
+Dominant 7th Sharp 5th Flat 9th, Rootless, Second Inversion
 
 ```
-...5..
-.9..3.
-...7..
+.3..
+7.R9
+...5
+R...
 ```
 
 ### `iv V i`
@@ -729,53 +712,53 @@ In A minor: Dm7 – E7 – E7♯5♯9 (bonus) – Am9
 
 #### iv (Dm7)
 
-Minor 7th, First Inversion
+Minor 7th, Root
 
 ```
-.......
-...1...
-...5..7
-....3..
+7....
+..5..
+1..3.
+R....
 ```
 
 #### V (E7)
 
-Dominant 7th, Root
+Dominant 7th, Second Inversion
 
 ```
-.......
-...7...
-..3..5.
-...1...
+.....
+.3R..
+7.1..
+R.5..
 ```
 
-Dominant 7th, Root
+Dominant 7th, Third Inversion
 
 ```
-.......
-5..7...
-..3....
-...1...
+.....
+.3R.5
+7.1..
+R....
 ```
 
 #### V, Bonus (E7♯5♯9)
 
-Dominant 7th Sharp 5th Sharp 9th, Rootless, First Inversion
+Dominant 7th Sharp 5th Sharp 9th, Rootless, Second Inversion
 
 ```
-...9...
-...7...
-..3...5
-.......
+.....
+93R..
+7....
+R..5.
 ```
 
-Dominant 7th Sharp 5th Sharp 9th, Rootless, First Inversion
+Dominant 7th Sharp 5th Sharp 9th, Rootless, Third Inversion
 
 ```
-...9...
-.5.7...
-..3....
-.......
+5....
+93R..
+7....
+R....
 ```
 
 #### i (Am9)
@@ -783,10 +766,10 @@ Dominant 7th Sharp 5th Sharp 9th, Rootless, First Inversion
 Minor 9th, Rootless, Third Inversion
 
 ```
-.......
-.....5.
-.....93
-......7
+3...5
+7.R.9
+.....
+R....
 ```
 
 ### `VI VII i`
@@ -795,22 +778,22 @@ In A minor: F – G – Am
 
 #### VI (F)
 
-Major Triad, Root
+Major Triad, First Inversion
 
 ```
-......
-3..5..
-.1....
+..R.
+...1
+3..5
 ```
 
 #### VII (G)
 
-Major Triad, Root
+Major Triad, First Inversion
 
 ```
-......
-..3..5
-...1..
+1.R.
+5...
+R.3.
 ```
 
 #### i (Am)
@@ -818,9 +801,9 @@ Major Triad, Root
 Minor Triad, Root
 
 ```
-..5...
-1..3..
-......
+..R.
+..5.
+1..3
 ```
 
 ### `i VI III VII`
@@ -834,9 +817,9 @@ In C minor: Cm – Ab – Eb – Bb
 Minor Triad, Root
 
 ```
+..R.
 ..5.
 1..3
-....
 ```
 
 #### VI (Ab)
@@ -844,29 +827,29 @@ Minor Triad, Root
 Major Triad, First Inversion
 
 ```
+..R.
 ...1
 3..5
-....
 ```
 
 #### III (Eb)
 
-Major Triad, First Inversion
+Major Triad, Root
 
 ```
-....
-...1
-3..5
+5.R.
+..3.
+R..1
 ```
 
 #### VII (Bb)
 
-Major Triad, Root
+Major Triad, First Inversion
 
 ```
+1.R.
 5...
-..3.
-...1
+R.3.
 ```
 
 ### `i VII VI V`
@@ -877,42 +860,42 @@ In C minor: Cm – Bb – Ab – G
 
 #### i (Cm)
 
-Minor Triad, Root
+Minor Triad, First Inversion
 
 ```
-...5.
-.1..3
-.....
+..1.
+..5.
+R..3
 ```
 
 #### VII (Bb)
 
-Major Triad, Root
+Major Triad, First Inversion
 
 ```
-.5...
-...3.
-....1
+1.R.
+5...
+R.3.
 ```
 
 #### VI (Ab)
 
-Major Triad, First Inversion
+Major Triad, Second Inversion
 
 ```
-....1
-.3..5
-.....
+..3.
+...1
+R..5
 ```
 
 #### V (G)
 
-Major Triad, First Inversion
+Major Triad, Second Inversion
 
 ```
-...1.
-3..5.
-.....
+.3R.
+..1.
+R.5.
 ```
 
 ### `i ii° V i`
@@ -926,8 +909,9 @@ In C minor: Cm – Ddim – G – Cm
 Minor Triad, Root
 
 ```
-...5.
-.1..3
+..R.
+..5.
+1..3
 ```
 
 #### ii° (Ddim)
@@ -935,17 +919,19 @@ Minor Triad, Root
 Diminished Triad, Root
 
 ```
-.3..5
-...1.
+..R.
+3..5
+R.1.
 ```
 
 #### V (G)
 
-Major Triad, First Inversion
+Major Triad, Second Inversion
 
 ```
-...1.
-3..5.
+.3R.
+..1.
+R.5.
 ```
 
 #### i (Cm)
@@ -953,8 +939,9 @@ Major Triad, First Inversion
 Minor Triad, Root
 
 ```
-...5.
-.1..3
+..R.
+..5.
+1..3
 ```
 
 ### `i iv vii°7 i`
@@ -968,7 +955,7 @@ In C minor: Cm – Fm – Bdim7 – Cm
 Minor Triad, Root
 
 ```
-....
+..R.
 ..5.
 1..3
 ```
@@ -980,7 +967,7 @@ Minor Triad, Root
 ```
 ..5.
 1..3
-....
+R...
 ```
 
 #### vii°7 (Bdim7)
@@ -988,9 +975,9 @@ Minor Triad, Root
 Diminished 7th, First Inversion
 
 ```
-.1..
+.1R.
 5..7
-..3.
+R.3.
 ```
 
 #### i (Cm)
@@ -998,7 +985,7 @@ Diminished 7th, First Inversion
 Minor Triad, Root
 
 ```
-....
+..R.
 ..5.
 1..3
 ```
@@ -1014,7 +1001,7 @@ In C minor: Cm7 – Fm7
 Minor 7th, Root
 
 ```
-7...
+7.R.
 ..5.
 1..3
 ```
@@ -1024,7 +1011,7 @@ Minor 7th, Root
 Minor 7th, Second Inversion
 
 ```
-....
+..R.
 1..3
 5..7
 ```
